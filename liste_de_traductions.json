@@ -1,242 +1,3754 @@
 [
-    {"anglais": "Ampersand", "français": "Esperluette", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Angle bracket", "français": "Chevron", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Anti-pattern", "français": "Anti-patron", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "API (Application Programming Interface)", "français": "IPA (Interface de Programmation Applicative)", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Applet", "français": "Appliquette", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "ASLR", "français": "Disposition Stochastique de l’espace d’adressage", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Assignation", "français": "Affectation", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Back office", "français": "Arrière-guichet", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Back-end service", "français": "Service dorsal", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Backbone", "français": "Réseau dorsal", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Backdoor", "français": "Porte dérobée", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Backport", "français": "Rétroportage", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Backslash", "français": "Barre oblique inversée", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "BBS (Bulletin Board System)", "français": "Babillard électronique", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Beautifier", "français": "Enjoliveur", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Benchmark", "français": "Banc d’essai", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Big data", "français": "Mégadonnées", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Big-endian", "français": "Grand boutien", "genre": "m", "classe": "adjectif"},
-    {"anglais": "Binding", "français": "Reliage", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Bit (Binary digit)", "français": "Chibi (Chiffre Binaire)", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Bloatware", "français": "Boufficiel", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Blockchain", "français": "DEEP (Dispositif d'Enregistrement Électronique partagé)", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Boot", "français": "Amorçage", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Bootstrapping (compiler)", "français": "Compilogénèse", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Bootstrapping (OS)", "français": "Autoamorçage", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Bot", "français": "Automate", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Branch merging", "français": "Fusion de branches", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Browser", "français": "Navigateur", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Brute force attack", "français": "Attaque exhaustive", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Buffer", "français": "Tampon", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Buffer overflow", "français": "Dépassement de tampon", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Bug", "français": "Bogue", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Bundle", "français": "Colis", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Buzz", "français": "Ramdam", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Buzzword", "français": "Mot à la mode", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "BYOD (Bring Your Own Device)", "français": "AVEC (Apportez Votre Equipement personnel de Communication)", "classe": "proposition"},
-    {"anglais": "Byte", "français": "Octet", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Cache memory", "français": "Antémémoire", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Call scam", "français": "Appel piège", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Callback function", "français": "Fonction de rappel", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Capitalization", "français": "Majusculation", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Cascading Style Sheets (CSS)", "français": "Feuilles de style en cascade", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "CDROM", "français": "Cédérom", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "CEO Fraud", "français": "Fraude au PDG", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Chatterbot", "français": "Discutomate", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Checksum", "français": "Somme de contrôle", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Cherry pick", "français": "Picorage", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Chief Data Officer (CDO)", "français": "Directeur/-trice des données (CDD)", "genre": "n", "classe": "groupe nominal"},
-    {"anglais": "Chipset", "français": "Jeu de puces", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Clickjacking", "français": "Escrocliquerie", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Cloud computing", "français": "Infonuagique", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Cluster", "français": "Grappe", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Commit", "français": "Atome de code", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Computer illiteracy", "français": "Illectronisme", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Computer Science (CS)", "français": "Science informatique", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Connection Pool", "français": "Réserve de connexions", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Content Delivery Network (CDN)", "français": "Réseau de Diffusion de Contenu (RDC). ", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Cookie", "français": "Témoin de connexion", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Core dump", "français": "Vidage de mémoire", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Crawler", "français": "Butineur", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Crypto-currency", "français": "Crypto-monnaie", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Cryptocoin", "français": "Cybersou", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Cryptography", "français": "Chiffrement", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Cryptoparty", "français": "Chiffrofête", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Cybernaut", "français": "Internaute", "genre": "n", "classe": "groupe nominal"},
-    {"anglais": "Cybersquatting", "français": "Accaparement de nom de domaine", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Dangling pointer", "français": "Pointeur fou", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Dark net", "français": "Internet clandestin", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Data scientist", "français": "Expert·e en mégadonnées", "genre": "n", "classe": "groupe nominal"},
-    {"anglais": "Database", "français": "Base de données", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "DDoS (Distributed Denial of Service)", "français": "DSD (Déni de Service Distribué)", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Deadlock", "français": "Interblocage", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Debugger", "français": "Dévermineur", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Deep learning", "français": "Apprentissage profond", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Deprecated", "français": "Ringardisé", "genre": "m", "classe": "adjectif"},
-    {"anglais": "Desktop", "français": "Ordinateur de bureau", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Device", "français": "Appareil", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Digital", "français": "Numérique", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "DoS (Denial of Service)", "français": "Déni de Service", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Double word", "français": "Trente-deuzet", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Download", "français": "Téléchargement", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "DRY (Don't Repeat Yourself)", "français": "NTRP (Ne Te Répète Pas)", "classe": "proposition"},
-    {"anglais": "E-mail", "français": "Courriel", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Edit", "français": "Modifier", "classe": "verbe"},
-    {"anglais": "Empowerment", "français": "Empouvoirement", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Encrypted", "français": "Chiffré", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Endianness", "français": "Boutisme", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Favicon", "français": "Favorimage", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Fiber-optics", "français": "Fribronique", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Firewall", "français": "Pare-feu", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Firmware", "français": "Micrologiciel", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Fix", "français": "Correction", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Flag", "français": "Fanion", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Flame", "français": "Propos incendiaire", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Flood", "français": "Matraquage", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Fork", "français": "Scission", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "FPGA (Field-Programmable Gate Array)", "français": "CIPP (Circuit Intégré Prédiffusé Programmable)", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Framework", "français": "Cadriciel", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Freeware", "français": "Gratuiciel", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Front office", "français": "Guichet", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Fuzzer", "français": "Générateur d’anomalies", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Fuzzing", "français": "Frelatage en masse", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "GC (Garbage Collector)", "français": "Ramasse-miettes, glaneur de cellule", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "GDPR (General Data Protection Regulation)", "français": "RGPD (Règlement Général sur la Protection des Données)", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Glue code", "français": "Code ciment", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "God object", "français": "Objet omniscient", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Hacked", "français": "Intrusé", "genre": "m", "classe": "adjectif"},
-    {"anglais": "Hacker", "français": "Fouineur", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Hardening", "français": "Durcissement", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Hardware", "français": "Matériel", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Hash", "français": "Condensat", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Hash table", "français": "Tableau à adressage dispersé", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Hashtag", "français": "Mot-croisillon", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Heap spray", "français": "Pulvérisation du tas", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Home row", "français": "Touche de repos", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Hub", "français": "Concentrateur", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Hyperlink", "français": "Hyperlien", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Infobox", "français": "Infoboîte", "genre": "n", "classe": "groupe nominal"},
-    {"anglais": "Initial Coin Offering (ICO)", "français": "Crypto-émission de titres", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Instruction pipeline", "français": "Instruoduc", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Internet of things", "français": "Internet des objets", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "JIT compiler", "français": "Compilateur à la volée", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Laptop", "français": "Ordinateur de giron", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Lazy evaluation", "français": "Évaluation paresseuse", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Legacy", "français": "Legs", "genre": "m", "classe": "nom propre"},
-    {"anglais": "Lexing", "français": "Analyse lexicale", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Library", "français": "Bibliothèque", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Little-endian", "français": "Petit boutien", "genre": "m", "classe": "adjectif"},
-    {"anglais": "Log", "français": "Journal", "genre": "m", "classe": "nom propre"},
-    {"anglais": "Lolcat", "français": "Chatmusant", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Looks Good To Me (LGTM)", "français": "Ça Me Semble Bon (ÇMSB)", "genre": "m", "classe": "proposition"},
-    {"anglais": "Lurker", "français": "Sous-Marineur", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Malware", "français": "Maliciel", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Man-in-the-middle attack (MITM)", "français": "Attaque de l’homme du milieu (HDM)", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Mapping", "français": "Correspondance", "genre": "f", "classe": "nom propre"},
-    {"anglais": "Mash-up", "français": "Pot-pourriciel", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Middleware", "français": "Intersticiel", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Monkey-in-the-middle attack", "français": "Attaque du singe intercepteur", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Mouse jacking", "français": "Vol à la souris", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Namespace", "français": "Espace de noms", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Newsletter", "français": "Infolettre", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "NIH (Not Invented Here)", "français": "PII (Pas Inventé Ici)", "classe": "proposition"},
-    {"anglais": "Noob", "français": "Novice", "classe": "groupe nominal"},
-    {"anglais": "Number sign", "français": "Croisillon", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Obfuscation", "français": "Noircissement de code", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Object pool", "français": "Réserve d'objets", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Online chat", "français": "Clavardage", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Overclocking", "français": "Surcadençage", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Parsing", "français": "Analyse syntaxique", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Pastebin", "français": "Collodrôme", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Patch", "français": "Rustine logicielle", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Perfect forward secrecy", "français": "Confidentialité persistante", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Pharming", "français": "Devoiement", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Phishing", "français": "Hameçonnage", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Phishing attack", "français": "Attaque par filoutage", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Pipeline", "français": "Bitoduc", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Placeholder", "français": "Marque substitutive", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Plugin", "français": "Greffon", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Pod", "français": "Gousse", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Podcasting", "français": "Balladodiffusion", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Polling", "français": "Attente active", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Polyfill", "français": "Prothèse d'émulation", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Pool", "français": "Réserve", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Pop-up", "français": "Fenêtre ventouse", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Program counter", "français": "Compteur ordinal", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Proxy", "français": "Mandataire", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Pull-request", "français": "Fusiodemande", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Ransomware", "français": "Rançongiciel", "genre": "m", "classe": "nom commun"},
-    {"anglais": "Rebase", "français": "Greffe", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Refactoring", "français": "Réusinage", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "REPL (Read–Eval–Print Loop)", "français": "BLEA (Boucle de Lecture, Evaluation et Affichage)", "classe": "proposition"},
-    {"anglais": "Repository", "français": "Dépôt", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Responsive", "français": "Adaptatif", "genre": "m", "classe": "adjectif"},
-    {"anglais": "REST (REpresentational State Transfer)", "français": "REPOS (Représentation d'État Partagée par des Objets Situés)", "classe": "proposition"},
-    {"anglais": "Return oriented programming", "français": "Exploitation focalisée sur le retour", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Revenge porn", "français": "Pornodivulgation", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Reverse proxy", "français": "Mandataire inverse", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Reverse-engineering", "français": "Ingénierie à rebours", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Rollback", "français": "Rétropédalage", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Rolling release", "français": "Publication continue", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "ROM (Read-Only Memory)", "français": "Mémoire morte", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "RTFM (Read The Fucking Manual)", "français": "LPDM (Lis le Putain De Manuel)", "classe": "proposition"},
-    {"anglais": "Scale", "français": "Passe à l’échelle", "classe": "groupe verbal"},
-    {"anglais": "Scaling", "français": "Passage à l’échelle", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Selfie", "français": "Egoportrait", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Shareware", "français": "Partagiciel", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Shell", "français": "Interprète de commandes", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Shell code", "français": "Code encoquillé", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Slash", "français": "Barre oblique", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Smart grid", "français": "Grille maligne", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Smartphone", "français": "Malinphone", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Smiley", "français": "Émoticône", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Sniffer", "français": "Renifleur", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "SOAP (Simple Object Access Protocol)", "français": "SAVON (Simple Accès Vers Objets Nuageux)", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "SoC (System-on-Chip)", "français": "Puce-système", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Software", "français": "Logiciel", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Solver", "français": "Solveur", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Spam", "français": "Polluriel, pourriel", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Spammer", "français": "Arroseur publicitaire", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Spinlock", "français": "Tourniquet", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Spyware", "français": "Espiogiciel", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Stack cookie", "français": "Biscuit de pile", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Stack overflow", "français": "Dépassement de pile", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Stand-up meeting", "français": "Réunion debout", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Stash", "français": "Remiser", "classe": "verbe"},
-    {"anglais": "Switch", "français": "Commutateur", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Tablet", "français": "Planchette (tactile, digitale)", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Tag", "français": "Étiquette", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Thread", "français": "Fil d'exécution", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Thread pool", "français": "Réserve de fils d'exécution", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Thumbnail", "français": "Imagette", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "TIL (Today I Learnt)", "français": "AJA (Aujourd’hui J’ai Appris)", "classe": "proposition"},
-    {"anglais": "TL;DR (Too Long; Didn't Read)" , "français": "TL;PL (Trop Long; Pas Lu)", "classe": "proposition"},
-    {"anglais": "To deface", "français": "Défigurer", "classe": "groupe verbal"},
-    {"anglais": "To reverse", "français": "Détricoter", "classe": "groupe verbal"},
-    {"anglais": "To spoil", "français": "Divulgâcher", "classe": "verbe"},
-    {"anglais": "Touchpad", "français": "Pavé tactile", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Trackball", "français": "Boule de commande", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Tuning", "français": "Bolidage", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Tutorial", "français": "Didacticiel", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Tweet", "français": "Gazouillis", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Typosquatting", "français": "Faute de frappe opportuniste", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Underscore", "français": "Sous-tiret", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Upload", "français": "Téléversement", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "URL", "français": "Adresse réticulaire", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "USB key", "français": "Mémorette", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "User Interface (UI)", "français": "Interface Homme-Machine (IHM)", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Verbose", "français": "Volubile", "classe": "groupe nominal"},
-    {"anglais": "Version control system", "français": "Logiciel de gestion de versions", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Volunteer computing", "français": "Calcul bénévole", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Walled garden", "français": "Jardin secret, communauté prison", "classe": "groupe nominal"},
-    {"anglais": "Watchdog", "français": "Chien de garde", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Web", "français": "Toile", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Web cache", "français": "Cache-toile", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Webcam", "français": "Cybercaméra", "genre": "f", "classe": "groupe nominal"},
-    {"anglais": "Webmail", "français": "Portail de messagerie", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Webmaster", "français": "Webmestre", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Wildcard", "français": "Joker", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Workaround", "français": "Contournement", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "XSS (Cross Site Scripting)", "français": "ICID (Injection de Code Indirect à Distance)", "genre": "f", "classe": "groupe nominal"}
+   {
+      "français":"abonné itinérant",
+      "anglais":"roaming subscriber"
+   },
+   {
+      "français":"accès",
+      "genre":"m",
+      "anglais":"hit"
+   },
+   {
+      "français":"accès direct",
+      "anglais":"direct access, random access"
+   },
+   {
+      "français":"accès hertzien",
+      "anglais":""
+   },
+   {
+      "français":"accès multiple",
+      "anglais":"multiple access"
+   },
+   {
+      "français":"accès multiple par répartition en code (AMRC)",
+      "anglais":"code division multiple access (CDMA)"
+   },
+   {
+      "français":"accès multiple par répartition en fréquence (AMRF)",
+      "anglais":"frequency division multiple access (FDMA)"
+   },
+   {
+      "français":"accès multiple par répartition temporelle (AMRT)",
+      "anglais":"time division multiple access (TDMA)"
+   },
+   {
+      "français":"accès sans fil à l’internet (ASFI)",
+      "anglais":"wireless Internet access"
+   },
+   {
+      "français":"accès séquentiel",
+      "anglais":"serial access"
+   },
+   {
+      "français":"accréditation",
+      "genre":"f",
+      "anglais":"credentials"
+   },
+   {
+      "français":"actionneur",
+      "genre":"m",
+      "anglais":"actuator"
+   },
+   {
+      "français":"additif",
+      "genre":"m",
+      "anglais":"add-on"
+   },
+   {
+      "français":"administrateur, -trice de site, de serveur",
+      "anglais":"webmaster"
+   },
+   {
+      "français":"adressage dispersé",
+      "anglais":"hash code, hash coding"
+   },
+   {
+      "français":"adresse de courrier électronique",
+      "anglais":"e-mail address"
+   },
+   {
+      "français":"adresse informatique/adresse",
+      "genre":"f",
+      "anglais":"address"
+   },
+   {
+      "français":"adresse universelle",
+      "anglais":"uniform resource locator (URL), universal resource locator (URL)"
+   },
+   {
+      "français":"affaiblissement",
+      "genre":"m",
+      "anglais":"attenuation, loss"
+   },
+   {
+      "français":"affichage",
+      "genre":"m",
+      "anglais":"display"
+   },
+   {
+      "français":"affichage à émission d’électrons par conduction de surface (AEC)",
+      "anglais":"surface-conduction electron-emitter display (SED)"
+   },
+   {
+      "français":"afficher, v",
+      "anglais":"display (to)"
+   },
+   {
+      "français":"agenda électronique",
+      "anglais":"organizer"
+   },
+   {
+      "français":"agent",
+      "genre":"m",
+      "anglais":"agent"
+   },
+   {
+      "français":"aide au dépannage",
+      "anglais":"troubleshooting"
+   },
+   {
+      "français":"algorithmique",
+      "genre":"f",
+      "anglais":"algorithmics"
+   },
+   {
+      "français":"amorce",
+      "genre":"f",
+      "anglais":"boot"
+   },
+   {
+      "français":"amorcer, v",
+      "anglais":"boot (to)"
+   },
+   {
+      "français":"ancre",
+      "genre":"f",
+      "anglais":"anchor"
+   },
+   {
+      "français":"animateur-trice de communauté/animateur-trice de communauté en ligne",
+      "anglais":"community manager"
+   },
+   {
+      "français":"animatique",
+      "genre":"f",
+      "anglais":"animatics"
+   },
+   {
+      "français":"anneau de sites",
+      "anglais":"webring"
+   },
+   {
+      "français":"annuaire électronique",
+      "anglais":"electronic directory"
+   },
+   {
+      "français":"antémémoire",
+      "genre":"f",
+      "anglais":"cache memory, cache storage"
+   },
+   {
+      "français":"anticrènelage",
+      "genre":"m",
+      "anglais":"antialiasing"
+   },
+   {
+      "français":"appairage",
+      "genre":"m",
+      "anglais":"peering"
+   },
+   {
+      "français":"appariement de formes",
+      "anglais":"pattern matching"
+   },
+   {
+      "français":"appliquette",
+      "genre":"f",
+      "anglais":"applet"
+   },
+   {
+      "français":"apportez votre équipement personnel de communication (AVEC)",
+      "anglais":"bring your own device (BYOD)"
+   },
+   {
+      "français":"apprentissage par les réseaux",
+      "anglais":"social learning"
+   },
+   {
+      "français":"ardoise électronique",
+      "anglais":"notepad computer"
+   },
+   {
+      "français":"arrière-guichet",
+      "genre":"m",
+      "anglais":"back office"
+   },
+   {
+      "français":"arrière-plan (d’)",
+      "classe":"locution adjective",
+      "anglais":"background"
+   },
+   {
+      "français":"arrobe",
+      "genre":"f",
+      "anglais":"at-sign"
+   },
+   {
+      "français":"arrosage",
+      "genre":"m",
+      "anglais":"spamming"
+   },
+   {
+      "français":"arroseur, -euse, n",
+      "anglais":"spammer"
+   },
+   {
+      "français":"article de forum",
+      "anglais":"news article, news item, news posting"
+   },
+   {
+      "français":"assemblage",
+      "genre":"m",
+      "anglais":"assembly"
+   },
+   {
+      "français":"assistant",
+      "genre":"m",
+      "anglais":"wizard"
+   },
+   {
+      "français":"assistant électronique de poche (ADP)",
+      "anglais":"personal digital assistant (PDA)"
+   },
+   {
+      "français":"atelier collaboratif/atelier de fabrication collaboratif",
+      "anglais":"fablab, fabrication laboratory"
+   },
+   {
+      "français":"audioconférence",
+      "genre":"f",
+      "anglais":"audioconference"
+   },
+   {
+      "français":"audiofréquence",
+      "genre":"f",
+      "anglais":"audiofrequency"
+   },
+   {
+      "français":"autonome",
+      "classe":"ajectif",
+      "anglais":"off line, off-line, offline"
+   },
+   {
+      "français":"autoroutes de l’information",
+      "anglais":"Infobahn (All), information highway, information superhighway"
+   },
+   {
+      "français":"avatar",
+      "genre":"m",
+      "anglais":"avatar"
+   },
+   {
+      "français":"I. balise",
+      "genre":"f",
+      "anglais":"tag"
+   },
+   {
+      "français":"II. balise",
+      "genre":"f",
+      "anglais":"beacon"
+   },
+   {
+      "français":"III. balise",
+      "genre":"f",
+      "anglais":"beacon"
+   },
+   {
+      "français":"bande de fréquences banalisée",
+      "anglais":"citizen’s band (CB)"
+   },
+   {
+      "français":"bannière",
+      "genre":"f",
+      "anglais":"skyscraper"
+   },
+   {
+      "français":"banque de connaissances",
+      "anglais":"knowledge pool"
+   },
+   {
+      "français":"banque de données",
+      "anglais":"data bank"
+   },
+   {
+      "français":"barre d’actualités/barre",
+      "genre":"f",
+      "anglais":"newsbar"
+   },
+   {
+      "français":"barrière de sécurité",
+      "anglais":"firewall"
+   },
+   {
+      "français":"base de connaissances",
+      "anglais":"knowledge base, knowledge database"
+   },
+   {
+      "français":"base de données",
+      "anglais":"data base, database"
+   },
+   {
+      "français":"bibande",
+      "classe":"ajectif",
+      "genre":"m",
+      "anglais":"dual band"
+   },
+   {
+      "français":"bibliothèque de cellules",
+      "anglais":"cell library"
+   },
+   {
+      "français":"bimode",
+      "classe":"ajectif",
+      "genre":"m",
+      "anglais":"dual mode"
+   },
+   {
+      "français":"bloc",
+      "genre":"m",
+      "anglais":"block"
+   },
+   {
+      "français":"bloc de propriété intellectuelle (BPI)/bloc de PI",
+      "anglais":"intellectual property block, IP block, IP core"
+   },
+   {
+      "français":"bloc-notes électronique",
+      "anglais":"notebook, notebook computer"
+   },
+   {
+      "français":"blogue",
+      "genre":"m",
+      "anglais":"blog, weblog"
+   },
+   {
+      "français":"bogue",
+      "genre":"m",
+      "anglais":"bug"
+   },
+   {
+      "français":"boîte aux lettres",
+      "anglais":"mail box"
+   },
+   {
+      "français":"boîtier",
+      "genre":"m",
+      "anglais":"package"
+   },
+   {
+      "français":"boîtier adaptateur",
+      "anglais":"set top box"
+   },
+   {
+      "français":"boîtier à puce",
+      "anglais":"chip-scale package (CSP)"
+   },
+   {
+      "français":"boîtier matriciel",
+      "anglais":"grid array"
+   },
+   {
+      "français":"boîtier matriciel à billes",
+      "anglais":"ball grid array (BGA)"
+   },
+   {
+      "français":"boîtier matriciel à broches",
+      "anglais":"pin grid array (PGA)"
+   },
+   {
+      "français":"boîtier multiservice/boîtier",
+      "genre":"m",
+      "anglais":"–"
+   },
+   {
+      "français":"boîtier-système",
+      "genre":"m",
+      "anglais":"system in package (SiP)"
+   },
+   {
+      "français":"bombardement",
+      "genre":"m",
+      "anglais":"bombing"
+   },
+   {
+      "français":"bombe programmée/bombe",
+      "genre":"f",
+      "anglais":"logic bomb"
+   },
+   {
+      "français":"boule de commande",
+      "anglais":"rolling ball, trackball"
+   },
+   {
+      "français":"brasage",
+      "genre":"m",
+      "anglais":"brazing, soldering"
+   },
+   {
+      "français":"bribe",
+      "genre":"f",
+      "anglais":"chip"
+   },
+   {
+      "français":"broche de raccordement",
+      "anglais":"lead, package pin, pin"
+   },
+   {
+      "français":"I. brouillage",
+      "genre":"m",
+      "anglais":"interference"
+   },
+   {
+      "français":"II. brouillage",
+      "genre":"m",
+      "anglais":"obfuscation"
+   },
+   {
+      "français":"bureautique",
+      "genre":"f",
+      "anglais":"bureautics, office automation"
+   },
+   {
+      "français":"bus",
+      "genre":"m",
+      "anglais":"bus"
+   },
+   {
+      "français":"câblage",
+      "genre":"m",
+      "anglais":"wiring"
+   },
+   {
+      "français":"cache",
+      "genre":"m",
+      "anglais":"cache"
+   },
+   {
+      "français":"cache-disque",
+      "genre":"m",
+      "anglais":"disk cache"
+   },
+   {
+      "français":"cache-toile",
+      "genre":"m",
+      "anglais":"web cache"
+   },
+   {
+      "français":"cachet postal électronique",
+      "anglais":"digital postmark, electronic postmark (EPM)"
+   },
+   {
+      "français":"I. cadre",
+      "genre":"m",
+      "anglais":"frame"
+   },
+   {
+      "français":"II. cadre",
+      "genre":"m",
+      "anglais":"frame"
+   },
+   {
+      "français":"calculateur",
+      "genre":"m",
+      "anglais":"computer"
+   },
+   {
+      "français":"calculette",
+      "genre":"f",
+      "anglais":"pocket calculator"
+   },
+   {
+      "français":"calcul intensif",
+      "anglais":"supercomputing"
+   },
+   {
+      "français":"canal banalisé (CB)",
+      "anglais":"citizen’s band radio (CB)"
+   },
+   {
+      "français":"canal de fréquences",
+      "anglais":"channel, frequency channel"
+   },
+   {
+      "français":"canal radioélectrique",
+      "anglais":"channel, radiofrequency channel, RF channel"
+   },
+   {
+      "français":"canular",
+      "genre":"m",
+      "anglais":"hoax"
+   },
+   {
+      "français":"caractérisation",
+      "genre":"f",
+      "anglais":"characterisation (GB), characterization (EU)"
+   },
+   {
+      "français":"carillon",
+      "genre":"m",
+      "anglais":"earcon"
+   },
+   {
+      "français":"carrousel",
+      "genre":"m",
+      "anglais":"cover flow-like design"
+   },
+   {
+      "français":"carte électronique",
+      "anglais":"board, electronic board"
+   },
+   {
+      "français":"carte fille",
+      "anglais":"daughter board, daughterboard, daughter card, daughtercard"
+   },
+   {
+      "français":"carte mère",
+      "anglais":"mother board, motherboard, mother card, mothercard"
+   },
+   {
+      "français":"carte SIM",
+      "anglais":"SIM card, subscriber identification module (SIM)"
+   },
+   {
+      "français":"cébiste, n",
+      "anglais":"CB user"
+   },
+   {
+      "français":"cédérom",
+      "genre":"m",
+      "anglais":"compact disk read-only memory (CD-ROM)"
+   },
+   {
+      "français":"cédérom autonome",
+      "anglais":"live CD"
+   },
+   {
+      "français":"cédérom interactif",
+      "anglais":"compact disk- interactive (CD-I)"
+   },
+   {
+      "français":"I. cellule",
+      "genre":"f",
+      "anglais":"cell"
+   },
+   {
+      "français":"II. cellule",
+      "genre":"f",
+      "anglais":"cell"
+   },
+   {
+      "français":"cellule binaire",
+      "anglais":"binary cell, bit cell, single-level cell (SLC)"
+   },
+   {
+      "français":"cellule de mémoire",
+      "anglais":"memory cell"
+   },
+   {
+      "français":"cellule multiniveau",
+      "anglais":"multi-level cell (MLC), multilevel cell (MLC)"
+   },
+   {
+      "français":"centre d’appels",
+      "anglais":"call center (EU), call centre (GB)"
+   },
+   {
+      "français":"centre d’assistance",
+      "anglais":"help desk"
+   },
+   {
+      "français":"centre de commutation du service des mobiles",
+      "anglais":"mobile switching centre (MSC)"
+   },
+   {
+      "français":"centre de conception",
+      "anglais":"design center (EU), design centre (GB)"
+   },
+   {
+      "français":"cercle de confiance",
+      "anglais":"circle of trust"
+   },
+   {
+      "français":"charge utile",
+      "anglais":"payload"
+   },
+   {
+      "français":"cheval de Troie",
+      "anglais":"Trojan horse"
+   },
+   {
+      "français":"chiffre binaire",
+      "anglais":"binary digit, bit"
+   },
+   {
+      "français":"circuit à configurations multiples",
+      "anglais":"reconfigurable circuit"
+   },
+   {
+      "français":"circuit de télécommunication",
+      "anglais":"circuit, telecommunication circuit"
+   },
+   {
+      "français":"circuit imprimé nu",
+      "anglais":"printed circuit board (PCB)"
+   },
+   {
+      "français":"circuit intégré développé pour un client (CIC)/circuit intégré client (langage professionnel)",
+      "anglais":"application specific integrated circuit (ASIC), user specific integrated circuit (USIC)"
+   },
+   {
+      "français":"circuit intégré hybride",
+      "anglais":"hybrid integrated circuit (HIC)"
+   },
+   {
+      "français":"circuit intégré précaractérisé",
+      "anglais":"cell based, cell based circuit, standard cell"
+   },
+   {
+      "français":"circuit intégré prédiffusé",
+      "anglais":"diffusion cell array, gate array"
+   },
+   {
+      "français":"circuit intégré prédiffusé programmable",
+      "anglais":"field programmable gate array (FPGA)"
+   },
+   {
+      "français":"circuit intégré semi-personnalisé",
+      "genre":"m",
+      "anglais":"semi- custom circuit"
+   },
+   {
+      "français":"circuit intégré sur mesure",
+      "anglais":"full custom circuit"
+   },
+   {
+      "français":"circuit tampon",
+      "anglais":"buffer circuit"
+   },
+   {
+      "français":"circuit virtuel",
+      "anglais":"virtual circuit"
+   },
+   {
+      "français":"circuit virtuel commuté",
+      "anglais":"switched virtual circuit"
+   },
+   {
+      "français":"circuit virtuel permanent",
+      "anglais":"permanent virtual circuit"
+   },
+   {
+      "français":"clicher, v",
+      "anglais":"dump (to)"
+   },
+   {
+      "français":"cliquer, v.intr",
+      "anglais":"click (to)"
+   },
+   {
+      "français":"cliquer-parler",
+      "genre":"m",
+      "anglais":"click and talk, Web call back, Web call through"
+   },
+   {
+      "français":"cocuisson",
+      "genre":"f",
+      "anglais":"cofiring"
+   },
+   {
+      "français":"cocuit",
+      "classe":"ajectif",
+      "anglais":"cofired"
+   },
+   {
+      "français":"code à octets",
+      "anglais":"bytecode"
+   },
+   {
+      "français":"codet",
+      "genre":"m",
+      "anglais":"code element"
+   },
+   {
+      "français":"cœur de processeur/cœur",
+      "genre":"m",
+      "anglais":"core, processor core"
+   },
+   {
+      "français":"cofrittage",
+      "genre":"m",
+      "anglais":"cofiring"
+   },
+   {
+      "français":"cofritté, -e",
+      "classe":"ajectif",
+      "anglais":"cofired"
+   },
+   {
+      "français":"collage",
+      "genre":"m",
+      "anglais":"bootleg (collage musical), mash-up, mashup"
+   },
+   {
+      "français":"collecteur",
+      "genre":"m",
+      "anglais":"crawler"
+   },
+   {
+      "français":"communication en champ proche (CCP)",
+      "anglais":"near field communication (NFC)"
+   },
+   {
+      "français":"commutation analogique",
+      "anglais":"analog switching (EU), analogue switching (GB)"
+   },
+   {
+      "français":"commutation de circuits",
+      "anglais":"circuit switching"
+   },
+   {
+      "français":"commutation de messages",
+      "anglais":"message switching, store-and-forward switching"
+   },
+   {
+      "français":"commutation de paquets",
+      "anglais":"packet switching"
+   },
+   {
+      "français":"commutation numérique",
+      "anglais":"digital switching"
+   },
+   {
+      "français":"commutation spatiale",
+      "anglais":"space-division switching"
+   },
+   {
+      "français":"commutation spatiale multiplexée",
+      "anglais":"time-multiplex switching"
+   },
+   {
+      "français":"commutation temporelle"
+   },
+   {
+      "français":"Un autocommutateur temporel comprend au moins un étage de",
+      "anglais":"time-division switching"
+   },
+   {
+      "français":"complément de service",
+      "anglais":"supplementary service"
+   },
+   {
+      "français":"composant discret",
+      "anglais":"discrete component"
+   },
+   {
+      "français":"composant spécifique standard (CSS)",
+      "anglais":"application specific standard product (ASSP)"
+   },
+   {
+      "français":"compresser, v",
+      "anglais":"compress (to), zip (to)"
+   },
+   {
+      "français":"concentrateur",
+      "genre":"m",
+      "anglais":"hub"
+   },
+   {
+      "français":"concepteur de circuits",
+      "anglais":"circuit designer"
+   },
+   {
+      "français":"conception",
+      "genre":"f",
+      "anglais":"design"
+   },
+   {
+      "français":"conception assistée par ordinateur appliquée à l’électronique (CAOE)",
+      "anglais":"electronic computer-aided design (ECAD)"
+   },
+   {
+      "français":"conception pour test",
+      "anglais":"design for testability"
+   },
+   {
+      "français":"conducteur-poutre",
+      "genre":"m",
+      "anglais":"beam lead"
+   },
+   {
+      "français":"conférence téléphonique",
+      "anglais":"conference call, conference calling"
+   },
+   {
+      "français":"configurer, v",
+      "anglais":"configure (to)"
+   },
+   {
+      "français":"connectabilité",
+      "genre":"f",
+      "anglais":"connectivity"
+   },
+   {
+      "français":"connecteur logiciel",
+      "anglais":"socket"
+   },
+   {
+      "français":"connexion",
+      "genre":"f",
+      "anglais":"log in, log on"
+   },
+   {
+      "français":"connexité",
+      "genre":"f",
+      "anglais":"connectivity"
+   },
+   {
+      "français":"conservation du numéro",
+      "anglais":"number portability"
+   },
+   {
+      "français":"console de visualisation",
+      "anglais":"display unit"
+   },
+   {
+      "français":"contrôleur de mémoire",
+      "anglais":"integrated memory controller (IMC), memory controller hub (MCH), northbridge"
+   },
+   {
+      "français":"contrôleur d’entrée et de sortie/contrôleur d’entrée-sortie (langage professionnel)",
+      "anglais":"input/output controller hub, I/O controller hub (ICH), platform controller hub (PCH), southbridge"
+   },
+   {
+      "français":"conversation à trois",
+      "anglais":"3PTY, three-party call, three-party calling, three-party conference, three-way calling"
+   },
+   {
+      "français":"convertisseur analogique-numérique (CAN)/convertisseur A/N",
+      "anglais":"analog-to-digital converter (ADC) (EU), analogue-to-digital converter (ADC) (GB)"
+   },
+   {
+      "français":"convivialité",
+      "genre":"f",
+      "anglais":"user-friendliness"
+   },
+   {
+      "français":"copiage de carte",
+      "anglais":"card skimming, credit card skimming, skimming"
+   },
+   {
+      "français":"copieur de carte",
+      "anglais":"credit card skimmer, credit card skimming device, skimmer, skimming device"
+   },
+   {
+      "français":"coprocesseur",
+      "genre":"m",
+      "anglais":"coprocessor"
+   },
+   {
+      "français":"couplage de la téléphonie et de l’informatique (CTI)/couplage téléphonie- informatique",
+      "anglais":"computer telephony integration (CTI)"
+   },
+   {
+      "français":"courriel",
+      "genre":"m",
+      "anglais":"electronic mail, e-mail"
+   },
+   {
+      "français":"courrier hybride",
+      "anglais":"hybrid mail"
+   },
+   {
+      "français":"cours en ligne d’accès restreint (CLAR)",
+      "anglais":"small private online course (SPOC)"
+   },
+   {
+      "français":"cours en ligne ouvert à tous",
+      "anglais":"massively open online course (MOOC), massive open online course (MOOC)"
+   },
+   {
+      "français":"créneau temporel",
+      "anglais":"time-slot"
+   },
+   {
+      "français":"crènelage",
+      "genre":"m",
+      "anglais":"aliasing"
+   },
+   {
+      "français":"cyberconférence",
+      "genre":"f",
+      "anglais":"e-conference, web conference, web conferencing"
+   },
+   {
+      "français":"cybersquat",
+      "genre":"m",
+      "anglais":"cybersquatting"
+   },
+   {
+      "français":"cybersquatteur, -euse, n",
+      "anglais":""
+   },
+   {
+      "français":"déblocage",
+      "genre":"m",
+      "anglais":"unlocking"
+   },
+   {
+      "français":"débogage",
+      "genre":"m",
+      "anglais":"debugging"
+   },
+   {
+      "français":"déboguer, v",
+      "anglais":"debug (to)"
+   },
+   {
+      "français":"débogueur",
+      "genre":"m",
+      "anglais":"debugger"
+   },
+   {
+      "français":"débrider, v",
+      "anglais":"jailbreak (to)"
+   },
+   {
+      "français":"découpage temporel",
+      "anglais":"time slicing"
+   },
+   {
+      "français":"défaillance",
+      "genre":"f",
+      "anglais":"failure"
+   },
+   {
+      "français":"défilement",
+      "genre":"m",
+      "anglais":"scrolling"
+   },
+   {
+      "français":"définition",
+      "genre":"f",
+      "anglais":"scrolling"
+   },
+   {
+      "français":"dégroupage",
+      "genre":"m",
+      "anglais":"unbundling"
+   },
+   {
+      "français":"démon",
+      "genre":"m",
+      "anglais":"daemon, disk and execution monitor"
+   },
+   {
+      "français":"démon de messagerie",
+      "anglais":"mailer daemon"
+   },
+   {
+      "français":"démultiplexage",
+      "genre":"m",
+      "anglais":"demultiplexing"
+   },
+   {
+      "français":"démultiplexer, v",
+      "anglais":""
+   },
+   {
+      "français":"démultiplexeur",
+      "genre":"m",
+      "anglais":"demultiplexer"
+   },
+   {
+      "français":"descendant, -e",
+      "classe":"ajectif",
+      "anglais":"downstream"
+   },
+   {
+      "français":"descripteur",
+      "genre":"m",
+      "anglais":"descriptor"
+   },
+   {
+      "français":"désembrouillage",
+      "genre":"m",
+      "anglais":"descrambling"
+   },
+   {
+      "français":"désembrouiller, v",
+      "anglais":"descramble (to)"
+   },
+   {
+      "français":"désembrouilleur",
+      "genre":"m",
+      "anglais":"descrambler"
+   },
+   {
+      "français":"desserte par fibre (DF)",
+      "anglais":"fiber in the loop (FITL), fiber to the… (FTTx)"
+   },
+   {
+      "français":"desserte par fibre de l’abonné (DFA)",
+      "anglais":"fiber to the home (FTTH), fiber to the office (FTTO), fiber to the premises (FTTP)"
+   },
+   {
+      "français":"desserte par fibre de l’immeuble (DFI)",
+      "anglais":"fiber to the building (FTTB), fiber to the curb (FTTC)"
+   },
+   {
+      "français":"détournement",
+      "genre":"m",
+      "anglais":"slamming"
+   },
+   {
+      "français":"déverminage",
+      "genre":"m",
+      "anglais":"burn-in"
+   },
+   {
+      "français":"déverrouillage SIM/déverrouillage",
+      "genre":"m",
+      "anglais":"SIM unlocking"
+   },
+   {
+      "français":"déviation d’appels",
+      "anglais":"call deflection"
+   },
+   {
+      "français":"dévideur",
+      "genre":"m",
+      "anglais":"streamer"
+   },
+   {
+      "français":"dévoiement",
+      "genre":"m",
+      "anglais":""
+   },
+   {
+      "français":"dialogue en ligne",
+      "anglais":"chat"
+   },
+   {
+      "français":"diffusion",
+      "genre":"f",
+      "anglais":"diffusion"
+   },
+   {
+      "français":"diffusion ciblée",
+      "anglais":"narrowcast, narrowcasting"
+   },
+   {
+      "français":"diffusion générale",
+      "anglais":"broadcast, broadcasting"
+   },
+   {
+      "français":"diffusion groupée",
+      "anglais":"multicast, multicasting"
+   },
+   {
+      "français":"diffusion pour baladeur",
+      "anglais":"podcasting"
+   },
+   {
+      "français":"diffusion systématique sur la toile",
+      "anglais":""
+   },
+   {
+      "français":"diode électroluminescente (DEL)",
+      "anglais":"light-emitting diode (LED)"
+   },
+   {
+      "français":"diode électroluminescente organique (DELO)",
+      "anglais":"organic light-emitting diode (OLED)"
+   },
+   {
+      "français":"directeur des systèmes d’information (DSI)",
+      "anglais":"chief information officer (CIO)"
+   },
+   {
+      "français":"directeur des techniques informatiques (DTI)",
+      "anglais":"chief technology officer (CTO)"
+   },
+   {
+      "français":"dispositif à couplage de charge (DCC)",
+      "anglais":"charge-coupled device (CCD)"
+   },
+   {
+      "français":"dispositif à transfert de charges (DTC)",
+      "anglais":"charge-transfer device (CTD)"
+   },
+   {
+      "français":"dispositif en chapelet",
+      "anglais":"bucket-brigade device (BBD)"
+   },
+   {
+      "français":"disque compact",
+      "anglais":"compact disc (CD), compact disk (CD)"
+   },
+   {
+      "français":"disque dur hybride (DDH)",
+      "anglais":"hybrid hard drive (HHD)"
+   },
+   {
+      "français":"disque numérique polyvalent",
+      "anglais":"digital versatile disk (DVD)"
+   },
+   {
+      "français":"disque optique",
+      "anglais":"optical disk"
+   },
+   {
+      "français":"disque statique à semiconducteurs (DSS)/disque statique",
+      "anglais":"solid state disk (SSD), solid state drive (SSD)"
+   },
+   {
+      "français":"disquette",
+      "genre":"f",
+      "anglais":"diskette, floppy disk"
+   },
+   {
+      "français":"disque vidéo à durée déterminée (DVDD)",
+      "anglais":"disposable DVD, self-destructing DVD"
+   },
+   {
+      "français":"distribution sélective",
+      "anglais":"push technology"
+   },
+   {
+      "français":"documentation intégrée (à)",
+      "anglais":"self-documented"
+   },
+   {
+      "français":"domaine",
+      "genre":"m",
+      "anglais":"domain"
+   },
+   {
+      "français":"domaine de premier niveau",
+      "anglais":"top-level domain (TLD)"
+   },
+   {
+      "français":"donnée",
+      "genre":"f",
+      "anglais":"data"
+   },
+   {
+      "français":"données ouvertes",
+      "anglais":"open data"
+   },
+   {
+      "français":"dorsale",
+      "genre":"f",
+      "anglais":"backbone"
+   },
+   {
+      "français":"droit irrévocable d’usage (langage professionnel) (DIU)",
+      "anglais":"indefeasible right of use (IRU)"
+   },
+   {
+      "français":"échange de données informatisé (EDI)",
+      "anglais":"electronic data interchange (EDI)"
+   },
+   {
+      "français":"écotechniques de l’information et de la communication (éco-TIC (langage professionnel))",
+      "anglais":"green information technology, green IT"
+   },
+   {
+      "français":"écran à double affichage",
+      "anglais":"dual view display, dual view LCD"
+   },
+   {
+      "français":"écran tactile",
+      "anglais":"touch screen"
+   },
+   {
+      "français":"écriture directe",
+      "anglais":"direct writing"
+   },
+   {
+      "français":"éditeur",
+      "genre":"m",
+      "anglais":"editor"
+   },
+   {
+      "français":"élément binaire",
+      "genre":"m",
+      "anglais":"binary character, binary digit, bit"
+   },
+   {
+      "français":"embrouillage",
+      "genre":"m",
+      "anglais":"scrambling"
+   },
+   {
+      "français":"embrouiller, v",
+      "anglais":"scramble (to)"
+   },
+   {
+      "français":"embrouilleur",
+      "genre":"m",
+      "anglais":"scrambler"
+   },
+   {
+      "français":"encapsulation sur tranche",
+      "anglais":"wafer-level packaging (WLP)"
+   },
+   {
+      "français":"encre électronique",
+      "anglais":""
+   },
+   {
+      "français":"encre en poudre",
+      "anglais":"toner"
+   },
+   {
+      "français":"enfant du numérique",
+      "anglais":"digital native"
+   },
+   {
+      "français":"enregistreur de frappe",
+      "anglais":"keylogger"
+   },
+   {
+      "français":"entrepôt de données",
+      "anglais":"data warehouse"
+   },
+   {
+      "français":"environnement de développement",
+      "anglais":"application framework, framework, integrated development environment (IDE)"
+   },
+   {
+      "français":"envoi à la cantonade",
+      "anglais":"anycast, anycasting"
+   },
+   {
+      "français":"envoi individuel",
+      "anglais":"unicast, unicasting"
+   },
+   {
+      "français":"épitaxie",
+      "genre":"f",
+      "anglais":"epitaxy"
+   },
+   {
+      "français":"espace de confiance",
+      "anglais":"trust environment"
+   },
+   {
+      "français":"espace partagé de travail en ligne",
+      "anglais":"–"
+   },
+   {
+      "français":"étiquette",
+      "genre":"f",
+      "anglais":"label"
+   },
+   {
+      "français":"évanouissement",
+      "genre":"m",
+      "anglais":"fading"
+   },
+   {
+      "français":"exploitation",
+      "genre":"f",
+      "anglais":"operation"
+   },
+   {
+      "français":"explorateur de modèle",
+      "anglais":"model-checker"
+   },
+   {
+      "français":"exploration de données",
+      "anglais":"datamining"
+   },
+   {
+      "français":"exploration de modèle",
+      "anglais":"model checking"
+   },
+   {
+      "français":"extensibilité",
+      "genre":"f",
+      "anglais":"scalability"
+   },
+   {
+      "français":"extranet",
+      "genre":"m",
+      "anglais":"extranet"
+   },
+   {
+      "français":"femtocellule",
+      "genre":"f",
+      "anglais":"femtocell"
+   },
+   {
+      "français":"fenêtre",
+      "genre":"f",
+      "anglais":"window"
+   },
+   {
+      "français":"fenêtre d’attente",
+      "anglais":"splash screen"
+   },
+   {
+      "français":"fenêtre intruse",
+      "anglais":"pop-up, pop-up window"
+   },
+   {
+      "français":"fibre noire",
+      "anglais":"dark fiber (EU), dark fibre (GB)"
+   },
+   {
+      "français":"fil de la discussion/fil",
+      "genre":"m",
+      "anglais":"thread"
+   },
+   {
+      "français":"fil d’exécution",
+      "anglais":"thread"
+   },
+   {
+      "français":"filoutage",
+      "genre":"m",
+      "anglais":"phishing"
+   },
+   {
+      "français":"fixage de puce",
+      "anglais":"die bond, die bonding"
+   },
+   {
+      "français":"flux (en)",
+      "classe":"locution adjective",
+      "anglais":"streaming"
+   },
+   {
+      "français":"flux de dépêches",
+      "anglais":"really simple syndication (RSS), RSS feed"
+   },
+   {
+      "français":"flux de travaux/flux",
+      "genre":"m",
+      "anglais":"workflow"
+   },
+   {
+      "français":"foire aux questions (FAQ)",
+      "anglais":"FAQ file, frequently asked questions (FAQ), frequently asked questions file"
+   },
+   {
+      "français":"fonction modem (mobile)",
+      "anglais":"tethering"
+   },
+   {
+      "français":"fond de panier",
+      "anglais":"back panel, backplane"
+   },
+   {
+      "français":"fonderie de silicium",
+      "anglais":"silicon foundry"
+   },
+   {
+      "français":"fondeur de silicium",
+      "anglais":"silicon founder"
+   },
+   {
+      "français":"format",
+      "genre":"m",
+      "anglais":"format"
+   },
+   {
+      "français":"formatage d’une disquette",
+      "anglais":"diskette formatting"
+   },
+   {
+      "français":"formater, v",
+      "anglais":"format (to)"
+   },
+   {
+      "français":"formation en ligne",
+      "anglais":"e-learning, e-training, on-line training"
+   },
+   {
+      "français":"forme",
+      "genre":"f",
+      "anglais":"pattern"
+   },
+   {
+      "français":"forum",
+      "genre":"m",
+      "anglais":"newsgroup"
+   },
+   {
+      "français":"fouineur",
+      "genre":"m",
+      "anglais":"hacker"
+   },
+   {
+      "français":"fournisseur d’accès",
+      "anglais":"access provider"
+   },
+   {
+      "français":"fournisseur d’accès à l’internet (FAI)",
+      "anglais":"Internet access provider (IAP), Internet service provider (ISP)"
+   },
+   {
+      "français":"fournisseur d’applications en ligne",
+      "anglais":"application service provider (ASP)"
+   },
+   {
+      "français":"fournisseur de services",
+      "anglais":"service provider"
+   },
+   {
+      "français":"frimousse",
+      "genre":"f",
+      "anglais":"emoticon, smiley"
+   },
+   {
+      "français":"fureteur, -euse, n",
+      "anglais":"lurker"
+   },
+   {
+      "français":"fusionner, v",
+      "anglais":"merge (to)"
+   },
+   {
+      "français":"gain",
+      "genre":"m",
+      "anglais":"gain, power gain, transmission gain"
+   },
+   {
+      "français":"gamme de couleurs",
+      "anglais":"color gamut, gamut"
+   },
+   {
+      "français":"gant numérique",
+      "anglais":"data glove"
+   },
+   {
+      "français":"générateur de dessin de masques (GDM)",
+      "anglais":"mask pattern generator"
+   },
+   {
+      "français":"génération de séquences de test (GST)",
+      "anglais":"test pattern generation (TPG)"
+   },
+   {
+      "français":"génie informatique",
+      "anglais":"computer engineering"
+   },
+   {
+      "français":"génie logiciel",
+      "anglais":"software engineering"
+   },
+   {
+      "français":"géolocalisation par satellite",
+      "anglais":"geosatellite positioning"
+   },
+   {
+      "français":"géorepérage",
+      "genre":"m",
+      "anglais":"geofencing"
+   },
+   {
+      "français":"gérance de l’informatique",
+      "anglais":"facilities management"
+   },
+   {
+      "français":"gestion de l’archivage",
+      "anglais":"records management"
+   },
+   {
+      "français":"gestion des droits numériques (GDN)",
+      "anglais":"digital rights management (DRM)"
+   },
+   {
+      "français":"gestionnaire d’évènement",
+      "anglais":"event handler, handler"
+   },
+   {
+      "français":"glisser-déposer",
+      "genre":"m",
+      "anglais":"drag and drop"
+   },
+   {
+      "français":"graduation",
+      "genre":"f",
+      "anglais":"scalability"
+   },
+   {
+      "français":"gradué",
+      "classe":"ajectif",
+      "anglais":"scalable"
+   },
+   {
+      "français":"grapheur",
+      "genre":"m",
+      "anglais":"graphics software"
+   },
+   {
+      "français":"grappe",
+      "genre":"f",
+      "anglais":"cluster"
+   },
+   {
+      "français":"gravure",
+      "genre":"f",
+      "anglais":"etching"
+   },
+   {
+      "français":"grille informatique",
+      "anglais":""
+   },
+   {
+      "français":"groupe",
+      "genre":"m",
+      "anglais":"cluster"
+   },
+   {
+      "français":"groupe fermé d’usagers (GFU)",
+      "anglais":"closed user group (CUG)"
+   },
+   {
+      "français":"guichet",
+      "genre":"m",
+      "anglais":"front office"
+   },
+   {
+      "français":"guichet unique",
+      "anglais":"one stop shopping (OSS)"
+   },
+   {
+      "français":"habileté numérique",
+      "anglais":""
+   },
+   {
+      "français":"hachage",
+      "genre":"m",
+      "anglais":"hash code"
+   },
+   {
+      "français":"heuristique",
+      "genre":"f",
+      "anglais":"heuristics"
+   },
+   {
+      "français":"hors offre du fournisseur d’accès à l’internet,",
+      "classe":"loc.adj",
+      "anglais":"over the top (OTT)"
+   },
+   {
+      "français":"hydrorésistant",
+      "classe":"ajectif",
+      "anglais":"water resistant"
+   },
+   {
+      "français":"hyperfréquence",
+      "genre":"f",
+      "anglais":"microwave frequency"
+   },
+   {
+      "français":"hypertexte",
+      "genre":"m",
+      "anglais":"hypertext"
+   },
+   {
+      "français":"hypertextuel",
+      "classe":"ajectif",
+      "anglais":""
+   },
+   {
+      "français":"icône",
+      "genre":"f",
+      "anglais":"icon"
+   },
+   {
+      "français":"identification des appels malveillants (IAM)",
+      "anglais":"malicious call identification (MCID)"
+   },
+   {
+      "français":"identité internationale d’abonnement mobile",
+      "anglais":"international mobile subscriber identity (IMSI), international mobile subscription identity (IMSI)"
+   },
+   {
+      "français":"imagette",
+      "genre":"f",
+      "anglais":"thumbnail"
+   },
+   {
+      "français":"implanter, v",
+      "anglais":"implement (to)"
+   },
+   {
+      "français":"implémenter, v.  (langage professionnel)",
+      "anglais":"implement (to)"
+   },
+   {
+      "français":"impression en ligne",
+      "anglais":"e-printing, web2print, web-to-print"
+   },
+   {
+      "français":"imputation",
+      "genre":"f"
+   },
+   {
+      "français":"L’imputation est à distinguer de la facturation (en anglais : billing), qui prend en compte la nature des abonnements souscrits, les forfaits ou réductions particulières",
+      "anglais":"charge"
+   },
+   {
+      "français":"imputation à l’arrivée",
+      "anglais":"collect call (EU), reverse-charge call, reverse charging (REV)"
+   },
+   {
+      "français":"imputer, v",
+      "anglais":"charge (to)"
+   },
+   {
+      "français":"incendier, v",
+      "anglais":"flame (to)"
+   },
+   {
+      "français":"indexation personnelle",
+      "anglais":"folksonomy"
+   },
+   {
+      "français":"indication d’appel en instance (IAI)",
+      "anglais":"call waiting (CW)"
+   },
+   {
+      "français":"indication de prix",
+      "anglais":"advice of charge (AOC)"
+   },
+   {
+      "français":"informatique en nuage",
+      "anglais":"cloud computing"
+   },
+   {
+      "français":"infrastructure à la demande",
+      "anglais":"infrastructure as a service (IaaS)"
+   },
+   {
+      "français":"inhabileté numérique",
+      "anglais":"computer illiteracy, digital illiteracy, information illiteracy"
+   },
+   {
+      "français":"instruction",
+      "genre":"f",
+      "anglais":"instruction, statement"
+   },
+   {
+      "français":"intelligence artificielle (IA)",
+      "anglais":"artificial intelligence (AI)"
+   },
+   {
+      "français":"interactif, -ive",
+      "classe":"ajectif",
+      "anglais":"interactive"
+   },
+   {
+      "français":"intercepteur d’IMSI",
+      "anglais":"IMSI catcher"
+   },
+   {
+      "français":"interdiction d’appels à l’arrivée",
+      "anglais":"incoming call barring (ICB)"
+   },
+   {
+      "français":"interdiction d’appels au départ",
+      "anglais":"outgoing call barring (OCB)"
+   },
+   {
+      "français":"interface",
+      "genre":"f",
+      "anglais":"interface"
+   },
+   {
+      "français":"interférence",
+      "genre":"f",
+      "anglais":""
+   },
+   {
+      "français":"internaute, n",
+      "anglais":""
+   },
+   {
+      "français":"internet",
+      "genre":"m",
+      "anglais":"Internet, Internet network, Net"
+   },
+   {
+      "français":"intranet",
+      "genre":"m",
+      "anglais":"intranet"
+   },
+   {
+      "français":"investigation informatique",
+      "anglais":"discovery, e-discovery"
+   },
+   {
+      "français":"invitation à émettre",
+      "anglais":"polling"
+   },
+   {
+      "français":"invitation à recevoir",
+      "anglais":"selecting"
+   },
+   {
+      "français":"invite",
+      "genre":"f",
+      "anglais":"prompt"
+   },
+   {
+      "français":"jeu de puces",
+      "anglais":"chipset"
+   },
+   {
+      "français":"jeu sérieux",
+      "anglais":"serious game"
+   },
+   {
+      "français":"langage à objets",
+      "anglais":"object-oriented language"
+   },
+   {
+      "français":"lecteur",
+      "genre":"m",
+      "anglais":"card reader"
+   },
+   {
+      "français":"lettre d’information",
+      "anglais":"newsletter"
+   },
+   {
+      "français":"liaison descendante",
+      "anglais":"downlink"
+   },
+   {
+      "français":"liaison louée (LL)",
+      "anglais":"leased circuit, leased line (LL), leased link"
+   },
+   {
+      "français":"liaison montante",
+      "anglais":"uplink"
+   },
+   {
+      "français":"liaison numérique asymétrique",
+      "anglais":"asymmetric digital subscriber line (ADSL)"
+   },
+   {
+      "français":"liaison numérique symétrique",
+      "anglais":"symmetric digital subscriber line (SDSL)"
+   },
+   {
+      "français":"liaison spécialisée (LS)",
+      "anglais":"dedicated line"
+   },
+   {
+      "français":"lien",
+      "genre":"m",
+      "anglais":"link, linkage"
+   },
+   {
+      "français":"ligne (en)",
+      "classe":"locution adjective",
+      "anglais":"on line, on-line, online"
+   },
+   {
+      "français":"ligne d’accès",
+      "anglais":"access line, local line, subscriber line"
+   },
+   {
+      "français":"ligne d’accès numérique",
+      "anglais":"digital subscriber line (DSL)"
+   },
+   {
+      "français":"liseuse",
+      "genre":"f",
+      "anglais":"e-book reader, electronic book reader, electronic reader, e-reader, reader"
+   },
+   {
+      "français":"I. listage",
+      "genre":"m",
+      "anglais":"listing"
+   },
+   {
+      "français":"II. listage",
+      "genre":"m",
+      "anglais":"listing"
+   },
+   {
+      "français":"liste de diffusion",
+      "anglais":"mailing list"
+   },
+   {
+      "français":"liste de signets",
+      "anglais":"hotlist"
+   },
+   {
+      "français":"liste d’interconnexions",
+      "anglais":"netlist"
+   },
+   {
+      "français":"I. lister, v",
+      "anglais":"list (to)"
+   },
+   {
+      "français":"II. lister, v",
+      "anglais":"list (to)"
+   },
+   {
+      "français":"livre numérique",
+      "anglais":"e-book, electronic book"
+   },
+   {
+      "français":"logement",
+      "genre":"m",
+      "anglais":"slot"
+   },
+   {
+      "français":"logiciel",
+      "genre":"m",
+      "anglais":"software"
+   },
+   {
+      "français":"logiciel à contribution",
+      "anglais":"shareware"
+   },
+   {
+      "français":"logiciel à la demande",
+      "anglais":"software as a service (SaaS)"
+   },
+   {
+      "français":"logiciel antivirus",
+      "anglais":"antivirus program, antivirus software, vaccine program"
+   },
+   {
+      "français":"logiciel de dessin",
+      "anglais":"drawing software"
+   },
+   {
+      "français":"logiciel de groupe de travail",
+      "anglais":"groupware"
+   },
+   {
+      "français":"logiciel de navigation",
+      "anglais":"browser"
+   },
+   {
+      "français":"logiciel de traitement de texte",
+      "anglais":"word processor"
+   },
+   {
+      "français":"logiciel de vérification de schéma (LVS)",
+      "anglais":"layout versus schematic (LVS)"
+   },
+   {
+      "français":"logiciel éducatif",
+      "anglais":"educational software"
+   },
+   {
+      "français":"logiciel espion",
+      "anglais":"spyware"
+   },
+   {
+      "français":"logiciel gratuit",
+      "anglais":"freeware"
+   },
+   {
+      "français":"logiciel libre",
+      "anglais":"free software, open source software"
+   },
+   {
+      "français":"logiciel malveillant",
+      "anglais":"malicious logic, malicious software, malware"
+   },
+   {
+      "français":"logiciel médiateur",
+      "anglais":"middleware"
+   },
+   {
+      "français":"logiciel publicitaire",
+      "anglais":"advertising software, adware"
+   },
+   {
+      "français":"logiciel-socle",
+      "genre":"m",
+      "anglais":"baseware"
+   },
+   {
+      "français":"macrocellule",
+      "genre":"f",
+      "anglais":"megacell"
+   },
+   {
+      "français":"macro-instruction",
+      "genre":"f",
+      "anglais":"macro, macroinstruction"
+   },
+   {
+      "français":"macroordinateur",
+      "genre":"m",
+      "anglais":"mainframe"
+   },
+   {
+      "français":"magasin de données",
+      "anglais":"datamart"
+   },
+   {
+      "français":"maintenabilité",
+      "genre":"f",
+      "anglais":"maintainability"
+   },
+   {
+      "français":"manche à balai",
+      "anglais":"joystick"
+   },
+   {
+      "français":"mappe",
+      "genre":"f",
+      "anglais":"map, mapping"
+   },
+   {
+      "français":"I. maquette",
+      "genre":"f",
+      "anglais":"breadboard"
+   },
+   {
+      "français":"II. maquette",
+      "genre":"f",
+      "anglais":"lay-out"
+   },
+   {
+      "français":"marquage",
+      "genre":"m",
+      "anglais":"highlighting"
+   },
+   {
+      "français":"masque",
+      "genre":"m",
+      "anglais":"mask"
+   },
+   {
+      "français":"matériel",
+      "genre":"m",
+      "anglais":"hardware"
+   },
+   {
+      "français":"matériel à la demande",
+      "anglais":"hardware as a service (HaaS)"
+   },
+   {
+      "français":"matrice de micromiroirs (MDM)",
+      "anglais":"digital micromirror device (DMD)"
+   },
+   {
+      "français":"mégadonnées",
+      "genre":"f",
+      "anglais":"big data"
+   },
+   {
+      "français":"Mél",
+      "anglais":"mail"
+   },
+   {
+      "français":"mémoire",
+      "genre":"f",
+      "anglais":"storage memory"
+   },
+   {
+      "français":"mémoire à cellules multiniveaux (MCM)",
+      "anglais":"multi-level cell memory (MCM), multilevel cell memory (MCM)"
+   },
+   {
+      "français":"mémoire flash",
+      "anglais":"flash memory"
+   },
+   {
+      "français":"mémoire magnétique",
+      "anglais":"magnetic storage"
+   },
+   {
+      "français":"mémoire morte",
+      "anglais":"read-only memory (ROM)"
+   },
+   {
+      "français":"mémoire non volatile",
+      "anglais":"non volatile memory, nonvolatile memory (NVM)"
+   },
+   {
+      "français":"mémoire tampon/tampon",
+      "genre":"m",
+      "anglais":"buffer"
+   },
+   {
+      "français":"mémoire vive",
+      "anglais":"random- access memory (RAM)"
+   },
+   {
+      "français":"mémoire vive dynamique",
+      "anglais":"dynamic RAM, dynamic random-access memory (DRAM)"
+   },
+   {
+      "français":"mémoire vive magnétique",
+      "anglais":"magnetic random access memory (MRAM)"
+   },
+   {
+      "français":"mémoire vive résistive",
+      "anglais":"resistive RAM, resistive random access memory (ReRAM, RRAM)"
+   },
+   {
+      "français":"mémoire vive statique",
+      "anglais":"static RAM, static random access memory (SRAM)"
+   },
+   {
+      "français":"mémoire volatile",
+      "anglais":"volatile memory"
+   },
+   {
+      "français":"mer de portes",
+      "anglais":""
+   },
+   {
+      "français":"message incendiaire",
+      "anglais":"flame"
+   },
+   {
+      "français":"message multimédia",
+      "anglais":"MMS message, multimedia message"
+   },
+   {
+      "français":"messagerie électronique",
+      "anglais":"electronic mail, electronic messaging, e-mail"
+   },
+   {
+      "français":"messagerie instantanée",
+      "anglais":"instant messaging"
+   },
+   {
+      "français":"messagerie instantanée vocale (MIV)",
+      "anglais":"push-to-talk (PTT), push-to- talk over cellular (POC), walkie-talkie service"
+   },
+   {
+      "français":"messagerie interpersonnelle",
+      "anglais":"interpersonal messaging service, message handling service"
+   },
+   {
+      "français":"messagerie vocale",
+      "anglais":"voice mail, voice messaging"
+   },
+   {
+      "français":"métallisation",
+      "genre":"f",
+      "anglais":"metallisation (GB), metallization (EU)"
+   },
+   {
+      "français":"microblogage",
+      "genre":"m",
+      "anglais":"microblogging"
+   },
+   {
+      "français":"microblogue",
+      "genre":"m",
+      "anglais":"microblog, thread"
+   },
+   {
+      "français":"microcontrôleur",
+      "genre":"m",
+      "anglais":"microcontroller"
+   },
+   {
+      "français":"micromiroir",
+      "genre":"m",
+      "anglais":"micromirror"
+   },
+   {
+      "français":"micro-onde",
+      "genre":"f",
+      "anglais":"microwave"
+   },
+   {
+      "français":"microordinateur",
+      "genre":"m",
+      "anglais":"microcomputer"
+   },
+   {
+      "français":"microphone sans fil",
+      "anglais":"wireless microphone"
+   },
+   {
+      "français":"micropoutre",
+      "genre":"f",
+      "anglais":"microcantilever"
+   },
+   {
+      "français":"microprocesseur",
+      "genre":"m",
+      "anglais":"microprocessor"
+   },
+   {
+      "français":"microprogramme",
+      "genre":"m",
+      "anglais":"firmware"
+   },
+   {
+      "français":"microsoudeuse de puces",
+      "anglais":"die bonder"
+   },
+   {
+      "français":"microstation terrienne/microstation",
+      "genre":"f",
+      "anglais":"very small aperture terminal (VSAT)"
+   },
+   {
+      "français":"microsystème électromécanique",
+      "anglais":"micro- electromechanical system (MEMS)"
+   },
+   {
+      "français":"microsystème optoélectromécanique",
+      "anglais":"micro-opto- electromechanical system (MOEMS)"
+   },
+   {
+      "français":"micro-usinage",
+      "genre":"m",
+      "anglais":"micromachining"
+   },
+   {
+      "français":"micro-usinage de surface",
+      "anglais":"surface micromachining"
+   },
+   {
+      "français":"micro-usinage de volume",
+      "anglais":"bulk micromachining"
+   },
+   {
+      "français":"minimessage",
+      "genre":"m",
+      "anglais":"short message"
+   },
+   {
+      "français":"mise à niveau",
+      "anglais":"upgrade"
+   },
+   {
+      "français":"mise en attente",
+      "anglais":"call hold, hold"
+   },
+   {
+      "français":"mise en boîtier",
+      "anglais":"encapsulation, packaging"
+   },
+   {
+      "français":"mode de transfert asynchrone",
+      "anglais":"asynchronous transfer mode (ATM)"
+   },
+   {
+      "français":"mode dialogué",
+      "anglais":"conversational mode"
+   },
+   {
+      "français":"modèle",
+      "genre":"m"
+   },
+   {
+      "français":"Un modèle général peut servir à créer d’autres modèles, répondant à des usages spécifiques",
+      "anglais":"template"
+   },
+   {
+      "français":"modem",
+      "genre":"m",
+      "anglais":"modem"
+   },
+   {
+      "français":"modérateur, -trice, n",
+      "anglais":"moderator"
+   },
+   {
+      "français":"modulation à spectre étalé",
+      "anglais":"spread spectrum modulation, spread spectrum transmission"
+   },
+   {
+      "français":"modulation à spectre étalé à sauts de fréquence/modulation  SESF",
+      "anglais":"FHSS modulation, frequency hopping spread spectrum modulation"
+   },
+   {
+      "français":"modulation à spectre étalé à séquence directe/modulation  SESD",
+      "anglais":"direct sequence spread spectrum modulation, DSSS modulation"
+   },
+   {
+      "français":"modulation d’impulsions en amplitude (MIA)",
+      "anglais":"pulse amplitude modulation (PAM)"
+   },
+   {
+      "français":"modulation d’impulsions en durée (MID)",
+      "anglais":"pulse width modulation (PWM)"
+   },
+   {
+      "français":"modulation d’impulsions en position (MIP)",
+      "anglais":"pulse position modulation (PPM)"
+   },
+   {
+      "français":"modulation par impulsions et codage (MIC)",
+      "anglais":"pulse code modulation (PCM)"
+   },
+   {
+      "français":"module d’extension/extension",
+      "genre":"f",
+      "anglais":"plug-in"
+   },
+   {
+      "français":"module  multipuce",
+      "anglais":"multi- chip module (MCM)"
+   },
+   {
+      "français":"montage en surface",
+      "anglais":"surface mounting, surface mount technology (SMT)"
+   },
+   {
+      "français":"montant, -e",
+      "classe":"ajectif",
+      "anglais":"upstream"
+   },
+   {
+      "français":"morphose",
+      "genre":"f",
+      "anglais":"morphing"
+   },
+   {
+      "français":"mot clé",
+      "anglais":"key word"
+   },
+   {
+      "français":"mot-dièse",
+      "genre":"m",
+      "anglais":"hashtag"
+   },
+   {
+      "français":"moteur de recherche",
+      "anglais":"search engine"
+   },
+   {
+      "français":"moteur d’exécution",
+      "anglais":"runtime software"
+   },
+   {
+      "français":"moteur d’inférence",
+      "anglais":"inference engine"
+   },
+   {
+      "français":"motif",
+      "genre":"m",
+      "anglais":"pattern"
+   },
+   {
+      "français":"multibande",
+      "classe":"ajectif",
+      "genre":"m",
+      "anglais":"multiband"
+   },
+   {
+      "français":"multifil",
+      "classe":"ajectif",
+      "genre":"m",
+      "anglais":"multithreading"
+   },
+   {
+      "français":"multifil simultané",
+      "classe":"locution adjective",
+      "anglais":"simultaneous multithreading (SMT)"
+   },
+   {
+      "français":"multimédia",
+      "classe":"ajectif",
+      "anglais":"multimedia"
+   },
+   {
+      "français":"multiplex",
+      "classe":"ajectif",
+      "genre":"m",
+      "anglais":"multiplex"
+   },
+   {
+      "français":"multiplexage",
+      "genre":"m",
+      "anglais":"multiplexing"
+   },
+   {
+      "français":"multiplexage dans le temps/multiplexage par répartition dans le temps (MRT)",
+      "anglais":"time-division multiplexing (TDM)"
+   },
+   {
+      "français":"multiplexage en code/multiplexage par répartition en code (MRC)",
+      "anglais":"code division multiplexing (CDM)"
+   },
+   {
+      "français":"multiplexage en fréquence/multiplexage par répartition en fréquence (MRF)",
+      "anglais":"frequency division multiplexing (FDM)"
+   },
+   {
+      "français":"multiplexage en longueur d’onde/multiplexage par répartition en longueur d’onde (MRL)",
+      "anglais":"dense wavelength division multiplexing (DWDM)"
+   },
+   {
+      "français":"multiplexer, v",
+      "anglais":"multiplex (to)"
+   },
+   {
+      "français":"multiplexeur",
+      "genre":"m",
+      "anglais":"multiplexer"
+   },
+   {
+      "français":"multiprocesseur",
+      "genre":"m",
+      "anglais":"multiprocessor"
+   },
+   {
+      "français":"multitâche",
+      "classe":"ajectif",
+      "anglais":"multitask"
+   },
+   {
+      "français":"multitraitement",
+      "genre":"m",
+      "anglais":"multiprocessing"
+   },
+   {
+      "français":"neurone artificiel",
+      "anglais":"artificial neuron, artificial neurone"
+   },
+   {
+      "français":"nommage",
+      "genre":"m",
+      "anglais":"naming"
+   },
+   {
+      "français":"nuage",
+      "genre":"m",
+      "anglais":"cloud"
+   },
+   {
+      "français":"numérique",
+      "classe":"ajectif",
+      "anglais":"digital, numeric, numerical"
+   },
+   {
+      "français":"numériser, v",
+      "anglais":"digitize (to)"
+   },
+   {
+      "français":"numériseur",
+      "genre":"m",
+      "anglais":"digitizer, scanner"
+   },
+   {
+      "français":"numéro conservable",
+      "anglais":"portable number"
+   },
+   {
+      "français":"numéro d’urgence",
+      "anglais":"hot line, hotline"
+   },
+   {
+      "français":"numéros multiples",
+      "anglais":"multiple subscriber number (MSN)"
+   },
+   {
+      "français":"obligation de diffusion",
+      "anglais":"must carry"
+   },
+   {
+      "français":"octet",
+      "genre":"m",
+      "anglais":"byte"
+   },
+   {
+      "français":"office d’enregistrement",
+      "anglais":"TLD registrar, top-level domain registrar"
+   },
+   {
+      "français":"offre groupée",
+      "anglais":"bundle, package"
+   },
+   {
+      "français":"opérateur de télécommunication/opérateur",
+      "genre":"m",
+      "anglais":"operating body, operator"
+   },
+   {
+      "français":"opérateur de téléphonie mobile sans réseau",
+      "anglais":"mobile virtual network operator (MVNO)"
+   },
+   {
+      "français":"option d’adhésion (à)",
+      "classe":"locution adjective",
+      "anglais":"opt-in"
+   },
+   {
+      "français":"option de retrait (à)",
+      "classe":"locution adjective",
+      "anglais":"opt-out"
+   },
+   {
+      "français":"optoélectronique",
+      "genre":"f",
+      "anglais":"optoelectronics, optronics"
+   },
+   {
+      "français":"ordinateur",
+      "genre":"m",
+      "anglais":"computer"
+   },
+   {
+      "français":"ordinateur de bureau",
+      "anglais":"desktop, desktop computer"
+   },
+   {
+      "français":"ordinateur de poche",
+      "anglais":"palmtop computer, pocket computer"
+   },
+   {
+      "français":"ordinateur individuel",
+      "anglais":"personal computer (PC)"
+   },
+   {
+      "français":"ordinateur portable",
+      "anglais":"lap top computer, portable computer"
+   },
+   {
+      "français":"ouverture des données",
+      "anglais":"open data, open data policy"
+   },
+   {
+      "français":"page d’accueil",
+      "anglais":"home page, homepage"
+   },
+   {
+      "français":"page sur la toile",
+      "anglais":"web page, webpage"
+   },
+   {
+      "français":"paiement à la séance",
+      "anglais":"pay-per-view"
+   },
+   {
+      "français":"pair à pair",
+      "classe":"locution adjective invariable",
+      "anglais":"peer-to-peer (P2P, P-to-P)"
+   },
+   {
+      "français":"panne",
+      "genre":"f",
+      "anglais":"fault"
+   },
+   {
+      "français":"papier électronique",
+      "anglais":"electronic paper, e-paper"
+   },
+   {
+      "français":"paquet",
+      "genre":"m",
+      "anglais":"packet"
+   },
+   {
+      "français":"parcours sur la toile",
+      "anglais":"clickstream"
+   },
+   {
+      "français":"pas",
+      "genre":"m"
+   },
+   {
+      "français":"Distance entre deux broches de raccordement contiguës sur un boîtier",
+      "anglais":"pitch, spacing"
+   },
+   {
+      "français":"passerelle",
+      "genre":"f",
+      "anglais":"gateway"
+   },
+   {
+      "français":"pastillage",
+      "genre":"m",
+      "anglais":"chip-on-board process, COB process"
+   },
+   {
+      "français":"pastille",
+      "genre":"f",
+      "anglais":"land"
+   },
+   {
+      "français":"pavé tactile",
+      "anglais":"touch pad, track pad"
+   },
+   {
+      "français":"pédopiégeage",
+      "genre":"m",
+      "anglais":"child grooming, grooming"
+   },
+   {
+      "français":"péritéléphonie",
+      "genre":"f",
+      "anglais":"peritelephony"
+   },
+   {
+      "français":"péritélévision",
+      "genre":"f",
+      "anglais":"television environment"
+   },
+   {
+      "français":"permutation",
+      "genre":"f",
+      "anglais":"swap"
+   },
+   {
+      "français":"perturbation électromagnétique",
+      "anglais":"electromagnetic disturbance"
+   },
+   {
+      "français":"I. photonique",
+      "classe":"ajectif",
+      "anglais":"photonic"
+   },
+   {
+      "français":"II. photonique",
+      "genre":"f",
+      "anglais":"photonics"
+   },
+   {
+      "français":"pièce jointe",
+      "anglais":"attachment, attachment file"
+   },
+   {
+      "français":"pilote de périphérique",
+      "anglais":"driver"
+   },
+   {
+      "français":"pirate",
+      "genre":"m",
+      "anglais":"cracker"
+   },
+   {
+      "français":"pixel",
+      "genre":"m",
+      "anglais":"picture element (PEL), pixel (PEL) [picture est souvent abrégé en pic ou en pix]"
+   },
+   {
+      "français":"placement",
+      "genre":"m",
+      "anglais":"placement"
+   },
+   {
+      "français":"plage d’accueil",
+      "anglais":""
+   },
+   {
+      "français":"plan de masse",
+      "anglais":"floorplan"
+   },
+   {
+      "français":"plateforme à haute altitude (PHA)",
+      "anglais":"high altitude platform (HAP), high altitude radio platform, stratospheric platform"
+   },
+   {
+      "français":"plot de contact/plot",
+      "genre":"m",
+      "anglais":"bump contact"
+   },
+   {
+      "français":"pointeur",
+      "genre":"m",
+      "anglais":"pointer"
+   },
+   {
+      "français":"polarisation",
+      "genre":"f",
+      "anglais":"bias, biasing"
+   },
+   {
+      "français":"polarisation d’une antenne",
+      "anglais":"polarisation (GB), polarization (EU)"
+   },
+   {
+      "français":"police de caractères/police",
+      "genre":"f",
+      "anglais":"font"
+   },
+   {
+      "français":"pont",
+      "genre":"m",
+      "anglais":"bridge"
+   },
+   {
+      "français":"ponteuse",
+      "genre":"f",
+      "anglais":"wire bonder"
+   },
+   {
+      "français":"portail",
+      "genre":"m",
+      "anglais":"portal"
+   },
+   {
+      "français":"porte",
+      "genre":"f",
+      "anglais":"gate"
+   },
+   {
+      "français":"porteuse",
+      "genre":"f",
+      "anglais":"carrier"
+   },
+   {
+      "français":"portier",
+      "genre":"m",
+      "anglais":"gatekeeper"
+   },
+   {
+      "français":"poste téléphonique sans cordon",
+      "anglais":"cordless telephone"
+   },
+   {
+      "français":"présentation de la ligne appelante",
+      "anglais":"caller ID, calling line identification presentation (CLIP)"
+   },
+   {
+      "français":"présentation de la ligne obtenue",
+      "anglais":"connected line identification presentation (COLP)"
+   },
+   {
+      "français":"prêt à l’emploi",
+      "classe":"locution adjective",
+      "anglais":"plug-and-play (PnP)"
+   },
+   {
+      "français":"processeur",
+      "genre":"m",
+      "anglais":"processor"
+   },
+   {
+      "français":"processeur bicœur/bicœur",
+      "genre":"m",
+      "anglais":"dual core, dual core processor"
+   },
+   {
+      "français":"processeur multicœur",
+      "anglais":"multicore, multicore processor"
+   },
+   {
+      "français":"processeur quadricœur",
+      "anglais":"quad core, quad core processor"
+   },
+   {
+      "français":"processeur vectoriel",
+      "anglais":"array processor"
+   },
+   {
+      "français":"production participative",
+      "anglais":"crowdsourcing"
+   },
+   {
+      "français":"progiciel",
+      "genre":"m",
+      "anglais":"package"
+   },
+   {
+      "français":"programmation par objets",
+      "anglais":"object-oriented programming"
+   },
+   {
+      "français":"protocole",
+      "genre":"m",
+      "anglais":"protocol"
+   },
+   {
+      "français":"publication assistée par ordinateur (PAO)",
+      "anglais":"desktop publishing"
+   },
+   {
+      "français":"publier, v",
+      "anglais":"post (to)"
+   },
+   {
+      "français":"puce",
+      "genre":"f",
+      "anglais":"chip, die"
+   },
+   {
+      "français":"puce retournée",
+      "anglais":"flip-chip"
+   },
+   {
+      "français":"puce-système",
+      "genre":"f",
+      "anglais":"system on chip (SoC)"
+   },
+   {
+      "français":"quadruple service",
+      "anglais":"quadruple play"
+   },
+   {
+      "français":"quantité d’information",
+      "anglais":"information content"
+   },
+   {
+      "français":"raccourci au clavier",
+      "anglais":"hot key"
+   },
+   {
+      "français":"radiobalise",
+      "genre":"f",
+      "anglais":"radio beacon"
+   },
+   {
+      "français":"radiocommande",
+      "genre":"f",
+      "anglais":"radio-control"
+   },
+   {
+      "français":"radiodiffusion",
+      "genre":"f",
+      "anglais":"radio broadcasting"
+   },
+   {
+      "français":"radiodiffusion de données de service (RDS)"
+   },
+   {
+      "français":"Le système est appliqué aux émetteurs de radiodiffusion sonore en modulation de fréquence",
+      "anglais":"radio data system (RDS)"
+   },
+   {
+      "français":"radiodiffusion sonore",
+      "anglais":"sound broadcasting"
+   },
+   {
+      "français":"radiodiffusion visuelle",
+      "anglais":"television broadcasting"
+   },
+   {
+      "français":"radiogoniométrie",
+      "genre":"f",
+      "anglais":"radio direction finding, radiogoniometry"
+   },
+   {
+      "français":"radioguidage",
+      "genre":"m",
+      "anglais":"radioguidance"
+   },
+   {
+      "français":"radio-identifiant",
+      "genre":"m",
+      "anglais":"radio frequency identification tag, RFID tag"
+   },
+   {
+      "français":"radio-identifiant actif (RIDA)",
+      "anglais":"active RFID tag, active tag"
+   },
+   {
+      "français":"radio-identifiant passif (RIDP)",
+      "anglais":"passive RFID tag, passive tag"
+   },
+   {
+      "français":"radio-identifiant semi-actif (RIDSA)",
+      "anglais":"BAP tag, battery-assisted passive tag, semi-passive tag"
+   },
+   {
+      "français":"radio-identification (RID)",
+      "genre":"f",
+      "anglais":"radio frequency identification (RFID)"
+   },
+   {
+      "français":"radio intelligente (RI)",
+      "anglais":"cognitive radio"
+   },
+   {
+      "français":"radio logicielle (RL)",
+      "anglais":"software-defined radio (SDR), software radio"
+   },
+   {
+      "français":"radiomessagerie bilatérale",
+      "anglais":"two-way messaging, two- way paging"
+   },
+   {
+      "français":"radiomessagerie unilatérale",
+      "anglais":"display paging"
+   },
+   {
+      "français":"radio par fibre (RPF)",
+      "anglais":"radio-on-fiber (RoF), radio-over-fiber (RoF), wireless-on-fiber"
+   },
+   {
+      "français":"rappel automatique",
+      "anglais":"automatic call-back (ACB), completion of calls to busy subscribers (CCBS)"
+   },
+   {
+      "français":"rappel d’enregistreur",
+      "anglais":"register recall"
+   },
+   {
+      "français":"rapport d’onde stationnaire (ROS)",
+      "anglais":"standing wave ratio (SWR), voltage standing wave ratio (VSWR)"
+   },
+   {
+      "français":"réalité de synthèse",
+      "anglais":"virtual reality"
+   },
+   {
+      "français":"réamorcer, v",
+      "anglais":"reboot (to)"
+   },
+   {
+      "français":"recherche participative",
+      "anglais":"living lab, living laboratory"
+   },
+   {
+      "français":"recherche en texte intégral",
+      "anglais":"full-text search"
+   },
+   {
+      "français":"recherche individuelle",
+      "anglais":"pull technology"
+   },
+   {
+      "français":"réémetteur",
+      "genre":"m",
+      "anglais":"rebroadcast station, relay station"
+   },
+   {
+      "français":"réémetteur bouche-trou",
+      "anglais":"gap filler"
+   },
+   {
+      "français":"référentiel",
+      "genre":"m",
+      "anglais":"repository"
+   },
+   {
+      "français":"refus de présentation de la ligne appelante",
+      "anglais":"calling line identification restriction (CLIR)"
+   },
+   {
+      "français":"refus de présentation de la ligne obtenue",
+      "anglais":"connected line identification restriction (COLR)"
+   },
+   {
+      "français":"registraire",
+      "genre":"m",
+      "anglais":"DNS registrar, domain name registrar, registrar"
+   },
+   {
+      "français":"réinitialiser, v",
+      "anglais":"reset (to)"
+   },
+   {
+      "français":"relais de trames",
+      "anglais":"frame relay"
+   },
+   {
+      "français":"relancer, v",
+      "anglais":"restart (to)"
+   },
+   {
+      "français":"relationnel, -elle",
+      "classe":"ajectif",
+      "anglais":"relational"
+   },
+   {
+      "français":"renifleur",
+      "genre":"m",
+      "anglais":"sniffer"
+   },
+   {
+      "français":"renvoi des appels en cas d’occupation",
+      "anglais":"call forwarding busy (CFB), call forward on busy (CFB) (Canada)"
+   },
+   {
+      "français":"renvoi des appels sans réponse",
+      "anglais":"call forwarding no reply (CFNR), call forward-no answer (EU)"
+   },
+   {
+      "français":"renvoi systématique des appels",
+      "anglais":"call forwarding unconditional (CFU)"
+   },
+   {
+      "français":"répartition de l’usure",
+      "anglais":"wear leveling (EU), wear levelling (GB)"
+   },
+   {
+      "français":"répertoire",
+      "genre":"m",
+      "anglais":"directory"
+   },
+   {
+      "français":"répéteur",
+      "genre":"m",
+      "anglais":"repeater (sur câble), transponder (sur satellite)"
+   },
+   {
+      "français":"répondeur",
+      "genre":"m",
+      "anglais":"transponder"
+   },
+   {
+      "français":"réseau",
+      "genre":"m",
+      "anglais":"array"
+   },
+   {
+      "français":"réseau d’accès",
+      "anglais":"access network, local loop"
+   },
+   {
+      "français":"réseau de stockage",
+      "anglais":"storage area network (SAN)"
+   },
+   {
+      "français":"réseau de télédistribution",
+      "anglais":"cabled distribution system"
+   },
+   {
+      "français":"réseau d’infrastructure",
+      "anglais":"core network, infrastructure network"
+   },
+   {
+      "français":"réseau informatique/réseau",
+      "genre":"m",
+      "anglais":"computer network"
+   },
+   {
+      "français":"réseau local",
+      "anglais":"local area network (LAN)"
+   },
+   {
+      "français":"réseau local d’entreprise (RLE)",
+      "anglais":"local area network (LAN)"
+   },
+   {
+      "français":"réseau local de raccordement",
+      "anglais":"–"
+   },
+   {
+      "français":"réseau logique programmable",
+      "anglais":"programmable logic array (PLA), programmable logic device (PLD)"
+   },
+   {
+      "français":"réseau logique programmable par l’utilisateur",
+      "anglais":"field programmable logic array (FPLA)"
+   },
+   {
+      "français":"réseau neuronal",
+      "anglais":"neural network"
+   },
+   {
+      "français":"réseau numérique à intégration de services (RNIS)",
+      "anglais":"integrated services digital network (ISDN)"
+   },
+   {
+      "français":"réseau prédiffusé",
+      "anglais":"gate array"
+   },
+   {
+      "français":"réseau privé virtuel (RPV)",
+      "anglais":"virtual private network (VPN)"
+   },
+   {
+      "français":"réseau radioélectrique à ressources partagées",
+      "anglais":""
+   },
+   {
+      "français":"réseautique",
+      "genre":"f",
+      "anglais":"networking"
+   },
+   {
+      "français":"réseautique domestique",
+      "anglais":"home networking"
+   },
+   {
+      "français":"restaurer, v",
+      "anglais":"reset (to), restore (to)"
+   },
+   {
+      "français":"retouche",
+      "genre":"f",
+      "anglais":"patch"
+   },
+   {
+      "français":"rétroappel international/rétroappel",
+      "genre":"m",
+      "anglais":"call-back, international call-back"
+   },
+   {
+      "français":"rétro-ingénierie",
+      "genre":"f",
+      "anglais":"reverse engineering"
+   },
+   {
+      "français":"rétrolien",
+      "genre":"m",
+      "anglais":"trackback, trackback link"
+   },
+   {
+      "français":"rétropublication",
+      "genre":"f",
+      "anglais":"reverse publishing"
+   },
+   {
+      "français":"réutilisation de fréquence",
+      "anglais":""
+   },
+   {
+      "français":"révision",
+      "genre":"f",
+      "anglais":"release"
+   },
+   {
+      "français":"riper, v",
+      "anglais":"rip (to)"
+   },
+   {
+      "français":"robotique",
+      "genre":"f",
+      "anglais":"robotics"
+   },
+   {
+      "français":"routage",
+      "genre":"m",
+      "anglais":"routing"
+   },
+   {
+      "français":"routeur",
+      "genre":"m",
+      "anglais":"router"
+   },
+   {
+      "français":"saisie de schéma",
+      "anglais":"schematic capture"
+   },
+   {
+      "français":"salle blanche",
+      "anglais":"clean room"
+   },
+   {
+      "français":"scanneur",
+      "genre":"m",
+      "anglais":"scanner"
+   },
+   {
+      "français":"script",
+      "genre":"m",
+      "anglais":"macro, macrocommand, script"
+   },
+   {
+      "français":"scrutation",
+      "genre":"f",
+      "anglais":"polling"
+   },
+   {
+      "français":"secours (de)",
+      "classe":"locution adjective",
+      "anglais":"back-up, backup"
+   },
+   {
+      "français":"secours informatique",
+      "anglais":"back-up, backup"
+   },
+   {
+      "français":"sélection directe à l’arrivée (SDA)",
+      "anglais":"direct dialing-in (DDI) (EU), direct dialling-in (DDI) (GB), direct inward dialing (DID) (EU)"
+   },
+   {
+      "français":"séquence de test",
+      "anglais":"test pattern"
+   },
+   {
+      "français":"serveur",
+      "genre":"m",
+      "anglais":"server"
+   },
+   {
+      "français":"serveur mandataire",
+      "anglais":"proxy, proxy server"
+   },
+   {
+      "français":"service de kiosque",
+      "anglais":"kiosk service, premium rate service (PRS)"
+   },
+   {
+      "français":"service de la toile",
+      "anglais":"Web service"
+   },
+   {
+      "français":"service de libre appel",
+      "anglais":"freephone service, toll"
+   },
+   {
+      "français":"service de messages multimédias",
+      "anglais":"multimedia message service (MMS), multimedia messaging service (MMS)"
+   },
+   {
+      "français":"service  de minimessages",
+      "anglais":"short message service (SMS), short message system (SMS)"
+   },
+   {
+      "français":"service de recherche de personne",
+      "anglais":"paging service"
+   },
+   {
+      "français":"service des mobiles",
+      "anglais":"mobile service"
+   },
+   {
+      "français":"service GPRS",
+      "anglais":"general packet radio service (GPRS)"
+   },
+   {
+      "français":"service support",
+      "anglais":"bearer service"
+   },
+   {
+      "français":"service unifié",
+      "anglais":"seamless service"
+   },
+   {
+      "français":"sexto",
+      "genre":"m",
+      "anglais":"sex message, sex text"
+   },
+   {
+      "français":"shannon",
+      "genre":"m",
+      "anglais":"shannon"
+   },
+   {
+      "français":"signal analogique",
+      "anglais":"analog signal (EU), analogue signal (GB)"
+   },
+   {
+      "français":"signalisation d’usager à usager (SUU)",
+      "anglais":"user-to-user signaling (UUS) (EU), user-to-user signalling (UUS) (GB)"
+   },
+   {
+      "français":"signal numérique",
+      "anglais":"digital signal"
+   },
+   {
+      "français":"signature de virus",
+      "anglais":"virus signature"
+   },
+   {
+      "français":"signet",
+      "genre":"m",
+      "anglais":"bookmark"
+   },
+   {
+      "français":"silicium étiré",
+      "anglais":"strained silicon"
+   },
+   {
+      "français":"silicium sur isolant (SSI)",
+      "anglais":"silicon on insulator (SOI)"
+   },
+   {
+      "français":"simulateur analogique",
+      "anglais":"analog simulator (EU), analogue simulator (GB)"
+   },
+   {
+      "français":"simulateur logique",
+      "anglais":"logic simulator"
+   },
+   {
+      "français":"simulation",
+      "genre":"f",
+      "anglais":"simulation"
+   },
+   {
+      "français":"site",
+      "genre":"m",
+      "anglais":"web site, web-site, website"
+   },
+   {
+      "français":"société de conception",
+      "anglais":"design house"
+   },
+   {
+      "français":"souris",
+      "genre":"f",
+      "anglais":"mouse"
+   },
+   {
+      "français":"sous-adressage",
+      "genre":"m",
+      "anglais":"sub-addressing (SUB)"
+   },
+   {
+      "français":"station de base",
+      "anglais":"base station"
+   },
+   {
+      "français":"station mobile",
+      "anglais":"mobile station"
+   },
+   {
+      "français":"station mobile de transmission par satellite (SMTS)",
+      "anglais":"digital satellite news gathering (DSNG)"
+   },
+   {
+      "français":"station pivot",
+      "anglais":"hub, hub station"
+   },
+   {
+      "français":"station terrestre",
+      "anglais":"land station"
+   },
+   {
+      "français":"station terrienne dépendante",
+      "anglais":"land station"
+   },
+   {
+      "français":"substrat",
+      "genre":"m",
+      "anglais":"substrate"
+   },
+   {
+      "français":"surbrillance",
+      "genre":"f",
+      "anglais":"brightening"
+   },
+   {
+      "français":"surcadencer, v",
+      "anglais":"overclock (to)"
+   },
+   {
+      "français":"survol",
+      "genre":"m",
+      "anglais":"browsing"
+   },
+   {
+      "français":"syndication",
+      "genre":"f",
+      "anglais":"syndication"
+   },
+   {
+      "français":"système cellulaire",
+      "anglais":"cellular system"
+   },
+   {
+      "français":"système d’adressage par domaines",
+      "anglais":"domain name system (DNS)"
+   },
+   {
+      "français":"système d’appel d’urgence",
+      "anglais":"eCall"
+   },
+   {
+      "français":"système de gestion de base de données (SGBD)",
+      "anglais":"data base management system (DBMS), database management system (DBMS)"
+   },
+   {
+      "français":"système d’exploitation",
+      "anglais":"operating system"
+   },
+   {
+      "français":"système d’identification automatique",
+      "anglais":"automatic identification system (AIS)"
+   },
+   {
+      "français":"système exclusif",
+      "anglais":"proprietary system"
+   },
+   {
+      "français":"système expert",
+      "anglais":"expert system"
+   },
+   {
+      "français":"système GSM",
+      "anglais":"global system for mobile communications (GSM)"
+   },
+   {
+      "français":"système GSM du rail",
+      "anglais":"global system for mobile communications for railways, global system for mobile communications - railways (GSM-R)"
+   },
+   {
+      "français":"système UMTS",
+      "anglais":"universal mobile telecommunication system (UMTS)"
+   },
+   {
+      "français":"tablette",
+      "genre":"f",
+      "anglais":"pad, tablet, touch screen tablet"
+   },
+   {
+      "français":"tableur",
+      "genre":"m",
+      "anglais":"spreadsheet, spreadsheet programme, spreadsheet software"
+   },
+   {
+      "français":"tarif de règlement",
+      "anglais":"settlement rate"
+   },
+   {
+      "français":"tarif de répartition",
+      "anglais":"accounting rate"
+   },
+   {
+      "français":"tatouage numérique",
+      "anglais":"digital tattoo (marque), digital tattooing, watermark (marque), watermarking"
+   },
+   {
+      "français":"technique des courants porteurs en ligne",
+      "anglais":"powerline carrier (PLC), powerline communication (PLC)"
+   },
+   {
+      "français":"technoloisir",
+      "genre":"m",
+      "anglais":"home entertainment"
+   },
+   {
+      "français":"téléassistance",
+      "genre":"f",
+      "anglais":"hot line, hotline"
+   },
+   {
+      "français":"téléassistant, -e, n",
+      "anglais":"hot liner"
+   },
+   {
+      "français":"téléborne",
+      "genre":"f",
+      "anglais":"telepoint base station"
+   },
+   {
+      "français":"téléchargement",
+      "genre":"m",
+      "anglais":"downloading (téléchargement à partir d’un autre ordinateur), uploading (téléchargement vers un autre ordinateur)"
+   },
+   {
+      "français":"télécommunication personnelle universelle",
+      "anglais":"universal personal telecommunication (UPT)"
+   },
+   {
+      "français":"téléconférence",
+      "genre":"f",
+      "anglais":"teleconferencing"
+   },
+   {
+      "français":"télécopie",
+      "genre":"f",
+      "anglais":"facsimile, fax, telecopy"
+   },
+   {
+      "français":"télécopie contrastée",
+      "anglais":"document facsimile telegraphy"
+   },
+   {
+      "français":"télécopie nuancée",
+      "anglais":"picture facsimile telegraphy"
+   },
+   {
+      "français":"télécopier, v",
+      "anglais":"fax (to)"
+   },
+   {
+      "français":"télécopieur",
+      "genre":"m",
+      "anglais":"facsimile equipment, fax, fax machine, telecopier"
+   },
+   {
+      "français":"téléécriture",
+      "genre":"f",
+      "anglais":"telewriting"
+   },
+   {
+      "français":"téléimprimeur",
+      "genre":"m",
+      "anglais":"teleprinter, teletypewriter"
+   },
+   {
+      "français":"téléinformatique",
+      "genre":"f",
+      "anglais":"remote data processing, telecomputing, teleinformatics"
+   },
+   {
+      "français":"télémaintenance",
+      "genre":"f",
+      "anglais":"remote maintenance"
+   },
+   {
+      "français":"télématique",
+      "genre":"f",
+      "anglais":"telematics"
+   },
+   {
+      "français":"II. télématique",
+      "genre":"f",
+      "anglais":"telematics"
+   },
+   {
+      "français":"télémesure",
+      "genre":"f",
+      "anglais":"telemeasuring, telemetering, telemetry"
+   },
+   {
+      "français":"télémétrie",
+      "genre":"f",
+      "anglais":"range finding"
+   },
+   {
+      "français":"téléservice",
+      "genre":"m",
+      "anglais":"teleservice"
+   },
+   {
+      "français":"télétexte",
+      "genre":"m",
+      "anglais":"broadcast videography, teletext"
+   },
+   {
+      "français":"télétraitement",
+      "genre":"m",
+      "anglais":"teleprocessing"
+   },
+   {
+      "français":"télétraitement par lots",
+      "anglais":"remote batch teleprocessing"
+   },
+   {
+      "français":"télévision à accès conditionnel",
+      "anglais":"conditional access television"
+   },
+   {
+      "français":"télévision à péage",
+      "anglais":"pay television, subscription television, toll television"
+   },
+   {
+      "français":"télévision de rattrapage",
+      "anglais":"catch-up television, catch-up TV"
+   },
+   {
+      "français":"télévision en ligne",
+      "anglais":"webtelevision, web TV"
+   },
+   {
+      "français":"témoin de connexion/témoin",
+      "genre":"m",
+      "anglais":"cookie"
+   },
+   {
+      "français":"temps réel",
+      "anglais":"real time"
+   },
+   {
+      "français":"terminal",
+      "genre":"m",
+      "anglais":"terminal"
+   },
+   {
+      "français":"terminal de poche (TP)",
+      "anglais":"PDA phone, personal communicator, smartphone, wireless handheld device"
+   },
+   {
+      "français":"testabilité",
+      "genre":"f",
+      "anglais":"testability"
+   },
+   {
+      "français":"test captcha (langage professionnel)",
+      "anglais":"captcha, captcha test, completely automated public Turing test to tell computers and humans apart"
+   },
+   {
+      "français":"test de performance",
+      "anglais":"benchmark"
+   },
+   {
+      "français":"test dynamique",
+      "anglais":"dynamic test"
+   },
+   {
+      "français":"testeur",
+      "genre":"m",
+      "anglais":"tester"
+   },
+   {
+      "français":"test fonctionnel",
+      "anglais":"functional test"
+   },
+   {
+      "français":"test intégré",
+      "anglais":"built-in self test"
+   },
+   {
+      "français":"test statique",
+      "anglais":"static test"
+   },
+   {
+      "français":"test structurel",
+      "anglais":"structural test"
+   },
+   {
+      "français":"tête radio distante (TRD)",
+      "anglais":"remote radio head (RRH)"
+   },
+   {
+      "français":"textopornographie",
+      "genre":"f",
+      "anglais":"sexting"
+   },
+   {
+      "français":"tirage",
+      "genre":"m",
+      "anglais":"hard copy"
+   },
+   {
+      "français":"toile d’araignée mondiale (TAM)/toile mondiale, toile",
+      "genre":"f",
+      "anglais":"Web, World Wide Web (WWW)"
+   },
+   {
+      "français":"toile sémantique",
+      "anglais":"semantic web"
+   },
+   {
+      "français":"tolérance aux pannes",
+      "anglais":"fault tolerance"
+   },
+   {
+      "français":"tolérant aux pannes",
+      "anglais":"fault tolerant"
+   },
+   {
+      "français":"topologie",
+      "genre":"f",
+      "anglais":"layout"
+   },
+   {
+      "français":"tout en ligne",
+      "classe":"locution adjective",
+      "anglais":"multiband"
+   },
+   {
+      "français":"traducteur de test",
+      "anglais":"test postprocessor"
+   },
+   {
+      "français":"traitement automatique de données",
+      "anglais":"automatic data processing (ADP)"
+   },
+   {
+      "français":"traitement de bout en bout (TBB)",
+      "anglais":"end-to-end processing, straight-through processing (STP)"
+   },
+   {
+      "français":"traitement de texte",
+      "anglais":"text processing, word processing"
+   },
+   {
+      "français":"traitement par lots",
+      "anglais":"batch processing"
+   },
+   {
+      "français":"trame",
+      "genre":"f",
+      "anglais":"frame"
+   },
+   {
+      "français":"tranche",
+      "genre":"f",
+      "anglais":"slice, wafer"
+   },
+   {
+      "français":"transférer, v",
+      "anglais":"forward (to)"
+   },
+   {
+      "français":"transfert",
+      "genre":"m",
+      "anglais":"hand-off, hand-over"
+   },
+   {
+      "français":"transfert de communication",
+      "anglais":"call transfer"
+   },
+   {
+      "français":"transfert intercellulaire",
+      "anglais":"intercell hand- off, intercell hand-over"
+   },
+   {
+      "français":"transfert intracellulaire",
+      "anglais":"intracell hand-off, intracell hand-over"
+   },
+   {
+      "français":"transmission analogique",
+      "anglais":"analog transmission (EU), analogue transmission (GB)"
+   },
+   {
+      "français":"transmission numérique",
+      "anglais":"digital transmission"
+   },
+   {
+      "français":"transport du numéro",
+      "anglais":"number porting"
+   },
+   {
+      "français":"triple service",
+      "anglais":"triple play"
+   },
+   {
+      "français":"trou de liaison",
+      "anglais":"via"
+   },
+   {
+      "français":"turbocode",
+      "genre":"m",
+      "anglais":"turbo code"
+   },
+   {
+      "français":"tutoriel",
+      "genre":"m",
+      "anglais":"tutorial"
+   },
+   {
+      "français":"ultralarge bande (ULB)",
+      "classe":"locution adjective",
+      "anglais":"ultra wideband (UWB)"
+   },
+   {
+      "français":"unité arithmétique logique (UAL)",
+      "anglais":"arithmetic logic unit (ALU)"
+   },
+   {
+      "français":"unité de fabrication finale/unité finale",
+      "anglais":"back-end, back- end line"
+   },
+   {
+      "français":"unité de fabrication initiale",
+      "anglais":"front-end, front-end line"
+   },
+   {
+      "français":"unité de stockage en réseau",
+      "anglais":"network attached storage (NAS)"
+   },
+   {
+      "français":"usurpation d’adresse électronique",
+      "anglais":"e-mail spoofing"
+   },
+   {
+      "français":"vecteur de test",
+      "anglais":"test vector"
+   },
+   {
+      "français":"veille automatique",
+      "anglais":"sigint, signal intelligence"
+   },
+   {
+      "français":"ver",
+      "genre":"m",
+      "anglais":"worm"
+   },
+   {
+      "français":"vérificateur de prototype",
+      "anglais":"bench tester"
+   },
+   {
+      "français":"vérification de la conformité aux règles d’interconnexion",
+      "anglais":"electrical rule checking (ERC)"
+   },
+   {
+      "français":"vérification des règles de conception (VRC)",
+      "anglais":"DRC/ERC"
+   },
+   {
+      "français":"vérification des règles de dessin (VRD)",
+      "anglais":"design rule checking (DRC)"
+   },
+   {
+      "français":"version",
+      "genre":"f",
+      "anglais":"release"
+   },
+   {
+      "français":"vidéo",
+      "classe":"nom",
+      "anglais":"video"
+   },
+   {
+      "français":"vidéo à la demande (VAD)",
+      "anglais":"video on demand (VOD)"
+   },
+   {
+      "français":"vidéo à la demande par abonnement (VADA)",
+      "anglais":"subscription video on demand (SVOD)"
+   },
+   {
+      "français":"vidéo à la demande en téléchargement définitif (VADTD)/VAD en téléchargement définitif",
+      "anglais":"electronic sell through (EST)"
+   },
+   {
+      "français":"vidéofréquence",
+      "genre":"f",
+      "anglais":"videofrequency"
+   },
+   {
+      "français":"vidéographie",
+      "genre":"f",
+      "anglais":"videography"
+   },
+   {
+      "français":"vignette active",
+      "anglais":"web widget, widget"
+   },
+   {
+      "français":"virus",
+      "genre":"m",
+      "anglais":"virus"
+   },
+   {
+      "français":"visioconférence",
+      "genre":"f",
+      "anglais":"videoconference, videophone conference"
+   },
+   {
+      "français":"visionneur",
+      "genre":"m",
+      "anglais":"viewer"
+   },
+   {
+      "français":"visiophone",
+      "genre":"m",
+      "anglais":"videophone, visual telephone"
+   },
+   {
+      "français":"visiophonie",
+      "genre":"f",
+      "anglais":"videophony"
+   },
+   {
+      "français":"visite",
+      "genre":"f",
+      "anglais":"tour, visit"
+   },
+   {
+      "français":"visualiser, v",
+      "anglais":"display (to)"
+   },
+   {
+      "français":"voie de transmission",
+      "anglais":"channel, transmission channel"
+   },
+   {
+      "français":"voix par le protocole de l’internet",
+      "anglais":"voice over Internet Protocol (VoIP)"
+   },
+   {
+      "français":"zone d’accès sans fil/zone ASFI",
+      "anglais":"hot spot"
+   }
 ]
