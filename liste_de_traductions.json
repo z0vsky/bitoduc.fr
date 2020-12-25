@@ -91,7 +91,8 @@
       "anglais":"surface-conduction electron-emitter display (SED)"
    },
    {
-      "français":"afficher, v",
+      "français":"afficher",
+      "classe":"verbe",
       "anglais":"display (to)"
    },
    {
@@ -118,7 +119,8 @@
       "anglais":"boot"
    },
    {
-      "français":"amorcer, v",
+      "français":"amorcer",
+      "classe":"verbe",
       "anglais":"boot (to)"
    },
    {
@@ -649,7 +651,8 @@
       "anglais":"permanent virtual circuit"
    },
    {
-      "français":"clicher, v",
+      "français":"clicher",
+      "classe":"verbe",
       "anglais":"dump (to)"
    },
    {
@@ -758,7 +761,8 @@
       "anglais":"application specific standard product (ASSP)"
    },
    {
-      "français":"compresser, v",
+      "français":"compresser",
+      "classe":"verbe",
       "anglais":"compress (to), zip (to)"
    },
    {
@@ -793,7 +797,8 @@
       "anglais":"conference call, conference calling"
    },
    {
-      "français":"configurer, v",
+      "français":"configurer",
+      "classe":"verbe",
       "anglais":"configure (to)"
    },
    {
@@ -912,7 +917,8 @@
       "anglais":"debugging"
    },
    {
-      "français":"déboguer, v",
+      "français":"déboguer",
+      "classe":"verbe",
       "anglais":"debug (to)"
    },
    {
@@ -921,7 +927,8 @@
       "anglais":"debugger"
    },
    {
-      "français":"débrider, v",
+      "français":"débrider",
+      "classe":"verbe",
       "anglais":"jailbreak (to)"
    },
    {
@@ -988,7 +995,8 @@
       "anglais":"descrambling"
    },
    {
-      "français":"désembrouiller, v",
+      "français":"désembrouiller",
+      "classe":"verbe",
       "anglais":"descramble (to)"
    },
    {
@@ -1194,7 +1202,8 @@
       "anglais":"scrambling"
    },
    {
-      "français":"embrouiller, v",
+      "français":"embrouiller",
+      "classe":"verbe",
       "anglais":"scramble (to)"
    },
    {
@@ -1372,7 +1381,8 @@
       "anglais":"diskette formatting"
    },
    {
-      "français":"formater, v",
+      "français":"formater",
+      "classe":"verbe",
       "anglais":"format (to)"
    },
    {
@@ -1420,7 +1430,8 @@
       "anglais":"lurker"
    },
    {
-      "français":"fusionner, v",
+      "français":"fusionner",
+      "classe":"verbe",
       "anglais":"merge (to)"
    },
    {
@@ -1587,7 +1598,8 @@
       "anglais":"thumbnail"
    },
    {
-      "français":"implanter, v",
+      "français":"implanter",
+      "classe":"verbe",
       "anglais":"implement (to)"
    },
    {
@@ -1608,11 +1620,13 @@
       "anglais":"collect call (EU), reverse-charge call, reverse charging (REV)"
    },
    {
-      "français":"imputer, v",
+      "français":"imputer",
+      "classe":"verbe",
       "anglais":"charge (to)"
    },
    {
-      "français":"incendier, v",
+      "français":"incendier",
+      "classe":"verbe",
       "anglais":"flame (to)"
    },
    {
@@ -1797,11 +1811,13 @@
       "anglais":"netlist"
    },
    {
-      "français":"lister, v",
+      "français":"lister",
+      "classe":"verbe",
       "anglais":"list (to)"
    },
    {
-      "français":"lister, v",
+      "français":"lister",
+      "classe":"verbe",
       "anglais":"list (to)"
    },
    {
@@ -2294,7 +2310,8 @@
       "anglais":"dense wavelength division multiplexing (DWDM)"
    },
    {
-      "français":"multiplexer, v",
+      "français":"multiplexer",
+      "classe":"verbe",
       "anglais":"multiplex (to)"
    },
    {
@@ -2337,7 +2354,8 @@
       "anglais":"digital, numeric, numerical"
    },
    {
-      "français":"numériser, v",
+      "français":"numériser",
+      "classe":"verbe",
       "anglais":"digitize (to)"
    },
    {
@@ -2667,7 +2685,8 @@
       "anglais":"desktop publishing"
    },
    {
-      "français":"publier, v",
+      "français":"publier",
+      "classe":"verbe",
       "anglais":"post (to)"
    },
    {
@@ -2792,7 +2811,8 @@
       "anglais":"virtual reality"
    },
    {
-      "français":"réamorcer, v",
+      "français":"réamorcer",
+      "classe":"verbe",
       "anglais":"reboot (to)"
    },
    {
@@ -2835,7 +2855,8 @@
       "anglais":"DNS registrar, domain name registrar, registrar"
    },
    {
-      "français":"réinitialiser, v",
+      "français":"réinitialiser",
+      "classe":"verbe",
       "anglais":"reset (to)"
    },
    {
@@ -2843,7 +2864,8 @@
       "anglais":"frame relay"
    },
    {
-      "français":"relancer, v",
+      "français":"relancer",
+      "classe":"verbe",
       "anglais":"restart (to)"
    },
    {
@@ -2963,7 +2985,8 @@
       "anglais":"home networking"
    },
    {
-      "français":"restaurer, v",
+      "français":"restaurer",
+      "classe":"verbe",
       "anglais":"reset (to), restore (to)"
    },
    {
@@ -3001,7 +3024,8 @@
       "anglais":"release"
    },
    {
-      "français":"riper, v",
+      "français":"riper",
+      "classe":"verbe",
       "anglais":"rip (to)"
    },
    {
@@ -3214,7 +3238,8 @@
       "anglais":"brightening"
    },
    {
-      "français":"surcadencer, v",
+      "français":"surcadencer",
+      "classe":"verbe",
       "anglais":"overclock (to)"
    },
    {
@@ -3344,7 +3369,8 @@
       "anglais":"picture facsimile telegraphy"
    },
    {
-      "français":"télécopier, v",
+      "français":"télécopier",
+      "classe":"verbe",
       "anglais":"fax (to)"
    },
    {
@@ -3555,7 +3581,8 @@
       "anglais":"slice, wafer"
    },
    {
-      "français":"transférer, v",
+      "français":"transférer",
+      "classe":"verbe",
       "anglais":"forward (to)"
    },
    {
@@ -3726,7 +3753,8 @@
       "anglais":"tour, visit"
    },
    {
-      "français":"visualiser, v",
+      "français":"visualiser",
+      "classe":"verbe",
       "anglais":"display (to)"
    },
    {
