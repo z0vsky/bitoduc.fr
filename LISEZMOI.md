@@ -1,7 +1,7 @@
 Clicheur
 ==========
 
-Un site basé sur Bitoduc.fr, proposant les traductions de termes informatiques basé sur la publication "Vocabulaire des techniques de l’information et de la communication (TIC)" de la Délégation générale à la langue française et aux langues de France, sous license CC-BY-CA.
+Un site basé sur Bitoduc.fr, proposant les traductions de termes informatiques basé sur la publication "Vocabulaire des techniques de l’information et de la communication (TIC)" de la Délégation générale à la langue française et aux langues de France, sous license CC-BY-SA.
 
 ## Licence
 
