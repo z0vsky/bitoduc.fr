@@ -250,17 +250,17 @@
       "anglais":"avatar"
    },
    {
-      "français":"I. balise",
+      "français":"balise",
       "genre":"f",
       "anglais":"tag"
    },
    {
-      "français":"II. balise",
+      "français":"balise",
       "genre":"f",
       "anglais":"beacon"
    },
    {
-      "français":"III. balise",
+      "français":"balise",
       "genre":"f",
       "anglais":"beacon"
    },
@@ -405,12 +405,12 @@
       "anglais":"lead, package pin, pin"
    },
    {
-      "français":"I. brouillage",
+      "français":"brouillage",
       "genre":"m",
       "anglais":"interference"
    },
    {
-      "français":"II. brouillage",
+      "français":"brouillage",
       "genre":"m",
       "anglais":"obfuscation"
    },
@@ -449,12 +449,12 @@
       "anglais":"digital postmark, electronic postmark (EPM)"
    },
    {
-      "français":"I. cadre",
+      "français":"cadre",
       "genre":"m",
       "anglais":"frame"
    },
    {
-      "français":"II. cadre",
+      "français":"cadre",
       "genre":"m",
       "anglais":"frame"
    },
@@ -538,12 +538,12 @@
       "anglais":"compact disk- interactive (CD-I)"
    },
    {
-      "français":"I. cellule",
+      "français":"cellule",
       "genre":"f",
       "anglais":"cell"
    },
    {
-      "français":"II. cellule",
+      "français":"cellule",
       "genre":"f",
       "anglais":"cell"
    },
@@ -742,7 +742,7 @@
       "anglais":"time-division switching"
    },
    {
-      "français":"Un autocommutateur temporel comprend au moins un étage de",
+      "français":"commutation temporelle",
       "anglais":"time-division switching"
    },
    {
@@ -1600,11 +1600,7 @@
    },
    {
       "français":"imputation",
-      "anglais":"charge",
-      "genre":"f"
-   },
-   {
-      "français":"L’imputation est à distinguer de la facturation (en anglais : billing), qui prend en compte la nature des abonnements souscrits, les forfaits ou réductions particulières",
+      "genre":"f",
       "anglais":"charge"
    },
    {
@@ -1779,12 +1775,12 @@
       "anglais":"e-book reader, electronic book reader, electronic reader, e-reader, reader"
    },
    {
-      "français":"I. listage",
+      "français":"listage",
       "genre":"m",
       "anglais":"listing"
    },
    {
-      "français":"II. listage",
+      "français":"listage",
       "genre":"m",
       "anglais":"listing"
    },
@@ -1801,11 +1797,11 @@
       "anglais":"netlist"
    },
    {
-      "français":"I. lister, v",
+      "français":"lister, v",
       "anglais":"list (to)"
    },
    {
-      "français":"II. lister, v",
+      "français":"lister, v",
       "anglais":"list (to)"
    },
    {
@@ -1921,12 +1917,12 @@
       "anglais":"map, mapping"
    },
    {
-      "français":"I. maquette",
+      "français":"maquette",
       "genre":"f",
       "anglais":"breadboard"
    },
    {
-      "français":"II. maquette",
+      "français":"maquette",
       "genre":"f",
       "anglais":"lay-out"
    },
@@ -1959,7 +1955,7 @@
       "anglais":"big data"
    },
    {
-      "français":"Mél",
+      "français":"mél",
       "anglais":"mail"
    },
    {
@@ -2159,11 +2155,7 @@
    },
    {
       "français":"modèle",
-      "anglais":"template",
-      "genre":"m"
-   },
-   {
-      "français":"Un modèle général peut servir à créer d’autres modèles, répondant à des usages spécifiques",
+      "genre":"m",
       "anglais":"template"
    },
    {
@@ -2468,11 +2460,7 @@
    },
    {
       "français":"pas",
-      "anglais":"pitch/spacing",
-      "genre":"m"
-   },
-   {
-      "français":"Distance entre deux broches de raccordement contiguës sur un boîtier",
+      "genre":"m",
       "anglais":"pitch, spacing"
    },
    {
@@ -2519,12 +2507,12 @@
       "anglais":"electromagnetic disturbance"
    },
    {
-      "français":"I. photonique",
+      "français":"photonique",
       "classe":"adjectif",
       "anglais":"photonic"
    },
    {
-      "français":"II. photonique",
+      "français":"photonique",
       "genre":"f",
       "anglais":"photonics"
    },
@@ -2725,10 +2713,6 @@
    },
    {
       "français":"radiodiffusion de données de service (RDS)",
-      "anglais":"radio data system (RDS)"
-   },
-   {
-      "français":"Le système est appliqué aux émetteurs de radiodiffusion sonore en modulation de fréquence",
       "anglais":"radio data system (RDS)"
    },
    {
@@ -3394,7 +3378,7 @@
       "anglais":"telematics"
    },
    {
-      "français":"II. télématique",
+      "français":"télématique",
       "genre":"f",
       "anglais":"telematics"
    },
