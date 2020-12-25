@@ -237,7 +237,7 @@
    },
    {
       "français":"autonome",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "anglais":"off line, off-line, offline"
    },
    {
@@ -300,7 +300,7 @@
    },
    {
       "français":"bibande",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "genre":"m",
       "anglais":"dual band"
    },
@@ -310,7 +310,7 @@
    },
    {
       "français":"bimode",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "genre":"m",
       "anglais":"dual mode"
    },
@@ -668,7 +668,7 @@
    },
    {
       "français":"cocuit",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "anglais":"cofired"
    },
    {
@@ -692,7 +692,7 @@
    },
    {
       "français":"cofritté, -e",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "anglais":"cofired"
    },
    {
@@ -972,7 +972,7 @@
    },
    {
       "français":"descendant, -e",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "anglais":"downstream"
    },
    {
@@ -1487,7 +1487,7 @@
    },
    {
       "français":"gradué",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "anglais":"scalable"
    },
    {
@@ -1548,7 +1548,7 @@
    },
    {
       "français":"hydrorésistant",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "anglais":"water resistant"
    },
    {
@@ -1563,7 +1563,7 @@
    },
    {
       "français":"hypertextuel",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "anglais":""
    },
    {
@@ -1651,7 +1651,7 @@
    },
    {
       "français":"interactif, -ive",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "anglais":"interactive"
    },
    {
@@ -2214,7 +2214,7 @@
    },
    {
       "français":"montant, -e",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "anglais":"upstream"
    },
    {
@@ -2250,13 +2250,13 @@
    },
    {
       "français":"multibande",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "genre":"m",
       "anglais":"multiband"
    },
    {
       "français":"multifil",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "genre":"m",
       "anglais":"multithreading"
    },
@@ -2267,12 +2267,12 @@
    },
    {
       "français":"multimédia",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "anglais":"multimedia"
    },
    {
       "français":"multiplex",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "genre":"m",
       "anglais":"multiplex"
    },
@@ -2313,7 +2313,7 @@
    },
    {
       "français":"multitâche",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "anglais":"multitask"
    },
    {
@@ -2337,7 +2337,7 @@
    },
    {
       "français":"numérique",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "anglais":"digital, numeric, numerical"
    },
    {
@@ -2515,7 +2515,7 @@
    },
    {
       "français":"I. photonique",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "anglais":"photonic"
    },
    {
@@ -2858,7 +2858,7 @@
    },
    {
       "français":"relationnel, -elle",
-      "classe":"ajectif",
+      "classe":"adjectif",
       "anglais":"relational"
    },
    {
