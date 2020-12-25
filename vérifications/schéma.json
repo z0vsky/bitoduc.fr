@@ -24,7 +24,7 @@
                     "enum": ["f", "m", "n"]
                 }
             },
-            "required": ["anglais", "français", "classe"]
+            "required": ["anglais", "français"]
         }
     }
 }
