@@ -14,7 +14,7 @@
    },
    {
       "français":"accès hertzien",
-      "anglais":""
+      "anglais":"access network, local loop"
    },
    {
       "français":"accès multiple",
@@ -738,7 +738,8 @@
       "anglais":"time-multiplex switching"
    },
    {
-      "français":"commutation temporelle"
+      "français":"commutation temporelle",
+      "anglais":"time-division switching"
    },
    {
       "français":"Un autocommutateur temporel comprend au moins un étage de",
@@ -897,8 +898,8 @@
       "anglais":"cybersquatting"
    },
    {
-      "français":"cybersquatteur, -euse, n",
-      "anglais":""
+      "français":"cybersquatteur, -euse",
+      "anglais":"cybersquatter"
    },
    {
       "français":"déblocage",
@@ -962,8 +963,9 @@
       "anglais":"demultiplexing"
    },
    {
-      "français":"démultiplexer, v",
-      "anglais":""
+      "français":"démultiplexer",
+      "classe":"verbe",
+      "anglais":"demultiplex (to)"
    },
    {
       "français":"démultiplexeur",
@@ -1033,7 +1035,7 @@
    {
       "français":"dévoiement",
       "genre":"m",
-      "anglais":""
+      "anglais":"pharming"
    },
    {
       "français":"dialogue en ligne",
@@ -1062,7 +1064,7 @@
    },
    {
       "français":"diffusion systématique sur la toile",
-      "anglais":""
+      "anglais":"netcasting, webcasting"
    },
    {
       "français":"diode électroluminescente (DEL)",
@@ -1206,7 +1208,7 @@
    },
    {
       "français":"encre électronique",
-      "anglais":""
+      "anglais":"e-ink, electronic ink"
    },
    {
       "français":"encre en poudre",
@@ -1507,7 +1509,7 @@
    },
    {
       "français":"grille informatique",
-      "anglais":""
+      "anglais":"computational grid, computing grid, grid"
    },
    {
       "français":"groupe",
@@ -1529,7 +1531,7 @@
    },
    {
       "français":"habileté numérique",
-      "anglais":""
+      "anglais":"computer literacy, digital literacy, information literacy"
    },
    {
       "français":"hachage",
@@ -1543,7 +1545,7 @@
    },
    {
       "français":"hors offre du fournisseur d’accès à l’internet,",
-      "classe":"loc.adj",
+      "classe":"locution adjective",
       "anglais":"over the top (OTT)"
    },
    {
@@ -1564,7 +1566,7 @@
    {
       "français":"hypertextuel",
       "classe":"adjectif",
-      "anglais":""
+      "anglais":"hypertext"
    },
    {
       "français":"icône",
@@ -1598,6 +1600,7 @@
    },
    {
       "français":"imputation",
+      "anglais":"charge",
       "genre":"f"
    },
    {
@@ -1674,11 +1677,11 @@
    {
       "français":"interférence",
       "genre":"f",
-      "anglais":""
+      "anglais":"wave interference"
    },
    {
       "français":"internaute, n",
-      "anglais":""
+      "anglais":"cybernaut"
    },
    {
       "français":"internet",
@@ -2015,7 +2018,7 @@
    },
    {
       "français":"mer de portes",
-      "anglais":""
+      "anglais":"sea of gates"
    },
    {
       "français":"message incendiaire",
@@ -2156,6 +2159,7 @@
    },
    {
       "français":"modèle",
+      "anglais":"template",
       "genre":"m"
    },
    {
@@ -2464,6 +2468,7 @@
    },
    {
       "français":"pas",
+      "anglais":"pitch/spacing",
       "genre":"m"
    },
    {
@@ -2548,7 +2553,7 @@
    },
    {
       "français":"plage d’accueil",
-      "anglais":""
+      "anglais":"mounting land, mounting pad"
    },
    {
       "français":"plan de masse",
@@ -2719,7 +2724,8 @@
       "anglais":"radio broadcasting"
    },
    {
-      "français":"radiodiffusion de données de service (RDS)"
+      "français":"radiodiffusion de données de service (RDS)",
+      "anglais":"radio data system (RDS)"
    },
    {
       "français":"Le système est appliqué aux émetteurs de radiodiffusion sonore en modulation de fréquence",
@@ -2961,7 +2967,7 @@
    },
    {
       "français":"réseau radioélectrique à ressources partagées",
-      "anglais":""
+      "anglais":"trunked system"
    },
    {
       "français":"réseautique",
@@ -3003,7 +3009,7 @@
    },
    {
       "français":"réutilisation de fréquence",
-      "anglais":""
+      "anglais":"frequency re-use"
    },
    {
       "français":"révision",
@@ -3676,7 +3682,7 @@
    },
    {
       "français":"vidéo",
-      "classe":"nom",
+      "classe":"nom commun",
       "anglais":"video"
    },
    {
