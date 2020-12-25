@@ -1,11 +1,6 @@
-[![Clavardage sur Gitter](https://img.shields.io/badge/clavarder-avec%20nous-brightgreen.svg)](https://gitter.im/soulaklabs/bitoduc.fr) [![Dispositif d'intégration continue](https://img.shields.io/travis/soulaklabs/bitoduc.fr.svg)](https://travis-ci.org/soulaklabs/bitoduc.fr)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-
-bitoduc.fr
+Clicheur
 ==========
 
-Un site pour la promotion de la francophonie dans le monde informatique.
-
-A website to promote french words for computer concepts.
-
-http://bitoduc.fr/
+Un site basé sur Bitoduc.fr, proposant les traductions de termes informatiques basé sur la publication "Vocabulaire des techniques de l’information et de la communication (TIC)" de la Délégation générale à la langue française et aux langues de France.
