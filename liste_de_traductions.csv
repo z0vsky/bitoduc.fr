@@ -1,1196 +1,1196 @@
-français;anglais;genre;classe
-abonné itinérant;roaming subscriber;;
-accès;hit;m;
-accès direct;direct access;;
-accès direct;random access;;
-accès hertzien;access network;;
-accès hertzien;local loop;;
-accès multiple;multiple access;;
-accès multiple par répartition en code (AMRC);code division multiple access (CDMA);;
-accès multiple par répartition en fréquence (AMRF);frequency division multiple access (FDMA);;
-accès multiple par répartition temporelle (AMRT);time division multiple access (TDMA);;
-accès sans fil à l’internet (ASFI);wireless Internet access;;
-accès séquentiel;serial access;;
-accréditation;credentials;f;
-actionneur;actuator;m;
-additif;add-on;m;
-administrateur, -trice de site, de serveur;webmaster;;
-adressage dispersé;hash code;;
-adressage dispersé;hash coding;;
-adresse de courrier électronique;e-mail address;;
-adresse informatique;address;f;
-adresse;address;f;
-adresse universelle;uniform resource locator (URL);;
-adresse universelle;universal resource locator (URL);;
-affaiblissement;attenuation;m;
-affaiblissement;loss;m;
-affichage;display;m;
-affichage à émission d’électrons par conduction de surface (AEC);surface-conduction electron-emitter display (SED);;
-afficher;display (to);;verbe
-agenda électronique;organizer;;
-agent;agent;m;
-aide au dépannage;troubleshooting;;
-algorithmique;algorithmics;f;
-amorce;boot;f;
-amorcer;boot (to);;verbe
-ancre;anchor;f;
-animateur-trice de communauté;community manager;;
-animateur-trice de communauté en ligne;community manager;;
-animatique;animatics;f;
-anneau de sites;webring;;
-annuaire électronique;electronic directory;;
-antémémoire;cache memory;f;
-antémémoire;cache storage;f;
-anticrènelage;antialiasing;m;
-appairage;peering;m;
-appariement de formes;pattern matching;;
-appliquette;applet;f;
-apportez votre équipement personnel de communication (AVEC);bring your own device (BYOD);;
-apprentissage par les réseaux;social learning;;
-ardoise électronique;notepad computer;;
-arrière-guichet;back office;m;
-arrière-plan (d’);background;;locution adjective
-arrobe;at-sign;f;
-arrosage;spamming;m;
-arroseur, -euse, n;spammer;;
-article de forum;news posting;;
-article de forum;news item;;
-article de forum;news article;;
-assemblage;assembly;m;
-assistant;wizard;m;
-assistant électronique de poche (ADP);personal digital assistant (PDA);;
-atelier collaboratif;fablab;;
-atelier collaboratif;fabrication laboratory;;
-atelier de fabrication collaboratif;fablab;;
-atelier de fabrication collaboratif;fabrication laboratory;;
-audioconférence;audioconference;f;
-audiofréquence;audiofrequency;f;
-autonome;off line;;adjectif
-autonome;off-line;;adjectif
-autonome;offline;;adjectif
-autoroutes de l’information;Infobahn (All);;
-autoroutes de l’information;information highway;;
-autoroutes de l’information;information superhighway;;
-avatar;avatar;m;
-balise;tag;f;
-balise;beacon;f;
-balise;beacon;f;
-bande de fréquences banalisée;citizen’s band (CB);;
-bannière;skyscraper;f;
-banque de connaissances;knowledge pool;;
-banque de données;data bank;;
-barre d’actualités;newsbar;f;
-barre;newsbar;f;
-barrière de sécurité;firewall;;
-base de connaissances;knowledge database;;
-base de connaissances;knowledge base;;
-base de données;data base;;
-base de données;database;;
-bibande;dual band;m;adjectif
-bibliothèque de cellules;cell library;;
-bimode;dual mode;m;adjectif
-bloc;block;m;
-bloc de propriété intellectuelle (BPI);intellectual property block;;
-bloc de propriété intellectuelle (BPI);IP block;;
-bloc de propriété intellectuelle (BPI);IP core;;
-bloc de PI;intellectual property block;bloc de PI;bloc de PI
-bloc de PI;IP block;bloc de PI;bloc de PI
-bloc de PI;IP core;;
-bloc-notes électronique;notebook;;
-bloc-notes électronique;notebook computer;;
-blogue;blog;m;
-blogue;weblog;m;
-bogue;bug;m;
-boîte aux lettres;mail box;;
-boîtier;package;m;
-boîtier adaptateur;set top box;;
-boîtier à puce;chip-scale package (CSP);;
-boîtier matriciel;grid array;;
-boîtier matriciel à billes;ball grid array (BGA);;
-boîtier matriciel à broches;pin grid array (PGA);;
-boîtier multiservice;–;m;
-boîtier;–;m;
-boîtier-système;system in package (SiP);m;
-bombardement;bombing;m;
-bombe programmée;logic bomb;f;
-bombe;logic bomb;f;
-boule de commande;rolling ball;;
-boule de commande;trackball;;
-brasage;brazing;m;
-brasage;soldering;m;
-bribe;chip;f;
-broche de raccordement;lead;;
-broche de raccordement;package pin;;
-broche de raccordement;pin;;
-brouillage;interference;m;
-brouillage;obfuscation;m;
-bureautique;bureautics;f;
-bureautique;office automation;f;
-bus;bus;m;
-câblage;wiring;m;
-cache;cache;m;
-cache-disque;disk cache;m;
-cache-toile;web cache;m;
-cachet postal électronique;digital postmark;;
-cachet postal électronique;electronic postmark (EPM);;
-cadre;frame;m;
-cadre;frame;m;
-calculateur;computer;m;
-calculette;pocket calculator;f;
-calcul intensif;supercomputing;;
-canal banalisé (CB);citizen’s band radio (CB);;
-canal de fréquences;channel;;
-canal de fréquences;frequency channel;;
-canal radioélectrique;channel;;
-canal radioélectrique;radiofrequency channel;;
-canal radioélectrique;RF channel;;
-canular;hoax;m;
-caractérisation;characterisation (GB);f;
-caractérisation;characterization (EU);f;
-carillon;earcon;m;
-carrousel;cover flow-like design;m;
-carte électronique;board;;
-carte électronique;electronic board;;
-carte fille;daughter board;;
-carte fille;daughterboard;;
-carte fille;daughter card;;
-carte fille;daughtercard;;
-carte mère;mother board;;
-carte mère;motherboard;;
-carte mère;mother card;;
-carte mère;mothercard;;
-carte SIM;SIM card;;
-carte SIM;subscriber identification module (SIM);;
-cébiste, n;CB user;;
-cédérom;compact disk read-only memory (CD-ROM);m;
-cédérom autonome;live CD;;
-cédérom interactif;compact disk- interactive (CD-I);;
-cellule;cell;f;
-cellule;cell;f;
-cellule binaire;binary cell;;
-cellule binaire;bit cell;;
-cellule binaire;single-level cell (SLC);;
-cellule de mémoire;memory cell;;
-cellule multiniveau;multi-level cell (MLC);;
-cellule multiniveau;multilevel cell (MLC);;
-centre d’appels;call center (EU);;
-centre d’appels;call centre (GB);;
-centre d’assistance;help desk;;
-centre de commutation du service des mobiles;mobile switching centre (MSC);;
-centre de conception;design center (EU);;
-centre de conception;design centre (GB);;
-cercle de confiance;circle of trust;;
-charge utile;payload;;
-cheval de Troie;Trojan horse;;
-chiffre binaire;binary digit;;
-chiffre binaire;bit;;
-circuit à configurations multiples;reconfigurable circuit;;
-circuit de télécommunication;circuit;;
-circuit de télécommunication;telecommunication circuit;;
-circuit imprimé nu;printed circuit board (PCB);;
-circuit intégré développé pour un client (CIC);application specific integrated circuit (ASIC);;
-circuit intégré développé pour un client (CIC);user specific integrated circuit (USIC);;
-circuit intégré client (langage professionnel);application specific integrated circuit (ASIC);;
-circuit intégré client (langage professionnel);user specific integrated circuit (USIC);;
-circuit intégré hybride;hybrid integrated circuit (HIC);;
-circuit intégré précaractérisé;cell based;;
-circuit intégré précaractérisé;cell based circuit;;
-circuit intégré précaractérisé;standard cell;;
-circuit intégré prédiffusé;diffusion cell array;;
-circuit intégré prédiffusé;gate array;;
-circuit intégré prédiffusé programmable;field programmable gate array (FPGA);;
-circuit intégré semi-personnalisé;semi- custom circuit;m;
-circuit intégré sur mesure;full custom circuit;;
-circuit tampon;buffer circuit;;
-circuit virtuel;virtual circuit;;
-circuit virtuel commuté;switched virtual circuit;;
-circuit virtuel permanent;permanent virtual circuit;;
-clicher;dump (to);;verbe
-cliquer, v.intr;click (to);;
-cliquer-parler;click and talk;m;
-cliquer-parler;Web call back;m;
-cliquer-parler;Web call through;m;
-cocuisson;cofiring;f;
-cocuit;cofired;;adjectif
-code à octets;bytecode;;
-codet;code element;m;
-cœur de processeur;core;m;
-cœur de processeur;processor core;m;
-cœur;core;m;
-cœur;processor core;m;
-cofrittage;cofiring;m;
-cofritté, -e;cofired;;adjectif
-collage;bootleg (collage musical);m;
-collage;mash-up;m;
-collage;mashup;m;
-collecteur;crawler;m;
-communication en champ proche (CCP);near field communication (NFC);;
-commutation analogique;analog switching (EU);;
-commutation analogique;analogue switching (GB);;
-commutation de circuits;circuit switching;;
-commutation de messages;message switching;;
-commutation de messages;store-and-forward switching;;
-commutation de paquets;packet switching;;
-commutation numérique;digital switching;;
-commutation spatiale;space-division switching;;
-commutation spatiale multiplexée;time-multiplex switching;;
-commutation temporelle;time-division switching;;
-commutation temporelle;time-division switching;;
-complément de service;supplementary service;;
-composant discret;discrete component;;
-composant spécifique standard (CSS);application specific standard product (ASSP);;
-compresser;compress (to);;verbe
-compresser;zip (to);;verbe
-concentrateur;hub;m;
-concepteur de circuits;circuit designer;;
-conception;design;f;
-conception assistée par ordinateur appliquée à l’électronique (CAOE);electronic computer-aided design (ECAD);;
-conception pour test;design for testability;;
-conducteur-poutre;beam lead;m;
-conférence téléphonique;conference call;;
-conférence téléphonique;conference calling;;
-configurer;configure (to);;verbe
-connectabilité;connectivity;f;
-connecteur logiciel;socket;;
-connexion;log in;f;
-connexion;log on;f;
-connexité;connectivity;f;
-conservation du numéro;number portability;;
-console de visualisation;display unit;;
-contrôleur de mémoire;integrated memory controller (IMC);;
-contrôleur de mémoire;memory controller hub (MCH);;
-contrôleur de mémoire;northbridge;;
-contrôleur d’entrée et de sortie;input/output controller hub;;
-contrôleur d’entrée et de sortie;I/O controller hub (ICH);;
-contrôleur d’entrée et de sortie;platform controller hub (PCH);;
-contrôleur d’entrée et de sortie;southbridge;;
-contrôleur d’entrée-sortie (langage professionnel);input/output controller hub;;
-contrôleur d’entrée-sortie (langage professionnel);I/O controller hub (ICH);;
-contrôleur d’entrée-sortie (langage professionnel);platform controller hub (PCH);;
-contrôleur d’entrée-sortie (langage professionnel);southbridge;;
-conversation à trois;3PTY;;
-conversation à trois;three-party call;;
-conversation à trois;three-party calling;;
-conversation à trois;three-party conference;;
-conversation à trois;three-way calling;;
-convertisseur analogique-numérique (CAN);analog-to-digital converter (ADC) (EU);;
-convertisseur analogique-numérique (CAN);analogue-to-digital converter (ADC) (GB);;
-convertisseur A/N;analog-to-digital converter (ADC) (EU);;
-convertisseur A/N;analogue-to-digital converter (ADC) (GB);;
-convivialité;user-friendliness;f;
-copiage de carte;card skimming;;
-copiage de carte;credit card skimming;;
-copiage de carte;skimming;;
-copieur de carte;credit card skimmer;;
-copieur de carte;credit card skimming device;;
-copieur de carte;skimmer;;
-copieur de carte;skimming device;;
-coprocesseur;coprocessor;m;
-couplage de la téléphonie et de l’informatique (CTI);computer telephony integration (CTI);;
-couplage téléphonie- informatique;computer telephony integration (CTI);;
-courriel;electronic mail;m;
-courriel;e-mail;m;
-courrier hybride;hybrid mail;;
-cours en ligne d’accès restreint (CLAR);small private online course (SPOC);;
-cours en ligne ouvert à tous;massively open online course (MOOC);;
-cours en ligne ouvert à tous;massive open online course (MOOC);;
-créneau temporel;time-slot;;
-crènelage;aliasing;m;
-cyberconférence;e-conference;f;
-cyberconférence;web conference;f;
-cyberconférence;web conferencing;f;
-cybersquat;cybersquatting;m;
-cybersquatteur, -euse;cybersquatter;;
-déblocage;unlocking;m;
-débogage;debugging;m;
-déboguer;debug (to);;verbe
-débogueur;debugger;m;
-débrider;jailbreak (to);;verbe
-découpage temporel;time slicing;;
-défaillance;failure;f;
-défilement;scrolling;m;
-définition;scrolling;f;
-dégroupage;unbundling;m;
-démon;daemon;m;
-démon;disk and execution monitor;m;
-démon de messagerie;mailer daemon;;
-démultiplexage;demultiplexing;m;
-démultiplexer;demultiplex (to);;verbe
-démultiplexeur;demultiplexer;m;
-descendant, -e;downstream;;adjectif
-descripteur;descriptor;m;
-désembrouillage;descrambling;m;
-désembrouiller;descramble (to);;verbe
-désembrouilleur;descrambler;m;
-desserte par fibre (DF);fiber in the loop (FITL);;
-desserte par fibre (DF);fiber to the… (FTTx);;
-desserte par fibre de l’abonné (DFA);fiber to the home (FTTH);;
-desserte par fibre de l’abonné (DFA);fiber to the office (FTTO);;
-desserte par fibre de l’abonné (DFA);fiber to the premises (FTTP);;
-desserte par fibre de l’immeuble (DFI);fiber to the building (FTTB);;
-desserte par fibre de l’immeuble (DFI);fiber to the curb (FTTC);;
-détournement;slamming;m;
-déverminage;burn-in;m;
-déverrouillage SIM;SIM unlocking;m;
-déverrouillage;SIM unlocking;m;
-déviation d’appels;call deflection;;
-dévideur;streamer;m;
-dévoiement;pharming;m;
-dialogue en ligne;chat;;
-diffusion;diffusion;f;
-diffusion ciblée;narrowcast;;
-diffusion ciblée;narrowcasting;;
-diffusion générale;broadcast;;
-diffusion groupée;multicasting;;
-diffusion pour baladeur;podcasting;;
-diffusion systématique sur la toile;netcasting;;
-diffusion systématique sur la toile;webcasting;;
-diode électroluminescente (DEL);light-emitting diode (LED);;
-diode électroluminescente organique (DELO);organic light-emitting diode (OLED);;
-directeur des systèmes d’information (DSI);chief information officer (CIO);;
-directeur des techniques informatiques (DTI);chief technology officer (CTO);;
-dispositif à couplage de charge (DCC);charge-coupled device (CCD);;
-dispositif à transfert de charges (DTC);charge-transfer device (CTD);;
-dispositif en chapelet;bucket-brigade device (BBD);;
-disque compact;compact disc (CD);;
-disque compact;compact disk (CD);;
-disque dur hybride (DDH);hybrid hard drive (HHD);;
-disque numérique polyvalent;digital versatile disk (DVD);;
-disque optique;optical disk;;
-disque statique à semiconducteurs (DSS);solid state disk (SSD);;
-disque statique;solid state disk (SSD);;
-disque statique;solid state drive (SSD);;
-disque statique;solid state drive (SSD);;
-disquette;diskette;f;
-disquette;floppy disk;f;
-disque vidéo à durée déterminée (DVDD);disposable DVD;;
-disque vidéo à durée déterminée (DVDD);self-destructing DVD;;
-distribution sélective;push technology;;
-documentation intégrée (à);self-documented;;
-domaine;domain;m;
-domaine de premier niveau;top-level domain (TLD);;
-donnée;data;f;
-données ouvertes;open data;;
-dorsale;backbone;f;
-droit irrévocable d’usage (langage professionnel) (DIU);indefeasible right of use (IRU);;
-échange de données informatisé (EDI);electronic data interchange (EDI);;
-écotechniques de l’information et de la communication (éco-TIC (langage professionnel));green information technology;;
-écotechniques de l’information et de la communication (éco-TIC (langage professionnel));green IT;;
-écran à double affichage;dual view display;;
-écran à double affichage;dual view LCD;;
-écran tactile;touch screen;;
-écriture directe;direct writing;;
-éditeur;editor;m;
-élément binaire;binary character;m;
-élément binaire;binary digit;m;
-élément binaire;bit;m;
-embrouillage;scrambling;m;
-embrouiller;scramble (to);;verbe
-embrouilleur;scrambler;m;
-encapsulation sur tranche;wafer-level packaging (WLP);;
-encre électronique;e-ink;;
-encre électronique;electronic ink;;
-encre en poudre;toner;;
-enfant du numérique;digital native;;
-enregistreur de frappe;keylogger;;
-entrepôt de données;data warehouse;;
-environnement de développement;application framework;;
-environnement de développement;framework;;
-environnement de développement;integrated development environment (IDE);;
-envoi à la cantonade;anycast;;
-envoi à la cantonade;anycasting;;
-envoi individuel;unicast;;
-envoi individuel;unicasting;;
-épitaxie;epitaxy;f;
-espace de confiance;trust environment;;
-espace partagé de travail en ligne;–;;
-étiquette;label;f;
-évanouissement;fading;m;
-exploitation;operation;f;
-explorateur de modèle;model-checker;;
-exploration de données;datamining;;
-exploration de modèle;model checking;;
-extensibilité;scalability;f;
-extranet;extranet;m;
-femtocellule;femtocell;f;
-fenêtre;window;f;
-fenêtre d’attente;splash screen;;
-fenêtre intruse;pop-up;;
-fenêtre intruse;pop-up window;;
-fibre noire;dark fiber (EU);;
-fibre noire;dark fibre (GB);;
-fil de la discussion;thread;m;
-fil;thread;m;
-fil d’exécution;thread;;
-filoutage;phishing;m;
-fixage de puce;die bond;;
-fixage de puce;die bonding;;
-flux (en);streaming;;locution adjective
-flux de dépêches;really simple syndication (RSS);;
-flux de dépêches;RSS feed;;
-flux de travaux;workflow;m;
-flux;workflow;m;
-foire aux questions (FAQ);FAQ file;;
-foire aux questions (FAQ);frequently asked questions (FAQ);;
-foire aux questions (FAQ);frequently asked questions file;;
-fonction modem (mobile);tethering;;
-fond de panier;back panel;;
-fond de panier;backplane;;
-fonderie de silicium;silicon foundry;;
-fondeur de silicium;silicon founder;;
-format;format;m;
-formatage d’une disquette;diskette formatting;;
-formater;format (to);;verbe
-formation en ligne;e-learning;;
-formation en ligne;e-training;;
-formation en ligne;on-line training;;
-forme;pattern;f;
-forum;newsgroup;m;
-fouineur;hacker;m;
-fournisseur d’accès;access provider;;
-fournisseur d’accès à l’internet (FAI);Internet access provider (IAP);;
-fournisseur d’accès à l’internet (FAI);Internet service provider (ISP);;
-fournisseur d’applications en ligne;application service provider (ASP);;
-fournisseur de services;service provider;;
-frimousse;emoticon;f;
-frimousse;smiley;f;
-fureteur, -euse, n;lurker;;
-fusionner;merge (to);;verbe
-gain;gain;m;
-gain;power gain;m;
-gain;transmission gain;m;
-gamme de couleurs;color gamut;;
-gamme de couleurs;gamut;;
-gant numérique;data glove;;
-générateur de dessin de masques (GDM);mask pattern generator;;
-génération de séquences de test (GST);test pattern generation (TPG);;
-génie informatique;computer engineering;;
-génie logiciel;software engineering;;
-géolocalisation par satellite;geosatellite positioning;;
-géorepérage;geofencing;m;
-gérance de l’informatique;facilities management;;
-gestion de l’archivage;records management;;
-gestion des droits numériques (GDN);digital rights management (DRM);;
-gestionnaire d’évènement;event handler;;
-gestionnaire d’évènement;handler;;
-glisser-déposer;drag and drop;m;
-graduation;scalability;f;
-gradué;scalable;;adjectif
-grapheur;graphics software;m;
-grappe;cluster;f;
-gravure;etching;f;
-grille informatique;computational grid;;
-grille informatique;computing grid;;
-grille informatique;grid;;
-groupe;cluster;m;
-groupe fermé d’usagers (GFU);closed user group (CUG);;
-guichet;front office;m;
-guichet unique;one stop shopping (OSS);;
-habileté numérique;computer literacy;;
-habileté numérique;digital literacy;;
-habileté numérique;information literacy;;
-hachage;hash code;m;
-heuristique;heuristics;f;
-hors offre du fournisseur d’accès à l’internet,;over the top (OTT);;locution adjective
-hydrorésistant;water resistant;;adjectif
-hyperfréquence;microwave frequency;f;
-hypertexte;hypertext;m;
-hypertextuel;hypertext;;adjectif
-icône;icon;f;
-identification des appels malveillants (IAM);malicious call identification (MCID);;
-identité internationale d’abonnement mobile;international mobile subscriber identity (IMSI);;
-identité internationale d’abonnement mobile;international mobile subscription identity (IMSI);;
-imagette;thumbnail;f;
-implanter;implement (to);;verbe
-implémenter, v.  (langage professionnel);implement (to);;
-impression en ligne;e-printing;;
-impression en ligne;web2print;;
-impression en ligne;web-to-print;;
-imputation;charge;f;
-imputation à l’arrivée;collect call (EU);;
-imputation à l’arrivée;reverse-charge call;;
-imputation à l’arrivée;reverse charging (REV);;
-imputer;charge (to);;verbe
-incendier;flame (to);;verbe
-indexation personnelle;folksonomy;;
-indication d’appel en instance (IAI);call waiting (CW);;
-indication de prix;advice of charge (AOC);;
-informatique en nuage;cloud computing;;
-infrastructure à la demande;infrastructure as a service (IaaS);;
-inhabileté numérique;computer illiteracy;;
-inhabileté numérique;digital illiteracy;;
-inhabileté numérique;information illiteracy;;
-instruction;instruction;f;
-instruction;statement;f;
-intelligence artificielle (IA);artificial intelligence (AI);;
-interactif, -ive;interactive;;adjectif
-intercepteur d’IMSI;IMSI catcher;;
-interdiction d’appels à l’arrivée;incoming call barring (ICB);;
-interdiction d’appels au départ;outgoing call barring (OCB);;
-interface;interface;f;
-interférence;wave interference;f;
-internaute, n;cybernaut;;
-internet;Internet;m;
-internet;Internet network;m;
-internet;Net;m;
-intranet;intranet;m;
-investigation informatique;discovery;;
-investigation informatique;e-discovery;;
-invitation à émettre;polling;;
-invitation à recevoir;selecting;;
-invite;prompt;f;
-jeu de puces;chipset;;
-jeu sérieux;serious game;;
-langage à objets;object-oriented language;;
-lecteur;card reader;m;
-lettre d’information;newsletter;;
-liaison descendante;downlink;;
-liaison louée (LL);leased circuit;;
-liaison louée (LL);leased line (LL);;
-liaison louée (LL);leased link;;
-liaison montante;uplink;;
-liaison numérique asymétrique;asymmetric digital subscriber line (ADSL);;
-liaison numérique symétrique;symmetric digital subscriber line (SDSL);;
-liaison spécialisée (LS);dedicated line;;
-lien;link;m;
-lien;linkage;m;
-ligne (en);on line;;locution adjective
-ligne (en);on-line;;locution adjective
-ligne (en);online;;locution adjective
-ligne d’accès;access line;;
-ligne d’accès;local line;;
-ligne d’accès;subscriber line;;
-ligne d’accès numérique;digital subscriber line (DSL);;
-liseuse;e-book reader;f;
-liseuse;electronic book reader;f;
-liseuse;electronic reader;f;
-liseuse;e-reader;f;
-liseuse;reader;f;
-listage;listing;m;
-listage;listing;m;
-liste de diffusion;mailing list;;
-liste de signets;hotlist;;
-liste d’interconnexions;netlist;;
-lister;list (to);;verbe
-lister;list (to);;verbe
-livre numérique;e-book;;
-livre numérique;electronic book;;
-logement;slot;m;
-logiciel;software;m;
-logiciel à contribution;shareware;;
-logiciel à la demande;software as a service (SaaS);;
-logiciel antivirus;antivirus program;;
-logiciel antivirus;antivirus software;;
-logiciel antivirus;vaccine program;;
-logiciel de dessin;drawing software;;
-logiciel de groupe de travail;groupware;;
-logiciel de navigation;browser;;
-logiciel de traitement de texte;word processor;;
-logiciel de vérification de schéma (LVS);layout versus schematic (LVS);;
-logiciel éducatif;educational software;;
-logiciel espion;spyware;;
-logiciel gratuit;freeware;;
-logiciel libre;free software;;
-logiciel libre;open source software;;
-logiciel malveillant;malicious logic;;
-logiciel malveillant;malicious software;;
-logiciel malveillant;malware;;
-logiciel médiateur;middleware;;
-logiciel publicitaire;advertising software;;
-logiciel publicitaire;adware;;
-logiciel-socle;baseware;m;
-macrocellule;megacell;f;
-macro-instruction;macro;f;
-macro-instruction;macroinstruction;f;
-macroordinateur;mainframe;m;
-magasin de données;datamart;;
-maintenabilité;maintainability;f;
-manche à balai;joystick;;
-mappe;map;f;
-mappe;mapping;f;
-maquette;breadboard;f;
-maquette;lay-out;f;
-marquage;highlighting;m;
-masque;mask;m;
-matériel;hardware;m;
-matériel à la demande;hardware as a service (HaaS);;
-matrice de micromiroirs (MDM);digital micromirror device (DMD);;
-mégadonnées;big data;f;
-mél;mail;;
-mémoire;storage memory;f;
-mémoire à cellules multiniveaux (MCM);multi-level cell memory (MCM);;
-mémoire à cellules multiniveaux (MCM);multilevel cell memory (MCM);;
-mémoire flash;flash memory;;
-mémoire magnétique;magnetic storage;;
-mémoire morte;read-only memory (ROM);;
-mémoire non volatile;non volatile memory;;
-mémoire non volatile;nonvolatile memory (NVM);;
-mémoire tampon;buffer;m;
-tampon;buffer;m;
-mémoire vive;random- access memory (RAM);;
-mémoire vive dynamique;dynamic RAM;;
-mémoire vive dynamique;dynamic random-access memory (DRAM);;
-mémoire vive magnétique;magnetic random access memory (MRAM);;
-mémoire vive résistive;resistive RAM;;
-mémoire vive résistive;resistive random access memory (ReRAM, RRAM);;
-mémoire vive statique;static RAM;;
-mémoire vive statique;static random access memory (SRAM);;
-mémoire volatile;volatile memory;;
-mer de portes;sea of gates;;
-message incendiaire;flame;;
-message multimédia;MMS message;;
-message multimédia;multimedia message;;
-messagerie électronique;electronic mail;;
-messagerie électronique;electronic messaging;;
-messagerie électronique;e-mail;;
-messagerie instantanée;instant messaging;;
-messagerie instantanée vocale (MIV);push-to-talk (PTT);;
-messagerie instantanée vocale (MIV);push-to- talk over cellular (POC);;
-messagerie instantanée vocale (MIV);walkie-talkie service;;
-messagerie interpersonnelle;interpersonal messaging service;;
-messagerie interpersonnelle;message handling service;;
-messagerie vocale;voice mail;;
-messagerie vocale;voice messaging;;
-métallisation;metallisation (GB);f;
-métallisation;metallization (EU);f;
-microblogage;microblogging;m;
-microblogue;microblog;m;
-microblogue;thread;m;
-microcontrôleur;microcontroller;m;
-micromiroir;micromirror;m;
-micro-onde;microwave;f;
-microordinateur;microcomputer;m;
-microphone sans fil;wireless microphone;;
-micropoutre;microcantilever;f;
-microprocesseur;microprocessor;m;
-microprogramme;firmware;m;
-microsoudeuse de puces;die bonder;;
-microstation terrienne;very small aperture terminal (VSAT);f;
-microstation;very small aperture terminal (VSAT);f;
-microsystème électromécanique;micro- electromechanical system (MEMS);;
-microsystème optoélectromécanique;micro-opto- electromechanical system (MOEMS);;
-micro-usinage;micromachining;m;
-micro-usinage de surface;surface micromachining;;
-micro-usinage de volume;bulk micromachining;;
-minimessage;short message;m;
-mise à niveau;upgrade;;
-mise en attente;call hold;;
-mise en attente;hold;;
-mise en boîtier;encapsulation;;
-mise en boîtier;packaging;;
-mode de transfert asynchrone;asynchronous transfer mode (ATM);;
-mode dialogué;conversational mode;;
-modèle;template;m;
-modem;modem;m;
-modérateur, -trice, n;moderator;;
-modulation à spectre étalé;spread spectrum modulation;;
-modulation à spectre étalé;spread spectrum transmission;;
-modulation à spectre étalé à sauts de fréquence;FHSS modulation;;
-modulation à spectre étalé à sauts de fréquence;frequency hopping spread spectrum modulation;;
-modulation  SESF;FHSS modulation;;
-modulation  SESF;frequency hopping spread spectrum modulation;;
-modulation à spectre étalé à séquence directe;direct sequence spread spectrum modulation;;
-modulation à spectre étalé à séquence directe;DSSS modulation;;
-modulation  SESD;direct sequence spread spectrum modulation;;
-modulation  SESD;DSSS modulation;;
-modulation d’impulsions en amplitude (MIA);pulse amplitude modulation (PAM);;
-modulation d’impulsions en durée (MID);pulse width modulation (PWM);;
-modulation d’impulsions en position (MIP);pulse position modulation (PPM);;
-modulation par impulsions et codage (MIC);pulse code modulation (PCM);;
-module d’extension;plug-in;f;
-extension;plug-in;f;
-module  multipuce;multi- chip module (MCM);;
-montage en surface;surface mounting;;
-montage en surface;surface mount technology (SMT);;
-montant, -e;upstream;;adjectif
-morphose;morphing;f;
-mot clé;key word;;
-mot-dièse;hashtag;m;
-moteur de recherche;search engine;;
-moteur d’exécution;runtime software;;
-moteur d’inférence;inference engine;;
-motif;pattern;m;
-multibande;multiband;m;adjectif
-multifil;multithreading;m;adjectif
-multifil simultané;simultaneous multithreading (SMT);;locution adjective
-multimédia;multimedia;;adjectif
-multiplex;multiplex;m;adjectif
-multiplexage;multiplexing;m;
-multiplexage dans le temps;time-division multiplexing (TDM);;
-multiplexage par répartition dans le temps (MRT);time-division multiplexing (TDM);;
-multiplexage en code;code division multiplexing (CDM);;
-multiplexage par répartition en code (MRC);code division multiplexing (CDM);;
-multiplexage en fréquence;frequency division multiplexing (FDM);;
-multiplexage par répartition en fréquence (MRF);frequency division multiplexing (FDM);;
-multiplexage en longueur d’onde;dense wavelength division multiplexing (DWDM);;
-multiplexage par répartition en longueur d’onde (MRL);dense wavelength division multiplexing (DWDM);;
-multiplexer;multiplex (to);;verbe
-multiplexeur;multiplexer;m;
-multiprocesseur;multiprocessor;m;
-multitâche;multitask;;adjectif
-multitraitement;multiprocessing;m;
-neurone artificiel;artificial neuron;;
-neurone artificiel;artificial neurone;;
-nommage;naming;m;
-nuage;cloud;m;
-numérique;digital;;adjectif
-numérique;numeric;;adjectif
-numérique;numerical;;adjectif
-numériser;digitize (to);;verbe
-numériseur;digitizer;m;
-numériseur;scanner;m;
-numéro conservable;portable number;;
-numéro d’urgence;hot line;;
-numéro d’urgence;hotline;;
-numéros multiples;multiple subscriber number (MSN);;
-obligation de diffusion;must carry;;
-octet;byte;m;
-office d’enregistrement;TLD registrar;;
-office d’enregistrement;top-level domain registrar;;
-offre groupée;bundle;;
-offre groupée;package;;
-opérateur de télécommunication;operating body;m;
-opérateur de télécommunication;operator;m;
-opérateur;operating body;m;
-opérateur;operator;m;
-opérateur de téléphonie mobile sans réseau;mobile virtual network operator (MVNO);;
-option d’adhésion (à);opt-in;;locution adjective
-option de retrait (à);opt-out;;locution adjective
-optoélectronique;optoelectronics;f;
-optoélectronique;optronics;f;
-ordinateur;computer;m;
-ordinateur de bureau;desktop;;
-ordinateur de bureau;desktop computer;;
-ordinateur de poche;palmtop computer;;
-ordinateur de poche;pocket computer;;
-ordinateur individuel;personal computer (PC);;
-ordinateur portable;lap top computer;;
-ordinateur portable;portable computer;;
-ouverture des données;open data;;
-ouverture des données;open data policy;;
-page d’accueil;home page;;
-page d’accueil;homepage;;
-page sur la toile;web page;;
-page sur la toile;webpage;;
-paiement à la séance;pay-per-view;;
-pair à pair;peer-to-peer (P2P, P-to-P);;locution adjective invariable
-panne;fault;f;
-papier électronique;electronic paper;;
-papier électronique;e-paper;;
-paquet;packet;m;
-parcours sur la toile;clickstream;;
-pas;pitch;m;
-pas;spacing;m;
-passerelle;gateway;f;
-pastillage;chip-on-board process;m;
-pastillage;COB process;m;
-pastille;land;f;
-pavé tactile;touch pad;;
-pavé tactile;track pad;;
-pédopiégeage;child grooming;m;
-pédopiégeage;grooming;m;
-péritéléphonie;peritelephony;f;
-péritélévision;television environment;f;
-permutation;swap;f;
-perturbation électromagnétique;electromagnetic disturbance;;
-photonique;photonic;;adjectif
-photonique;photonics;f;
-pièce jointe;attachment;;
-pièce jointe;attachment file;;
-pilote de périphérique;driver;;
-pirate;cracker;m;
-pixel;picture element (PEL);m;
-pixel;pixel (PEL) [picture est souvent abrégé en pic ou en pix];m;
-placement;placement;m;
-plage d’accueil;mounting land;;
-plage d’accueil;mounting pad;;
-plan de masse;floorplan;;
-plateforme à haute altitude (PHA);high altitude platform (HAP);;
-plateforme à haute altitude (PHA);high altitude radio platform;;
-plateforme à haute altitude (PHA);stratospheric platform;;
-plot de contact;bump contact;m;
-plot;bump contact;m;
-pointeur;pointer;m;
-polarisation;bias;f;
-polarisation;biasing;f;
-polarisation d’une antenne;polarisation (GB);;
-polarisation d’une antenne;polarization (EU);;
-police de caractères;font;f;
-police;font;f;
-pont;bridge;m;
-ponteuse;wire bonder;f;
-portail;portal;m;
-porte;gate;f;
-porteuse;carrier;f;
-portier;gatekeeper;m;
-poste téléphonique sans cordon;cordless telephone;;
-présentation de la ligne appelante;caller ID;;
-présentation de la ligne appelante;calling line identification presentation (CLIP);;
-présentation de la ligne obtenue;connected line identification presentation (COLP);;
-prêt à l’emploi;plug-and-play (PnP);;locution adjective
-processeur;processor;m;
-processeur bicœur;dual core;m;
-processeur bicœur;dual core processor;m;
-bicœur;dual core;m;
-bicœur;dual core processor;m;
-processeur multicœur;multicore;;
-processeur multicœur;multicore processor;;
-processeur quadricœur;quad core;;
-processeur quadricœur;quad core processor;;
-processeur vectoriel;array processor;;
-production participative;crowdsourcing;;
-progiciel;package;m;
-programmation par objets;object-oriented programming;;
-protocole;protocol;m;
-publication assistée par ordinateur (PAO);desktop publishing;;
-publier;post (to);;verbe
-puce;chip;f;
-puce;die;f;
-puce retournée;flip-chip;;
-puce-système;system on chip (SoC);f;
-quadruple service;quadruple play;;
-quantité d’information;information content;;
-raccourci au clavier;hot key;;
-radiobalise;radio beacon;f;
-radiocommande;radio-control;f;
-radiodiffusion;radio broadcasting;f;
-radiodiffusion de données de service (RDS);radio data system (RDS);;
-radiodiffusion sonore;sound broadcasting;;
-radiodiffusion visuelle;television broadcasting;;
-radiogoniométrie;radio direction finding;f;
-radiogoniométrie;radiogoniometry;f;
-radioguidage;radioguidance;m;
-radio-identifiant;radio frequency identification tag;m;
-radio-identifiant;RFID tag;m;
-radio-identifiant actif (RIDA);active RFID tag;;
-radio-identifiant actif (RIDA);active tag;;
-radio-identifiant passif (RIDP);passive RFID tag;;
-radio-identifiant passif (RIDP);passive tag;;
-radio-identifiant semi-actif (RIDSA);BAP tag;;
-radio-identifiant semi-actif (RIDSA);battery-assisted passive tag;;
-radio-identifiant semi-actif (RIDSA);semi-passive tag;;
-radio-identification (RID);radio frequency identification (RFID);f;
-radio intelligente (RI);cognitive radio;;
-radio logicielle (RL);software-defined radio (SDR);;
-radio logicielle (RL);software radio;;
-radiomessagerie bilatérale;two-way messaging;;
-radiomessagerie bilatérale;two- way paging;;
-radiomessagerie unilatérale;display paging;;
-radio par fibre (RPF);radio-on-fiber (RoF);;
-radio par fibre (RPF);radio-over-fiber (RoF);;
-radio par fibre (RPF);wireless-on-fiber;;
-rappel automatique;automatic call-back (ACB);;
-rappel automatique;completion of calls to busy subscribers (CCBS);;
-rappel d’enregistreur;register recall;;
-rapport d’onde stationnaire (ROS);standing wave ratio (SWR);;
-rapport d’onde stationnaire (ROS);voltage standing wave ratio (VSWR);;
-réalité de synthèse;virtual reality;;
-réamorcer;reboot (to);;verbe
-recherche participative;living lab;;
-recherche participative;living laboratory;;
-recherche en texte intégral;full-text search;;
-recherche individuelle;pull technology;;
-réémetteur;rebroadcast station;m;
-réémetteur;relay station;m;
-réémetteur bouche-trou;gap filler;;
-référentiel;repository;m;
-refus de présentation de la ligne appelante;calling line identification restriction (CLIR);;
-refus de présentation de la ligne obtenue;connected line identification restriction (COLR);;
-registraire;DNS registrar;m;
-registraire;domain name registrar;m;
-registraire;registrar;m;
-réinitialiser;reset (to);;verbe
-relais de trames;frame relay;;
-relancer;restart (to);;verbe
-relationnel, -elle;relational;;adjectif
-renifleur;sniffer;m;
-renvoi des appels en cas d’occupation;call forwarding busy (CFB);;
-renvoi des appels en cas d’occupation;call forward on busy (CFB) (Canada);;
-renvoi des appels sans réponse;call forwarding no reply (CFNR);;
-renvoi des appels sans réponse;call forward-no answer (EU);;
-renvoi systématique des appels;call forwarding unconditional (CFU);;
-répartition de l’usure;wear leveling (EU);;
-répartition de l’usure;wear levelling (GB);;
-répertoire;directory;m;
-répéteur;repeater (sur câble);m;
-répéteur;transponder (sur satellite);m;
-répondeur;transponder;m;
-réseau;array;m;
-réseau d’accès;access network;;
-réseau d’accès;local loop;;
-réseau de stockage;storage area network (SAN);;
-réseau de télédistribution;cabled distribution system;;
-réseau d’infrastructure;core network;;
-réseau d’infrastructure;infrastructure network;;
-réseau informatique;computer network;m;
-réseau;computer network;m;
-réseau local;local area network (LAN);;
-réseau local d’entreprise (RLE);local area network (LAN);;
-réseau local de raccordement;–;;
-réseau logique programmable;programmable logic array (PLA);;
-réseau logique programmable;programmable logic device (PLD);;
-réseau logique programmable par l’utilisateur;field programmable logic array (FPLA);;
-réseau neuronal;neural network;;
-réseau numérique à intégration de services (RNIS);integrated services digital network (ISDN);;
-réseau prédiffusé;gate array;;
-réseau privé virtuel (RPV);virtual private network (VPN);;
-réseau radioélectrique à ressources partagées;trunked system;;
-réseautique;networking;f;
-réseautique domestique;home networking;;
-restaurer;reset (to);;verbe
-restaurer;restore (to);;verbe
-retouche;patch;f;
-rétroappel international;call-back;m;
-rétroappel international;international call-back;m;
-rétroappel;call-back;m;
-rétroappel;international call-back;m;
-rétro-ingénierie;reverse engineering;f;
-rétrolien;trackback;m;
-rétrolien;trackback link;m;
-rétropublication;reverse publishing;f;
-réutilisation de fréquence;frequency re-use;;
-révision;release;f;
-riper;rip (to);;verbe
-robotique;robotics;f;
-routage;routing;m;
-routeur;router;m;
-saisie de schéma;schematic capture;;
-salle blanche;clean room;;
-scanneur;scanner;m;
-script;macro;m;
-script;macrocommand;m;
-script;script;m;
-scrutation;polling;f;
-secours (de);back-up;;locution adjective
-secours (de);backup;;locution adjective
-secours informatique;back-up;;
-secours informatique;backup;;
-sélection directe à l’arrivée (SDA);direct dialing-in (DDI) (EU);;
-sélection directe à l’arrivée (SDA);direct dialling-in (DDI) (GB);;
-sélection directe à l’arrivée (SDA);direct inward dialing (DID) (EU);;
-séquence de test;test pattern;;
-serveur;server;m;
-serveur mandataire;proxy;;
-serveur mandataire;proxy server;;
-service de kiosque;kiosk service;;
-service de kiosque;premium rate service (PRS);;
-service de la toile;Web service;;
-service de libre appel;freephone service;;
-service de libre appel;toll;;
-service de messages multimédias;multimedia message service (MMS);;
-service de messages multimédias;multimedia messaging service (MMS);;
-service  de minimessages;short message service (SMS);;
-service  de minimessages;short message system (SMS);;
-service de recherche de personne;paging service;;
-service des mobiles;mobile service;;
-service GPRS;general packet radio service (GPRS);;
-service support;bearer service;;
-service unifié;seamless service;;
-sexto;sex message;m;
-sexto;sex text;m;
-shannon;shannon;m;
-signal analogique;analog signal (EU);;
-signal analogique;analogue signal (GB);;
-signalisation d’usager à usager (SUU);user-to-user signaling (UUS) (EU);;
-signalisation d’usager à usager (SUU);user-to-user signalling (UUS) (GB);;
-signal numérique;digital signal;;
-signature de virus;virus signature;;
-signet;bookmark;m;
-silicium étiré;strained silicon;;
-silicium sur isolant (SSI);silicon on insulator (SOI);;
-simulateur analogique;analog simulator (EU);;
-simulateur analogique;analogue simulator (GB);;
-simulateur logique;logic simulator;;
-simulation;simulation;f;
-site;web site;m;
-site;web-site;m;
-site;website;m;
-société de conception;design house;;
-souris;mouse;f;
-sous-adressage;sub-addressing (SUB);m;
-station de base;base station;;
-station mobile;mobile station;;
-station mobile de transmission par satellite (SMTS);digital satellite news gathering (DSNG);;
-station pivot;hub;;
-station pivot;hub station;;
-station terrestre;land station;;
-station terrienne dépendante;land station;;
-substrat;substrate;m;
-surbrillance;brightening;f;
-surcadencer;overclock (to);;verbe
-survol;browsing;m;
-syndication;syndication;f;
-système cellulaire;cellular system;;
-système d’adressage par domaines;domain name system (DNS);;
-système d’appel d’urgence;eCall;;
-système de gestion de base de données (SGBD);data base management system (DBMS);;
-système de gestion de base de données (SGBD);database management system (DBMS);;
-système d’exploitation;operating system;;
-système d’identification automatique;automatic identification system (AIS);;
-système exclusif;proprietary system;;
-système expert;expert system;;
-système GSM;global system for mobile communications (GSM);;
-système GSM du rail;global system for mobile communications for railways;;
-système GSM du rail;global system for mobile communications - railways (GSM-R);;
-système UMTS;universal mobile telecommunication system (UMTS);;
-tablette;pad;f;
-tablette;tablet;f;
-tablette;touch screen tablet;f;
-tableur;spreadsheet;m;
-tableur;spreadsheet programme;m;
-tableur;spreadsheet software;m;
-tarif de règlement;settlement rate;;
-tarif de répartition;accounting rate;;
-tatouage numérique;digital tattoo (marque);;
-tatouage numérique;digital tattooing;;
-tatouage numérique;watermark (marque);;
-tatouage numérique;watermarking;;
-technique des courants porteurs en ligne;powerline carrier (PLC);;
-technique des courants porteurs en ligne;powerline communication (PLC);;
-technoloisir;home entertainment;m;
-téléassistance;hot line;f;
-téléassistance;hotline;f;
-téléassistant, -e, n;hot liner;;
-téléborne;telepoint base station;f;
-téléchargement;downloading (téléchargement à partir d’un autre ordinateur);m;
-téléchargement;uploading (téléchargement vers un autre ordinateur);m;
-télécommunication personnelle universelle;universal personal telecommunication (UPT);;
-téléconférence;teleconferencing;f;
-télécopie;facsimile;f;
-télécopie;fax;f;
-télécopie;telecopy;f;
-télécopie contrastée;document facsimile telegraphy;;
-télécopie nuancée;picture facsimile telegraphy;;
-télécopier;fax (to);;verbe
-télécopieur;facsimile equipment;m;
-télécopieur;fax;m;
-télécopieur;fax machine;m;
-télécopieur;telecopier;m;
-téléécriture;telewriting;f;
-téléimprimeur;teleprinter;m;
-téléimprimeur;teletypewriter;m;
-téléinformatique;remote data processing;f;
-téléinformatique;telecomputing;f;
-téléinformatique;teleinformatics;f;
-télémaintenance;remote maintenance;f;
-télématique;telematics;f;
-télématique;telematics;f;
-télémesure;telemeasuring;f;
-télémesure;telemetering;f;
-télémesure;telemetry;f;
-télémétrie;range finding;f;
-téléservice;teleservice;m;
-télétexte;broadcast videography;m;
-télétexte;teletext;m;
-télétraitement;teleprocessing;m;
-télétraitement par lots;remote batch teleprocessing;;
-télévision à accès conditionnel;conditional access television;;
-télévision à péage;pay television;;
-télévision à péage;subscription television;;
-télévision à péage;toll television;;
-télévision de rattrapage;catch-up television;;
-télévision de rattrapage;catch-up TV;;
-télévision en ligne;webtelevision;;
-télévision en ligne;web TV;;
-témoin de connexion;cookie;m;
-témoin;cookie;m;
-temps réel;real time;;
-terminal;terminal;m;
-terminal de poche (TP);PDA phone;;
-terminal de poche (TP);personal communicator;;
-terminal de poche (TP);smartphone;;
-terminal de poche (TP);wireless handheld device;;
-testabilité;testability;f;
-test captcha (langage professionnel);captcha;;
-test captcha (langage professionnel);captcha test;;
-test captcha (langage professionnel);completely automated public Turing test to tell computers and humans apart;;
-test de performance;benchmark;;
-test dynamique;dynamic test;;
-testeur;tester;m;
-test fonctionnel;functional test;;
-test intégré;built-in self test;;
-test statique;static test;;
-test structurel;structural test;;
-tête radio distante (TRD);remote radio head (RRH);;
-textopornographie;sexting;f;
-tirage;hard copy;m;
-toile d’araignée mondiale (TAM);Web;f;
-toile d’araignée mondiale (TAM);World Wide Web (WWW);f;
-toile mondiale;Web;f;
-toile mondiale;World Wide Web (WWW);f;
-toile;Web;f;
-toile;World Wide Web (WWW);f;
-toile sémantique;semantic web;;
-tolérance aux pannes;fault tolerance;;
-tolérant aux pannes;fault tolerant;;
-topologie;layout;f;
-tout en ligne;multiband;;locution adjective
-traducteur de test;test postprocessor;;
-traitement automatique de données;automatic data processing (ADP);;
-traitement de bout en bout (TBB);end-to-end processing;;
-traitement de bout en bout (TBB);straight-through processing (STP);;
-traitement de texte;text processing;;
-traitement de texte;word processing;;
-traitement par lots;batch processing;;
-trame;frame;f;
-tranche;slice;f;
-tranche;wafer;f;
-transférer;forward (to);;verbe
-transfert;hand-off;m;
-transfert;hand-over;m;
-transfert de communication;call transfer;;
-transfert intercellulaire;intercell hand- off;;
-transfert intercellulaire;intercell hand-over;;
-transfert intracellulaire;intracell hand-off;;
-transfert intracellulaire;intracell hand-over;;
-transmission analogique;analog transmission (EU);;
-transmission analogique;analogue transmission (GB);;
-transmission numérique;digital transmission;;
-transport du numéro;number porting;;
-triple service;triple play;;
-trou de liaison;via;;
-turbocode;turbo code;m;
-tutoriel;tutorial;m;
-ultralarge bande (ULB);ultra wideband (UWB);;locution adjective
-unité arithmétique logique (UAL);arithmetic logic unit (ALU);;
-unité de fabrication finale;back-end;;
-unité de fabrication finale;back- end line;;
-unité finale;back-end;;
-unité finale;back- end line;;
-unité de fabrication initiale;front-end;;
-unité de fabrication initiale;front-end line;;
-unité de stockage en réseau;network attached storage (NAS);;
-usurpation d’adresse électronique;e-mail spoofing;;
-vecteur de test;test vector;;
-veille automatique;sigint;;
-veille automatique;signal intelligence;;
-ver;worm;m;
-vérificateur de prototype;bench tester;;
-vérification de la conformité aux règles d’interconnexion;electrical rule checking (ERC);;
-vérification des règles de conception (VRC);DRC/ERC;;
-vérification des règles de dessin (VRD);design rule checking (DRC);;
-version;release;f;
-vidéo;video;;nom commun
-vidéo à la demande (VAD);video on demand (VOD);;
-vidéo à la demande par abonnement (VADA);subscription video on demand (SVOD);;
-vidéo à la demande en téléchargement définitif (VADTD);electronic sell through (EST);;
-VAD en téléchargement définitif;electronic sell through (EST);;
-vidéofréquence;videofrequency;f;
-vidéographie;videography;f;
-vignette active;web widget;;
-vignette active;widget;;
-virus;virus;m;
-visioconférence;videoconference;f;
-visioconférence;videophone conference;f;
-visionneur;viewer;m;
-visiophone;videophone;m;
-visiophone;visual telephone;m;
-visiophonie;videophony;f;
-visite;tour;f;
-visite;visit;f;
-visualiser;display (to);;verbe
-voie de transmission;channel;;
-voie de transmission;transmission channel;;
-voix par le protocole de l’internet;voice over Internet Protocol (VoIP);;
-zone d’accès sans fil;hot spot;;
-zone ASFI;zone ASFI;;
+français;anglais;variante_anglais;genre;classe
+Abonné itinérant;Roaming subscriber;;;nom
+Accès;Hit;;m;nom
+Accès direct;Direct access;;;nom
+Accès direct;Random access;;;nom
+Accès hertzien;Access network;;;nom
+Accès hertzien;Local loop;;;nom
+Accès multiple;Multiple access;;;nom
+Accès multiple par répartition en code (AMRC);Code division multiple access (CDMA);;;nom
+Accès multiple par répartition en fréquence (AMRF);Frequency division multiple access (FDMA);;;nom
+Accès multiple par répartition temporelle (AMRT);Time division multiple access (TDMA);;;nom
+Accès sans fil à l’internet (ASFI);Wireless internet access;;;nom
+Accès séquentiel;Serial access;;;nom
+Accréditation;Credentials;;f;nom
+Actionneur;Actuator;;m;nom
+Additif;Add-on;;m;nom
+Administrateur, -trice (de site, de serveur);Webmaster;;;nom
+Adressage dispersé;Hash code;;;nom
+Adressage dispersé;Hash coding;;;nom
+Adresse de courrier électronique;E-mail address;;;nom
+Adresse informatique;Address;;f;nom
+Adresse;Address;;f;nom
+Adresse universelle;Uniform resource locator (URL);;;nom
+Adresse universelle;Universal resource locator (URL);;;nom
+Affaiblissement;Attenuation;;m;nom
+Affaiblissement;Loss;;m;nom
+Affichage;Display;;m;nom
+Affichage à émission d’électrons par conduction de surface (AEC);Surface-conduction electron-emitter display (SED);;;nom
+Afficher;Display (to);;;verbe
+Agenda électronique;Organizer;;;nom
+Agent;Agent;;m;nom
+Aide au dépannage;Troubleshooting;;;nom
+Algorithmique;Algorithmics;;f;nom
+Amorce;Boot;;f;nom
+Amorcer;Boot (to);;;verbe
+Ancre;Anchor;;f;nom
+Animateur-trice de communauté;Community manager;;;nom
+Animateur-trice de communauté en ligne;Community manager;;;nom
+Animatique;Animatics;;f;nom
+Anneau de sites;Webring;;;nom
+Annuaire électronique;Electronic directory;;;nom
+Antémémoire;Cache memory;;f;nom
+Antémémoire;Cache storage;;f;nom
+Anticrènelage;Antialiasing;;m;nom
+Appairage;Peering;;m;nom
+Appariement de formes;Pattern matching;;;nom
+Appliquette;Applet;;f;nom
+Apportez votre équipement personnel de communication (AVEC);Bring your own device (BYOD);;;nom
+Apprentissage par les réseaux;Social learning;;;nom
+Ardoise électronique;Notepad computer;;;nom
+Arrière-guichet;Back office;;m;nom
+Arrière-plan (d’);Background;;;locution adjective
+Arrobe;At-sign;;f;nom
+Arrosage;Spamming;;m;nom
+Arroseur, -euse;Spammer;;;nom
+Article de forum;News posting;;;nom
+Article de forum;News item;;;nom
+Article de forum;News article;;;nom
+Assemblage;Assembly;;m;nom
+Assistant;Wizard;;m;nom
+Assistant électronique de poche (ADP);Personal digital assistant (PDA);;;nom
+Atelier collaboratif;Fablab;;;nom
+Atelier collaboratif;Fabrication laboratory;;;nom
+Atelier de fabrication collaboratif;Fablab;;;nom
+Atelier de fabrication collaboratif;Fabrication laboratory;;;nom
+Audioconférence;Audioconference;;f;nom
+Audiofréquence;Audiofrequency;;f;nom
+Autonome;Off line;;;adjectif
+Autonome;Off-line;;;adjectif
+Autonome;Offline;;;adjectif
+Autoroutes de l’information;Infobahn (all);;;nom
+Autoroutes de l’information;Information highway;;;nom
+Autoroutes de l’information;Information superhighway;;;nom
+Avatar;Avatar;;m;nom
+Balise;Tag;;f;nom
+Balise;Beacon;;f;nom
+Balise;Beacon;;f;nom
+Bande de fréquences banalisée;Citizen’s band (CB);;;nom
+Bannière;Skyscraper;;f;nom
+Banque de connaissances;Knowledge pool;;;nom
+Banque de données;Data bank;;;nom
+Barre d’actualités;Newsbar;;f;nom
+Barre;Newsbar;;f;nom
+Barrière de sécurité;Firewall;;;nom
+Base de connaissances;Knowledge database;;;nom
+Base de connaissances;Knowledge base;;;nom
+Base de données;Data base;;;nom
+Base de données;Database;;;nom
+Bibande;Dual band;;m;adjectif
+Bibliothèque de cellules;Cell library;;;nom
+Bimode;Dual mode;;m;adjectif
+Bloc;Block;;m;nom
+Bloc de propriété intellectuelle (BPI);Intellectual property block;;;nom
+Bloc de propriété intellectuelle (BPI);IP block;;;nom
+Bloc de propriété intellectuelle (BPI);IP core;;;nom
+Bloc de PI;Intellectual property block;;;nom
+Bloc de PI;IP block;;;nom
+Bloc de PI;IP core;;;nom
+Bloc-notes électronique;Notebook;;;nom
+Bloc-notes électronique;Notebook computer;;;nom
+Blogue;Blog;;m;nom
+Blogue;Weblog;;m;nom
+Bogue;Bug;;m;nom
+Boîte aux lettres;Mail box;;;nom
+Boîtier;Package;;m;nom
+Boîtier adaptateur;Set top box;;;nom
+Boîtier à puce;Chip-scale package (CSP);;;nom
+Boîtier matriciel;Grid array;;;nom
+Boîtier matriciel à billes;Ball grid array (BGA);;;nom
+Boîtier matriciel à broches;Pin grid array (PGA);;;nom
+Boîtier multiservice;–;;m;nom
+Boîtier;–;;m;nom
+Boîtier-système;System in package (SIP);;m;nom
+Bombardement;Bombing;;m;nom
+Bombe programmée;Logic bomb;;f;nom
+Bombe;Logic bomb;;f;nom
+Boule de commande;Rolling ball;;;nom
+Boule de commande;Trackball;;;nom
+Brasage;Brazing;;m;nom
+Brasage;Soldering;;m;nom
+Bribe;Chip;;f;nom
+Broche de raccordement;Lead;;;nom
+Broche de raccordement;Package pin;;;nom
+Broche de raccordement;Pin;;;nom
+Brouillage;Interference;;m;nom
+Brouillage;Obfuscation;;m;nom
+Bureautique;Bureautics;;f;nom
+Bureautique;Office automation;;f;nom
+Bus;Bus;;m;nom
+Câblage;Wiring;;m;nom
+Cache;Cache;;m;nom
+Cache-disque;Disk cache;;m;nom
+Cache-toile;Web cache;;m;nom
+Cachet postal électronique;Digital postmark;;;nom
+Cachet postal électronique;Electronic postmark (EPM);;;nom
+Cadre;Frame;;m;nom
+Cadre;Frame;;m;nom
+Calculateur;Computer;;m;nom
+Calculette;Pocket calculator;;f;nom
+Calcul intensif;Supercomputing;;;nom
+Canal banalisé (CB);Citizen’s band radio (CB);;;nom
+Canal de fréquences;Channel;;;nom
+Canal de fréquences;Frequency channel;;;nom
+Canal radioélectrique;Channel;;;nom
+Canal radioélectrique;Radiofrequency channel;;;nom
+Canal radioélectrique;Rf channel;;;nom
+Canular;Hoax;;m;nom
+Caractérisation;Characterisation;en_uk;f;nom
+Caractérisation;Characterization;en_us;f;nom
+Carillon;Earcon;;m;nom
+Carrousel;Cover flow-like design;;m;nom
+Carte électronique;Board;;;nom
+Carte électronique;Electronic board;;;nom
+Carte fille;Daughter board;;;nom
+Carte fille;Daughterboard;;;nom
+Carte fille;Daughter card;;;nom
+Carte fille;Daughtercard;;;nom
+Carte mère;Mother board;;;nom
+Carte mère;Motherboard;;;nom
+Carte mère;Mother card;;;nom
+Carte mère;Mothercard;;;nom
+Carte sim;Sim card;;;nom
+Carte sim;Subscriber identification module (SIM);;;nom
+Cébiste;CB user;;;nom
+Cédérom;Compact disk read-only memory (cd-rom);;m;nom
+Cédérom autonome;Live CD;;;nom
+Cédérom interactif;Compact disk- interactive (CD-I);;;nom
+Cellule;Cell;;f;nom
+Cellule;Cell;;f;nom
+Cellule binaire;Binary cell;;;nom
+Cellule binaire;Bit cell;;;nom
+Cellule binaire;Single-level cell (SLC);;;nom
+Cellule de mémoire;Memory cell;;;nom
+Cellule multiniveau;Multi-level cell (MLC);;;nom
+Cellule multiniveau;Multilevel cell (MLC);;;nom
+Centre d’appels;Call center;en_us;;nom
+Centre d’appels;Call centre;en_uk;;nom
+Centre d’assistance;Help desk;;;nom
+Centre de commutation du service des mobiles;Mobile switching centre (MSC);;;nom
+Centre de conception;Design center;en_us;;nom
+Centre de conception;Design centre;en_uk;;nom
+Cercle de confiance;Circle of trust;;;nom
+Charge utile;Payload;;;nom
+Cheval de troie;Trojan horse;;;nom
+Chiffre binaire;Binary digit;;;nom
+Chiffre binaire;Bit;;;nom
+Circuit à configurations multiples;Reconfigurable circuit;;;nom
+Circuit de télécommunication;Circuit;;;nom
+Circuit de télécommunication;Telecommunication circuit;;;nom
+Circuit imprimé nu;Printed circuit board (PCB);;;nom
+Circuit intégré développé pour un client (CIC);Application specific integrated circuit (ASIC);;;nom
+Circuit intégré développé pour un client (CIC);User specific integrated circuit (USIC);;;nom
+Circuit intégré client ;Application specific integrated circuit (ASIC);;;nom
+Circuit intégré client ;User specific integrated circuit (USIC);;;nom
+Circuit intégré hybride;Hybrid integrated circuit (HIC);;;nom
+Circuit intégré précaractérisé;Cell based;;;nom
+Circuit intégré précaractérisé;Cell based circuit;;;nom
+Circuit intégré précaractérisé;Standard cell;;;nom
+Circuit intégré prédiffusé;Diffusion cell array;;;nom
+Circuit intégré prédiffusé;Gate array;;;nom
+Circuit intégré prédiffusé programmable;Field programmable gate array (FPGA);;;nom
+Circuit intégré semi-personnalisé;Semi- custom circuit;;m;nom
+Circuit intégré sur mesure;Full custom circuit;;;nom
+Circuit tampon;Buffer circuit;;;nom
+Circuit virtuel;Virtual circuit;;;nom
+Circuit virtuel commuté;Switched virtual circuit;;;nom
+Circuit virtuel permanent;Permanent virtual circuit;;;nom
+Clicher;Dump (to);;;verbe
+Cliquer;Click (to);;;nom
+Cliquer-parler;Click and talk;;m;nom
+Cliquer-parler;Web call back;;m;nom
+Cliquer-parler;Web call through;;m;nom
+Cocuisson;Cofiring;;f;nom
+Cocuit;Cofired;;;adjectif
+Code à octets;Bytecode;;;nom
+Codet;Code element;;m;nom
+Cœur de processeur;Core;;m;nom
+Cœur de processeur;Processor core;;m;nom
+Cœur;Core;;m;nom
+Cœur;Processor core;;m;nom
+Cofrittage;Cofiring;;m;nom
+Cofritté, -e;Cofired;;;adjectif
+Collage;Bootleg (collage musical);;m;nom
+Collage;Mash-up;;m;nom
+Collage;Mashup;;m;nom
+Collecteur;Crawler;;m;nom
+Communication en champ proche (CCP);Near field communication (NFC);;;nom
+Commutation analogique;Analog switching;en_us;;nom
+Commutation analogique;Analogue switching;en_uk;;nom
+Commutation de circuits;Circuit switching;;;nom
+Commutation de messages;Message switching;;;nom
+Commutation de messages;Store-and-forward switching;;;nom
+Commutation de paquets;Packet switching;;;nom
+Commutation numérique;Digital switching;;;nom
+Commutation spatiale;Space-division switching;;;nom
+Commutation spatiale multiplexée;Time-multiplex switching;;;nom
+Commutation temporelle;Time-division switching;;;nom
+Commutation temporelle;Time-division switching;;;nom
+Complément de service;Supplementary service;;;nom
+Composant discret;Discrete component;;;nom
+Composant spécifique standard (CSS);Application specific standard product (ASSP);;;nom
+Compresser;Compress (to);;;verbe
+Compresser;Zip (to);;;verbe
+Concentrateur;Hub;;m;nom
+Concepteur de circuits;Circuit designer;;;nom
+Conception;Design;;f;nom
+Conception assistée par ordinateur appliquée à l’électronique (CAOE);Electronic computer-aided design (ECAD);;;nom
+Conception pour test;Design for testability;;;nom
+Conducteur-poutre;Beam lead;;m;nom
+Conférence téléphonique;Conference call;;;nom
+Conférence téléphonique;Conference calling;;;nom
+Configurer;Configure (to);;;verbe
+Connectabilité;Connectivity;;f;nom
+Connecteur logiciel;Socket;;;nom
+Connexion;Log in;;f;nom
+Connexion;Log on;;f;nom
+Connexité;Connectivity;;f;nom
+Conservation du numéro;Number portability;;;nom
+Console de visualisation;Display unit;;;nom
+Contrôleur de mémoire;Integrated memory controller (IMC);;;nom
+Contrôleur de mémoire;Memory controller hub (MCH);;;nom
+Contrôleur de mémoire;Northbridge;;;nom
+Contrôleur d’entrée et de sortie;Input/output controller hub;;;nom
+Contrôleur d’entrée et de sortie;I/o controller hub (ICH);;;nom
+Contrôleur d’entrée et de sortie;Platform controller hub (PCH);;;nom
+Contrôleur d’entrée et de sortie;Southbridge;;;nom
+Contrôleur d’entrée-sortie ;Input/output controller hub;;;nom
+Contrôleur d’entrée-sortie ;I/o controller hub (ICH);;;nom
+Contrôleur d’entrée-sortie ;Platform controller hub (PCH);;;nom
+Contrôleur d’entrée-sortie ;Southbridge;;;nom
+Conversation à trois;3pty;;;nom
+Conversation à trois;Three-party call;;;nom
+Conversation à trois;Three-party calling;;;nom
+Conversation à trois;Three-party conference;;;nom
+Conversation à trois;Three-way calling;;;nom
+Convertisseur analogique-numérique (CAN);Analog-to-digital converter (ADC);en_us;;nom
+Convertisseur analogique-numérique (CAN);Analogue-to-digital converter (ADC);en_uk;;nom
+Convertisseur A/N;Analog-to-digital converter (ADC);en_us;;nom
+Convertisseur A/N;Analogue-to-digital converter (ADC);en_uk;;nom
+Convivialité;User-friendliness;;f;nom
+Copiage de carte;Card skimming;;;nom
+Copiage de carte;Credit card skimming;;;nom
+Copiage de carte;Skimming;;;nom
+Copieur de carte;Credit card skimmer;;;nom
+Copieur de carte;Credit card skimming device;;;nom
+Copieur de carte;Skimmer;;;nom
+Copieur de carte;Skimming device;;;nom
+Coprocesseur;Coprocessor;;m;nom
+Couplage de la téléphonie et de l’informatique (CTI);Computer telephony integration (CTI);;;nom
+Couplage téléphonie- informatique;Computer telephony integration (CTI);;;nom
+Courriel;Electronic mail;;m;nom
+Courriel;E-mail;;m;nom
+Courrier hybride;Hybrid mail;;;nom
+Cours en ligne d’accès restreint (CLAR);Small private online course (SPOC);;;nom
+Cours en ligne ouvert à tous;Massively open online course (MOOC);;;nom
+Cours en ligne ouvert à tous;Massive open online course (MOOC);;;nom
+Créneau temporel;Time-slot;;;nom
+Crènelage;Aliasing;;m;nom
+Cyberconférence;E-conference;;f;nom
+Cyberconférence;Web conference;;f;nom
+Cyberconférence;Web conferencing;;f;nom
+Cybersquat;Cybersquatting;;m;nom
+Cybersquatteur, -euse;Cybersquatter;;;nom
+Déblocage;Unlocking;;m;nom
+Débogage;Debugging;;m;nom
+Déboguer;Debug (to);;;verbe
+Débogueur;Debugger;;m;nom
+Débrider;Jailbreak (to);;;verbe
+Découpage temporel;Time slicing;;;nom
+Défaillance;Failure;;f;nom
+Défilement;Scrolling;;m;nom
+Définition;Scrolling;;f;nom
+Dégroupage;Unbundling;;m;nom
+Démon;Daemon;;m;nom
+Démon;Disk and execution monitor;;m;nom
+Démon de messagerie;Mailer daemon;;;nom
+Démultiplexage;Demultiplexing;;m;nom
+Démultiplexer;Demultiplex (to);;;verbe
+Démultiplexeur;Demultiplexer;;m;nom
+Descendant, -e;Downstream;;;adjectif
+Descripteur;Descriptor;;m;nom
+Désembrouillage;Descrambling;;m;nom
+Désembrouiller;Descramble (to);;;verbe
+Désembrouilleur;Descrambler;;m;nom
+Desserte par fibre (DF);Fiber in the loop (FITL);;;nom
+Desserte par fibre (DF);Fiber to the… (FTTX);;;nom
+Desserte par fibre de l’abonné (DFA);Fiber to the home (FTTH);;;nom
+Desserte par fibre de l’abonné (DFA);Fiber to the office (FTTO);;;nom
+Desserte par fibre de l’abonné (DFA);Fiber to the premises (FTTP);;;nom
+Desserte par fibre de l’immeuble (DFI);Fiber to the building (FTTB);;;nom
+Desserte par fibre de l’immeuble (DFI);Fiber to the curb (FTTC);;;nom
+Détournement;Slamming;;m;nom
+Déverminage;Burn-in;;m;nom
+Déverrouillage sim;Sim unlocking;;m;nom
+Déverrouillage;Sim unlocking;;m;nom
+Déviation d’appels;Call deflection;;;nom
+Dévideur;Streamer;;m;nom
+Dévoiement;Pharming;;m;nom
+Dialogue en ligne;Chat;;;nom
+Diffusion;Diffusion;;f;nom
+Diffusion ciblée;Narrowcast;;;nom
+Diffusion ciblée;Narrowcasting;;;nom
+Diffusion générale;Broadcast;;;nom
+Diffusion groupée;Multicasting;;;nom
+Diffusion pour baladeur;Podcasting;;;nom
+Diffusion systématique sur la toile;Netcasting;;;nom
+Diffusion systématique sur la toile;Webcasting;;;nom
+Diode électroluminescente (DEL);Light-emitting diode (LED);;;nom
+Diode électroluminescente organique (DELO);Organic light-emitting diode (OLED);;;nom
+Directeur des systèmes d’information (DSI);Chief information officer (CIO);;;nom
+Directeur des techniques informatiques (DTI);Chief technology officer (CTO);;;nom
+Dispositif à couplage de charge (DCC);Charge-coupled device (CCD);;;nom
+Dispositif à transfert de charges (DTC);Charge-transfer device (CTD);;;nom
+Dispositif en chapelet;Bucket-brigade device (BBD);;;nom
+Disque compact;Compact disk (CD);;;nom
+Disque compact;Compact disk (CD);;;nom
+Disque dur hybride (DDH);Hybrid hard drive (HHD);;;nom
+Disque numérique polyvalent;Digital versatile disk (DVD);;;nom
+Disque optique;Optical disk;;;nom
+Disque statique à semiconducteurs (DSS);Solid state disk (SSD);;;nom
+Disque statique;Solid state disk (SSD);;;nom
+Disque statique;Solid state drive (SSD);;;nom
+Disque statique;Solid state drive (SSD);;;nom
+Disquette;Diskette;;f;nom
+Disquette;Floppy disk;;f;nom
+Disque vidéo à durée déterminée (DVDD);Disposable dvd;;;nom
+Disque vidéo à durée déterminée (DVDD);Self-destructing DVD;;;nom
+Distribution sélective;Push technology;;;nom
+Documentation intégrée (à);Self-documented;;;nom
+Domaine;Domain;;m;nom
+Domaine de premier niveau;Top-level domain (TLD);;;nom
+Donnée;Data;;f;nom
+Données ouvertes;Open data;;;nom
+Dorsale;Backbone;;f;nom
+Droit irrévocable d’usage  (DIU);Indefeasible right of use (IRU);;;nom
+Échange de données informatisé (EDI);Electronic data interchange (EDI);;;nom
+Écotechniques de l’information et de la communication (éco-tic);Green information technology;;;nom
+Écotechniques de l’information et de la communication (éco-tic);Green it;;;nom
+Écran à double affichage;Dual view display;;;nom
+Écran à double affichage;Dual view lcd;;;nom
+Écran tactile;Touch screen;;;nom
+Écriture directe;Direct writing;;;nom
+Éditeur;Editor;;m;nom
+Élément binaire;Binary character;;m;nom
+Élément binaire;Binary digit;;m;nom
+Élément binaire;Bit;;m;nom
+Embrouillage;Scrambling;;m;nom
+Embrouiller;Scramble (to);;;verbe
+Embrouilleur;Scrambler;;m;nom
+Encapsulation sur tranche;Wafer-level packaging (WLP);;;nom
+Encre électronique;E-ink;;;nom
+Encre électronique;Electronic ink;;;nom
+Encre en poudre;Toner;;;nom
+Enfant du numérique;Digital native;;;nom
+Enregistreur de frappe;Keylogger;;;nom
+Entrepôt de données;Data warehouse;;;nom
+Environnement de développement;Application framework;;;nom
+Environnement de développement;Framework;;;nom
+Environnement de développement;Integrated development environment (IDE);;;nom
+Envoi à la cantonade;Anycast;;;nom
+Envoi à la cantonade;Anycasting;;;nom
+Envoi individuel;Unicast;;;nom
+Envoi individuel;Unicasting;;;nom
+Épitaxie;Epitaxy;;f;nom
+Espace de confiance;Trust environment;;;nom
+Espace partagé de travail en ligne;–;;;nom
+Étiquette;Label;;f;nom
+Évanouissement;Fading;;m;nom
+Exploitation;Operation;;f;nom
+Explorateur de modèle;Model-checker;;;nom
+Exploration de données;Datamining;;;nom
+Exploration de modèle;Model checking;;;nom
+Extensibilité;Scalability;;f;nom
+Extranet;Extranet;;m;nom
+Femtocellule;Femtocell;;f;nom
+Fenêtre;Window;;f;nom
+Fenêtre d’attente;Splash screen;;;nom
+Fenêtre intruse;Pop-up;;;nom
+Fenêtre intruse;Pop-up window;;;nom
+Fibre noire;Dark fiber;en_us;;nom
+Fibre noire;Dark fibre;en_uk;;nom
+Fil de la discussion;Thread;;m;nom
+Fil;Thread;;m;nom
+Fil d’exécution;Thread;;;nom
+Filoutage;Phishing;;m;nom
+Fixage de puce;Die bond;;;nom
+Fixage de puce;Die bonding;;;nom
+Flux (en);Streaming;;;locution adjective
+Flux de dépêches;Really simple syndication (RSS);;;nom
+Flux de dépêches;Rss feed;;;nom
+Flux de travaux;Workflow;;m;nom
+Flux;Workflow;;m;nom
+Foire aux questions (FAQ);Faq file;;;nom
+Foire aux questions (FAQ);Frequently asked questions (FAQ);;;nom
+Foire aux questions (FAQ);Frequently asked questions file;;;nom
+Fonction modem (mobile);Tethering;;;nom
+Fond de panier;Back panel;;;nom
+Fond de panier;Backplane;;;nom
+Fonderie de silicium;Silicon foundry;;;nom
+Fondeur de silicium;Silicon founder;;;nom
+Format;Format;;m;nom
+Formatage d’une disquette;Diskette formatting;;;nom
+Formater;Format (to);;;verbe
+Formation en ligne;E-learning;;;nom
+Formation en ligne;E-training;;;nom
+Formation en ligne;On-line training;;;nom
+Forme;Pattern;;f;nom
+Forum;Newsgroup;;m;nom
+Fouineur;Hacker;;m;nom
+Fournisseur d’accès;Access provider;;;nom
+Fournisseur d’accès à l’internet (FAI);Internet access provider (IAP);;;nom
+Fournisseur d’accès à l’internet (FAI);Internet service provider (ISP);;;nom
+Fournisseur d’applications en ligne;Application service provider (ASP);;;nom
+Fournisseur de services;Service provider;;;nom
+Frimousse;Emoticon;;f;nom
+Frimousse;Smiley;;f;nom
+Fureteur, -euse;Lurker;;;nom
+Fusionner;Merge (to);;;verbe
+Gain;Gain;;m;nom
+Gain;Power gain;;m;nom
+Gain;Transmission gain;;m;nom
+Gamme de couleurs;Color gamut;;;nom
+Gamme de couleurs;Gamut;;;nom
+Gant numérique;Data glove;;;nom
+Générateur de dessin de masques (GDM);Mask pattern generator;;;nom
+Génération de séquences de test (GST);Test pattern generation (TPG);;;nom
+Génie informatique;Computer engineering;;;nom
+Génie logiciel;Software engineering;;;nom
+Géolocalisation par satellite;Geosatellite positioning;;;nom
+Géorepérage;Geofencing;;m;nom
+Gérance de l’informatique;Facilities management;;;nom
+Gestion de l’archivage;Records management;;;nom
+Gestion des droits numériques (GDN);Digital rights management (DRM);;;nom
+Gestionnaire d’évènement;Event handler;;;nom
+Gestionnaire d’évènement;Handler;;;nom
+Glisser-déposer;Drag and drop;;m;nom
+Graduation;Scalability;;f;nom
+Gradué;Scalable;;;adjectif
+Grapheur;Graphics software;;m;nom
+Grappe;Cluster;;f;nom
+Gravure;Etching;;f;nom
+Grille informatique;Computational grid;;;nom
+Grille informatique;Computing grid;;;nom
+Grille informatique;Grid;;;nom
+Groupe;Cluster;;m;nom
+Groupe fermé d’usagers (GFU);Closed user group (CUG);;;nom
+Guichet;Front office;;m;nom
+Guichet unique;One stop shopping (OSS);;;nom
+Habileté numérique;Computer literacy;;;nom
+Habileté numérique;Digital literacy;;;nom
+Habileté numérique;Information literacy;;;nom
+Hachage;Hash code;;m;nom
+Heuristique;Heuristics;;f;nom
+Hors offre du fournisseur d’accès à l’internet,;Over the top (OTT);;;locution adjective
+Hydrorésistant;Water resistant;;;adjectif
+Hyperfréquence;Microwave frequency;;f;nom
+Hypertexte;Hypertext;;m;nom
+Hypertextuel;Hypertext;;;adjectif
+Icône;Icon;;f;nom
+Identification des appels malveillants (IAM);Malicious call identification (MCID);;;nom
+Identité internationale d’abonnement mobile;International mobile subscriber identity (IMSI);;;nom
+Identité internationale d’abonnement mobile;International mobile subscription identity (IMSI);;;nom
+Imagette;Thumbnail;;f;nom
+Implanter;Implement (to);;;verbe
+Implémenter;Implement (to);;;nom
+Impression en ligne;E-printing;;;nom
+Impression en ligne;Web2print;;;nom
+Impression en ligne;Web-to-print;;;nom
+Imputation;Charge;;f;nom
+Imputation à l’arrivée;Collect call;en_us;;nom
+Imputation à l’arrivée;Reverse-charge call;;;nom
+Imputation à l’arrivée;Reverse charging (REV);;;nom
+Imputer;Charge (to);;;verbe
+Incendier;Flame (to);;;verbe
+Indexation personnelle;Folksonomy;;;nom
+Indication d’appel en instance (IAI);Call waiting (CW);;;nom
+Indication de prix;Advice of charge (AOC);;;nom
+Informatique en nuage;Cloud computing;;;nom
+Infrastructure à la demande;Infrastructure as a service (IAAS);;;nom
+Inhabileté numérique;Computer illiteracy;;;nom
+Inhabileté numérique;Digital illiteracy;;;nom
+Inhabileté numérique;Information illiteracy;;;nom
+Instruction;Instruction;;f;nom
+Instruction;Statement;;f;nom
+Intelligence artificielle (IA);Artificial intelligence (AI);;;nom
+Interactif, -ive;Interactive;;;adjectif
+Intercepteur d’IMSI;IMSI catcher;;;nom
+Interdiction d’appels à l’arrivée;Incoming call barring (ICB);;;nom
+Interdiction d’appels au départ;Outgoing call barring (OCB);;;nom
+Interface;Interface;;f;nom
+Interférence;Wave interference;;f;nom
+Internaute;Cybernaut;;;nom
+Internet;Internet;;m;nom
+Internet;Internet network;;m;nom
+Internet;Net;;m;nom
+Intranet;Intranet;;m;nom
+Investigation informatique;Discovery;;;nom
+Investigation informatique;E-discovery;;;nom
+Invitation à émettre;Polling;;;nom
+Invitation à recevoir;Selecting;;;nom
+Invite;Prompt;;f;nom
+Jeu de puces;Chipset;;;nom
+Jeu sérieux;Serious game;;;nom
+Langage à objets;Object-oriented language;;;nom
+Lecteur;Card reader;;m;nom
+Lettre d’information;Newsletter;;;nom
+Liaison descendante;Downlink;;;nom
+Liaison louée (LL);Leased circuit;;;nom
+Liaison louée (LL);Leased line (LL);;;nom
+Liaison louée (LL);Leased link;;;nom
+Liaison montante;Uplink;;;nom
+Liaison numérique asymétrique;Asymmetric digital subscriber line (ADSL);;;nom
+Liaison numérique symétrique;Symmetric digital subscriber line (SDSL);;;nom
+Liaison spécialisée (LS);Dedicated line;;;nom
+Lien;Link;;m;nom
+Lien;Linkage;;m;nom
+Ligne (en);On line;;;locution adjective
+Ligne (en);On-line;;;locution adjective
+Ligne (en);Online;;;locution adjective
+Ligne d’accès;Access line;;;nom
+Ligne d’accès;Local line;;;nom
+Ligne d’accès;Subscriber line;;;nom
+Ligne d’accès numérique;Digital subscriber line (DSL);;;nom
+Liseuse;E-book reader;;f;nom
+Liseuse;Electronic book reader;;f;nom
+Liseuse;Electronic reader;;f;nom
+Liseuse;E-reader;;f;nom
+Liseuse;Reader;;f;nom
+Listage;Listing;;m;nom
+Listage;Listing;;m;nom
+Liste de diffusion;Mailing list;;;nom
+Liste de signets;Hotlist;;;nom
+Liste d’interconnexions;Netlist;;;nom
+Lister;List (to);;;verbe
+Lister;List (to);;;verbe
+Livre numérique;E-book;;;nom
+Livre numérique;Electronic book;;;nom
+Logement;Slot;;m;nom
+Logiciel;Software;;m;nom
+Logiciel à contribution;Shareware;;;nom
+Logiciel à la demande;Software as a service (SAAS);;;nom
+Logiciel antivirus;Antivirus program;;;nom
+Logiciel antivirus;Antivirus software;;;nom
+Logiciel antivirus;Vaccine program;;;nom
+Logiciel de dessin;Drawing software;;;nom
+Logiciel de groupe de travail;Groupware;;;nom
+Logiciel de navigation;Browser;;;nom
+Logiciel de traitement de texte;Word processor;;;nom
+Logiciel de vérification de schéma (LVS);Layout versus schematic (LVS);;;nom
+Logiciel éducatif;Educational software;;;nom
+Logiciel espion;Spyware;;;nom
+Logiciel gratuit;Freeware;;;nom
+Logiciel libre;Free software;;;nom
+Logiciel libre;Open source software;;;nom
+Logiciel malveillant;Malicious logic;;;nom
+Logiciel malveillant;Malicious software;;;nom
+Logiciel malveillant;Malware;;;nom
+Logiciel médiateur;Middleware;;;nom
+Logiciel publicitaire;Advertising software;;;nom
+Logiciel publicitaire;Adware;;;nom
+Logiciel-socle;Baseware;;m;nom
+Macrocellule;Megacell;;f;nom
+Macro-instruction;Macro;;f;nom
+Macro-instruction;Macroinstruction;;f;nom
+Macroordinateur;Mainframe;;m;nom
+Magasin de données;Datamart;;;nom
+Maintenabilité;Maintainability;;f;nom
+Manche à balai;Joystick;;;nom
+Mappe;Map;;f;nom
+Mappe;Mapping;;f;nom
+Maquette;Breadboard;;f;nom
+Maquette;Lay-out;;f;nom
+Marquage;Highlighting;;m;nom
+Masque;Mask;;m;nom
+Matériel;Hardware;;m;nom
+Matériel à la demande;Hardware as a service (HAAS);;;nom
+Matrice de micromiroirs (MDM);Digital micromirror device (DMD);;;nom
+Mégadonnées;Big data;;f;nom
+Mél;Mail;;;nom
+Mémoire;Storage memory;;f;nom
+Mémoire à cellules multiniveaux (MCM);Multi-level cell memory (MCM);;;nom
+Mémoire à cellules multiniveaux (MCM);Multilevel cell memory (MCM);;;nom
+Mémoire flash;Flash memory;;;nom
+Mémoire magnétique;Magnetic storage;;;nom
+Mémoire morte;Read-only memory (ROM);;;nom
+Mémoire non volatile;Non volatile memory;;;nom
+Mémoire non volatile;Nonvolatile memory (NVM);;;nom
+Mémoire tampon;Buffer;;m;nom
+Tampon;Buffer;;m;nom
+Mémoire vive;Random- access memory (RAM);;;nom
+Mémoire vive dynamique;Dynamic ram;;;nom
+Mémoire vive dynamique;Dynamic random-access memory (DRAM);;;nom
+Mémoire vive magnétique;Magnetic random access memory (MRAM);;;nom
+Mémoire vive résistive;Resistive ram;;;nom
+Mémoire vive résistive;Resistive random access memory (RERAM, RRAM);;;nom
+Mémoire vive statique;Static ram;;;nom
+Mémoire vive statique;Static random access memory (SRAM);;;nom
+Mémoire volatile;Volatile memory;;;nom
+Mer de portes;Sea of gates;;;nom
+Message incendiaire;Flame;;;nom
+Message multimédia;Mms message;;;nom
+Message multimédia;Multimedia message;;;nom
+Messagerie électronique;Electronic mail;;;nom
+Messagerie électronique;Electronic messaging;;;nom
+Messagerie électronique;E-mail;;;nom
+Messagerie instantanée;Instant messaging;;;nom
+Messagerie instantanée vocale (MIV);Push-to-talk (PTT);;;nom
+Messagerie instantanée vocale (MIV);Push-to- talk over cellular (POC);;;nom
+Messagerie instantanée vocale (MIV);Walkie-talkie service;;;nom
+Messagerie interpersonnelle;Interpersonal messaging service;;;nom
+Messagerie interpersonnelle;Message handling service;;;nom
+Messagerie vocale;Voice mail;;;nom
+Messagerie vocale;Voice messaging;;;nom
+Métallisation;Metallisation;en_uk;f;nom
+Métallisation;Metallization;en_us;f;nom
+Microblogage;Microblogging;;m;nom
+Microblogue;Microblog;;m;nom
+Microblogue;Thread;;m;nom
+Microcontrôleur;Microcontroller;;m;nom
+Micromiroir;Micromirror;;m;nom
+Micro-onde;Microwave;;f;nom
+Microordinateur;Microcomputer;;m;nom
+Microphone sans fil;Wireless microphone;;;nom
+Micropoutre;Microcantilever;;f;nom
+Microprocesseur;Microprocessor;;m;nom
+Microprogramme;Firmware;;m;nom
+Microsoudeuse de puces;Die bonder;;;nom
+Microstation terrienne;Very small aperture terminal (VSAT);;f;nom
+Microstation;Very small aperture terminal (VSAT);;f;nom
+Microsystème électromécanique;Micro- electromechanical system (MEMS);;;nom
+Microsystème optoélectromécanique;Micro-opto- electromechanical system (MOEMS);;;nom
+Micro-usinage;Micromachining;;m;nom
+Micro-usinage de surface;Surface micromachining;;;nom
+Micro-usinage de volume;Bulk micromachining;;;nom
+Minimessage;Short message;;m;nom
+Mise à niveau;Upgrade;;;nom
+Mise en attente;Call hold;;;nom
+Mise en attente;Hold;;;nom
+Mise en boîtier;Encapsulation;;;nom
+Mise en boîtier;Packaging;;;nom
+Mode de transfert asynchrone;Asynchronous transfer mode (ATM);;;nom
+Mode dialogué;Conversational mode;;;nom
+Modèle;Template;;m;nom
+Modem;Modem;;m;nom
+Modérateur, -trice;Moderator;;;nom
+Modulation à spectre étalé;Spread spectrum modulation;;;nom
+Modulation à spectre étalé;Spread spectrum transmission;;;nom
+Modulation à spectre étalé à sauts de fréquence;Fhss modulation;;;nom
+Modulation à spectre étalé à sauts de fréquence;Frequency hopping spread spectrum modulation;;;nom
+Modulation  sesf;Fhss modulation;;;nom
+Modulation  sesf;Frequency hopping spread spectrum modulation;;;nom
+Modulation à spectre étalé à séquence directe;Direct sequence spread spectrum modulation;;;nom
+Modulation à spectre étalé à séquence directe;Dsss modulation;;;nom
+Modulation  sesd;Direct sequence spread spectrum modulation;;;nom
+Modulation  sesd;Dsss modulation;;;nom
+Modulation d’impulsions en amplitude (MIA);Pulse amplitude modulation (PAM);;;nom
+Modulation d’impulsions en durée (MID);Pulse width modulation (PWM);;;nom
+Modulation d’impulsions en position (MIP);Pulse position modulation (PPM);;;nom
+Modulation par impulsions et codage (MIC);Pulse code modulation (PCM);;;nom
+Module d’extension;Plug-in;;f;nom
+Extension;Plug-in;;f;nom
+Module  multipuce;Multi- chip module (MCM);;;nom
+Montage en surface;Surface mounting;;;nom
+Montage en surface;Surface mount technology (SMT);;;nom
+Montant, -e;Upstream;;;adjectif
+Morphose;Morphing;;f;nom
+Mot clé;Key word;;;nom
+Mot-dièse;Hashtag;;m;nom
+Moteur de recherche;Search engine;;;nom
+Moteur d’exécution;Runtime software;;;nom
+Moteur d’inférence;Inference engine;;;nom
+Motif;Pattern;;m;nom
+Multibande;Multiband;;m;adjectif
+Multifil;Multithreading;;m;adjectif
+Multifil simultané;Simultaneous multithreading (smt);;;locution adjective
+Multimédia;Multimedia;;;adjectif
+Multiplex;Multiplex;;m;adjectif
+Multiplexage;Multiplexing;;m;nom
+Multiplexage dans le temps;Time-division multiplexing (TDM);;;nom
+Multiplexage par répartition dans le temps (MRT);Time-division multiplexing (TDM);;;nom
+Multiplexage en code;Code division multiplexing (CDM);;;nom
+Multiplexage par répartition en code (MRC);Code division multiplexing (CDM);;;nom
+Multiplexage en fréquence;Frequency division multiplexing (FDM);;;nom
+Multiplexage par répartition en fréquence (MRF);Frequency division multiplexing (FDM);;;nom
+Multiplexage en longueur d’onde;Dense wavelength division multiplexing (DWDM);;;nom
+Multiplexage par répartition en longueur d’onde (MRL);Dense wavelength division multiplexing (DWDM);;;nom
+Multiplexer;Multiplex (to);;;verbe
+Multiplexeur;Multiplexer;;m;nom
+Multiprocesseur;Multiprocessor;;m;nom
+Multitâche;Multitask;;;adjectif
+Multitraitement;Multiprocessing;;m;nom
+Neurone artificiel;Artificial neuron;;;nom
+Neurone artificiel;Artificial neurone;;;nom
+Nommage;Naming;;m;nom
+Nuage;Cloud;;m;nom
+Numérique;Digital;;;adjectif
+Numérique;Numeric;;;adjectif
+Numérique;Numerical;;;adjectif
+Numériser;Digitize (to);;;verbe
+Numériseur;Digitizer;;m;nom
+Numériseur;Scanner;;m;nom
+Numéro conservable;Portable number;;;nom
+Numéro d’urgence;Hot line;;;nom
+Numéro d’urgence;Hotline;;;nom
+Numéros multiples;Multiple subscriber number (MSN);;;nom
+Obligation de diffusion;Must carry;;;nom
+Octet;Byte;;m;nom
+Office d’enregistrement;Tld registrar;;;nom
+Office d’enregistrement;Top-level domain registrar;;;nom
+Offre groupée;Bundle;;;nom
+Offre groupée;Package;;;nom
+Opérateur de télécommunication;Operating body;;m;nom
+Opérateur de télécommunication;Operator;;m;nom
+Opérateur;Operating body;;m;nom
+Opérateur;Operator;;m;nom
+Opérateur de téléphonie mobile sans réseau;Mobile virtual network operator (MVNO);;;nom
+Option d’adhésion (à);Opt-in;;;locution adjective
+Option de retrait (à);Opt-out;;;locution adjective
+Optoélectronique;Optoelectronics;;f;nom
+Optoélectronique;Optronics;;f;nom
+Ordinateur;Computer;;m;nom
+Ordinateur de bureau;Desktop;;;nom
+Ordinateur de bureau;Desktop computer;;;nom
+Ordinateur de poche;Palmtop computer;;;nom
+Ordinateur de poche;Pocket computer;;;nom
+Ordinateur individuel;Personal computer (PC);;;nom
+Ordinateur portable;Lap top computer;;;nom
+Ordinateur portable;Portable computer;;;nom
+Ouverture des données;Open data;;;nom
+Ouverture des données;Open data policy;;;nom
+Page d’accueil;Home page;;;nom
+Page d’accueil;Homepage;;;nom
+Page sur la toile;Web page;;;nom
+Page sur la toile;Webpage;;;nom
+Paiement à la séance;Pay-per-view;;;nom
+Pair à pair;Peer-to-peer (P2P, P-to-P);;;nom
+Panne;Fault;;f;nom
+Papier électronique;Electronic paper;;;nom
+Papier électronique;E-paper;;;nom
+Paquet;Packet;;m;nom
+Parcours sur la toile;Clickstream;;;nom
+Pas;Pitch;;m;nom
+Pas;Spacing;;m;nom
+Passerelle;Gateway;;f;nom
+Pastillage;Chip-on-board process;;m;nom
+Pastillage;Cob process;;m;nom
+Pastille;Land;;f;nom
+Pavé tactile;Touch pad;;;nom
+Pavé tactile;Track pad;;;nom
+Pédopiégeage;Child grooming;;m;nom
+Pédopiégeage;Grooming;;m;nom
+Péritéléphonie;Peritelephony;;f;nom
+Péritélévision;Television environment;;f;nom
+Permutation;Swap;;f;nom
+Perturbation électromagnétique;Electromagnetic disturbance;;;nom
+Photonique;Photonic;;;adjectif
+Photonique;Photonics;;f;nom
+Pièce jointe;Attachment;;;nom
+Pièce jointe;Attachment file;;;nom
+Pilote de périphérique;Driver;;;nom
+Pirate;Cracker;;m;nom
+Pixel;Picture element (pel);;m;nom
+Pixel;Pixel (pel) [picture est souvent abrégé en pic ou en pix];;m;nom
+Placement;Placement;;m;nom
+Plage d’accueil;Mounting land;;;nom
+Plage d’accueil;Mounting pad;;;nom
+Plan de masse;Floorplan;;;nom
+Plateforme à haute altitude (PHA);High altitude platform (HAP);;;nom
+Plateforme à haute altitude (PHA);High altitude radio platform;;;nom
+Plateforme à haute altitude (PHA);Stratospheric platform;;;nom
+Plot de contact;Bump contact;;m;nom
+Plot;Bump contact;;m;nom
+Pointeur;Pointer;;m;nom
+Polarisation;Bias;;f;nom
+Polarisation;Biasing;;f;nom
+Polarisation d’une antenne;Polarisation;en_uk;;nom
+Polarisation d’une antenne;Polarization;en_us;;nom
+Police de caractères;Font;;f;nom
+Police;Font;;f;nom
+Pont;Bridge;;m;nom
+Ponteuse;Wire bonder;;f;nom
+Portail;Portal;;m;nom
+Porte;Gate;;f;nom
+Porteuse;Carrier;;f;nom
+Portier;Gatekeeper;;m;nom
+Poste téléphonique sans cordon;Cordless telephone;;;nom
+Présentation de la ligne appelante;Caller id;;;nom
+Présentation de la ligne appelante;Calling line identification presentation (CLIP);;;nom
+Présentation de la ligne obtenue;Connected line identification presentation (COLP);;;nom
+Prêt à l’emploi;Plug-and-play (pnp);;;locution adjective
+Processeur;Processor;;m;nom
+Processeur bicœur;Dual core;;m;nom
+Processeur bicœur;Dual core processor;;m;nom
+Bicœur;Dual core;;m;nom
+Bicœur;Dual core processor;;m;nom
+Processeur multicœur;Multicore;;;nom
+Processeur multicœur;Multicore processor;;;nom
+Processeur quadricœur;Quad core;;;nom
+Processeur quadricœur;Quad core processor;;;nom
+Processeur vectoriel;Array processor;;;nom
+Production participative;Crowdsourcing;;;nom
+Progiciel;Package;;m;nom
+Programmation par objets;Object-oriented programming;;;nom
+Protocole;Protocol;;m;nom
+Publication assistée par ordinateur (PAO);Desktop publishing;;;nom
+Publier;Post (to);;;verbe
+Puce;Chip;;f;nom
+Puce;Die;;f;nom
+Puce retournée;Flip-chip;;;nom
+Puce-système;System on chip (soc);;f;nom
+Quadruple service;Quadruple play;;;nom
+Quantité d’information;Information content;;;nom
+Raccourci au clavier;Hot key;;;nom
+Radiobalise;Radio beacon;;f;nom
+Radiocommande;Radio-control;;f;nom
+Radiodiffusion;Radio broadcasting;;f;nom
+Radiodiffusion de données de service (RDS);Radio data system (RDS);;;nom
+Radiodiffusion sonore;Sound broadcasting;;;nom
+Radiodiffusion visuelle;Television broadcasting;;;nom
+Radiogoniométrie;Radio direction finding;;f;nom
+Radiogoniométrie;Radiogoniometry;;f;nom
+Radioguidage;Radioguidance;;m;nom
+Radio-identifiant;Radio frequency identification tag;;m;nom
+Radio-identifiant;Rfid tag;;m;nom
+Radio-identifiant actif (RIDA);Active RFID tag;;;nom
+Radio-identifiant actif (RIDA);Active tag;;;nom
+Radio-identifiant passif (RIDP);Passive RFID tag;;;nom
+Radio-identifiant passif (RIDP);Passive tag;;;nom
+Radio-identifiant semi-actif (RIDSA);Bap tag;;;nom
+Radio-identifiant semi-actif (RIDSA);Battery-assisted passive tag;;;nom
+Radio-identifiant semi-actif (RIDSA);Semi-passive tag;;;nom
+Radio-identification (rid);Radio frequency identification (rfid);;f;nom
+Radio intelligente (RI);Cognitive radio;;;nom
+Radio logicielle (RL);Software-defined radio (SDR);;;nom
+Radio logicielle (RL);Software radio;;;nom
+Radiomessagerie bilatérale;Two-way messaging;;;nom
+Radiomessagerie bilatérale;Two- way paging;;;nom
+Radiomessagerie unilatérale;Display paging;;;nom
+Radio par fibre (RPF);Radio-on-fiber (ROF);;;nom
+Radio par fibre (RPF);Radio-over-fiber (ROF);;;nom
+Radio par fibre (RPF);Wireless-on-fiber;;;nom
+Rappel automatique;Automatic call-back (ACB);;;nom
+Rappel automatique;Completion of calls to busy subscribers (CCBS);;;nom
+Rappel d’enregistreur;Register recall;;;nom
+Rapport d’onde stationnaire (ROS);Standing wave ratio (SWR);;;nom
+Rapport d’onde stationnaire (ROS);Voltage standing wave ratio (VSWR);;;nom
+Réalité de synthèse;Virtual reality;;;nom
+Réamorcer;Reboot (to);;;verbe
+Recherche participative;Living lab;;;nom
+Recherche participative;Living laboratory;;;nom
+Recherche en texte intégral;Full-text search;;;nom
+Recherche individuelle;Pull technology;;;nom
+Réémetteur;Rebroadcast station;;m;nom
+Réémetteur;Relay station;;m;nom
+Réémetteur bouche-trou;Gap filler;;;nom
+Référentiel;Repository;;m;nom
+Refus de présentation de la ligne appelante;Calling line identification restriction (CLIR);;;nom
+Refus de présentation de la ligne obtenue;Connected line identification restriction (COLR);;;nom
+Registraire;Dns registrar;;m;nom
+Registraire;Domain name registrar;;m;nom
+Registraire;Registrar;;m;nom
+Réinitialiser;Reset (to);;;verbe
+Relais de trames;Frame relay;;;nom
+Relancer;Restart (to);;;verbe
+Relationnel, -elle;Relational;;;adjectif
+Renifleur;Sniffer;;m;nom
+Renvoi des appels en cas d’occupation;Call forwarding busy (CFB);;;nom
+Renvoi des appels en cas d’occupation;Call forward on busy (CFB);en_ca;;nom
+Renvoi des appels sans réponse;Call forwarding no reply (CFNR);;;nom
+Renvoi des appels sans réponse;Call forward-no answer;en_us;;nom
+Renvoi systématique des appels;Call forwarding unconditional (CFU);;;nom
+Répartition de l’usure;Wear leveling;en_us;;nom
+Répartition de l’usure;Wear levelling;en_uk;;nom
+Répertoire;Directory;;m;nom
+Répéteur;Repeater (sur câble);;m;nom
+Répéteur;Transponder (sur satellite);;m;nom
+Répondeur;Transponder;;m;nom
+Réseau;Array;;m;nom
+Réseau d’accès;Access network;;;nom
+Réseau d’accès;Local loop;;;nom
+Réseau de stockage;Storage area network (SAN);;;nom
+Réseau de télédistribution;Cabled distribution system;;;nom
+Réseau d’infrastructure;Core network;;;nom
+Réseau d’infrastructure;Infrastructure network;;;nom
+Réseau informatique;Computer network;;m;nom
+Réseau;Computer network;;m;nom
+Réseau local;Local area network (LAN);;;nom
+Réseau local d’entreprise (RLE);Local area network (LAN);;;nom
+Réseau local de raccordement;–;;;nom
+Réseau logique programmable;Programmable logic array (PLA);;;nom
+Réseau logique programmable;Programmable logic device (PLD);;;nom
+Réseau logique programmable par l’utilisateur;Field programmable logic array (FPLA);;;nom
+Réseau neuronal;Neural network;;;nom
+Réseau numérique à intégration de services (RNIS);Integrated services digital network (ISDN);;;nom
+Réseau prédiffusé;Gate array;;;nom
+Réseau privé virtuel (RPV);Virtual private network (VPN);;;nom
+Réseau radioélectrique à ressources partagées;Trunked system;;;nom
+Réseautique;Networking;;f;nom
+Réseautique domestique;Home networking;;;nom
+Restaurer;Reset (to);;;verbe
+Restaurer;Restore (to);;;verbe
+Retouche;Patch;;f;nom
+Rétroappel international;Call-back;;m;nom
+Rétroappel international;International call-back;;m;nom
+Rétroappel;Call-back;;m;nom
+Rétroappel;International call-back;;m;nom
+Rétro-ingénierie;Reverse engineering;;f;nom
+Rétrolien;Trackback;;m;nom
+Rétrolien;Trackback link;;m;nom
+Rétropublication;Reverse publishing;;f;nom
+Réutilisation de fréquence;Frequency re-use;;;nom
+Révision;Release;;f;nom
+Riper;Rip (to);;;verbe
+Robotique;Robotics;;f;nom
+Routage;Routing;;m;nom
+Routeur;Router;;m;nom
+Saisie de schéma;Schematic capture;;;nom
+Salle blanche;Clean room;;;nom
+Scanneur;Scanner;;m;nom
+Script;Macro;;m;nom
+Script;Macrocommand;;m;nom
+Script;Script;;m;nom
+Scrutation;Polling;;f;nom
+Secours (de);Back-up;;;locution adjective
+Secours (de);Backup;;;locution adjective
+Secours informatique;Back-up;;;nom
+Secours informatique;Backup;;;nom
+Sélection directe à l’arrivée (SDA);Direct dialing-in (DDI);en_us;;nom
+Sélection directe à l’arrivée (SDA);Direct dialling-in (DDI);en_uk;;nom
+Sélection directe à l’arrivée (SDA);Direct inward dialing (DID);en_us;;nom
+Séquence de test;Test pattern;;;nom
+Serveur;Server;;m;nom
+Serveur mandataire;Proxy;;;nom
+Serveur mandataire;Proxy server;;;nom
+Service de kiosque;Kiosk service;;;nom
+Service de kiosque;Premium rate service (PRS);;;nom
+Service de la toile;Web service;;;nom
+Service de libre appel;Freephone service;;;nom
+Service de libre appel;Toll;;;nom
+Service de messages multimédias;Multimedia message service (MMS);;;nom
+Service de messages multimédias;Multimedia messaging service (MMS);;;nom
+Service  de minimessages;Short message service (SMS);;;nom
+Service  de minimessages;Short message system (SMS);;;nom
+Service de recherche de personne;Paging service;;;nom
+Service des mobiles;Mobile service;;;nom
+Service gprs;General packet radio service (GPRS);;;nom
+Service support;Bearer service;;;nom
+Service unifié;Seamless service;;;nom
+Sexto;Sex message;;m;nom
+Sexto;Sex text;;m;nom
+Shannon;Shannon;;m;nom
+Signal analogique;Analog signal;en_us;;nom
+Signal analogique;Analogue signal;en_uk;;nom
+Signalisation d’usager à usager (SUU);User-to-user signaling (UUS);en_us;;nom
+Signalisation d’usager à usager (SUU);User-to-user signalling (UUS);en_uk;;nom
+Signal numérique;Digital signal;;;nom
+Signature de virus;Virus signature;;;nom
+Signet;Bookmark;;m;nom
+Silicium étiré;Strained silicon;;;nom
+Silicium sur isolant (SSI);Silicon on insulator (SOI);;;nom
+Simulateur analogique;Analog simulator;en_us;;nom
+Simulateur analogique;Analogue simulator;en_uk;;nom
+Simulateur logique;Logic simulator;;;nom
+Simulation;Simulation;;f;nom
+Site;Web site;;m;nom
+Site;Web-site;;m;nom
+Site;Website;;m;nom
+Société de conception;Design house;;;nom
+Souris;Mouse;;f;nom
+Sous-adressage;Sub-addressing (SUB);;m;nom
+Station de base;Base station;;;nom
+Station mobile;Mobile station;;;nom
+Station mobile de transmission par satellite (SMTS);Digital satellite news gathering (DNSG);;;nom
+Station pivot;Hub;;;nom
+Station pivot;Hub station;;;nom
+Station terrestre;Land station;;;nom
+Station terrienne dépendante;Land station;;;nom
+Substrat;Substrate;;m;nom
+Surbrillance;Brightening;;f;nom
+Surcadencer;Overclock (to);;;verbe
+Survol;Browsing;;m;nom
+Syndication;Syndication;;f;nom
+Système cellulaire;Cellular system;;;nom
+Système d’adressage par domaines;Domain name system (DNS);;;nom
+Système d’appel d’urgence;Ecall;;;nom
+Système de gestion de base de données (SGBD);Data base management system (DBMS);;;nom
+Système de gestion de base de données (SGBD);Database management system (DBMS);;;nom
+Système d’exploitation;Operating system;;;nom
+Système d’identification automatique;Automatic identification system (AIS);;;nom
+Système exclusif;Proprietary system;;;nom
+Système expert;Expert system;;;nom
+Système gsm;Global system for mobile communications (GSM);;;nom
+Système gsm du rail;Global system for mobile communications for railways;;;nom
+Système gsm du rail;Global system for mobile communications - railways (GSM-R);;;nom
+Système umts;Universal mobile telecommunication system (UMTS);;;nom
+Tablette;Pad;;f;nom
+Tablette;Tablet;;f;nom
+Tablette;Touch screen tablet;;f;nom
+Tableur;Spreadsheet;;m;nom
+Tableur;Spreadsheet programme;;m;nom
+Tableur;Spreadsheet software;;m;nom
+Tarif de règlement;Settlement rate;;;nom
+Tarif de répartition;Accounting rate;;;nom
+Tatouage numérique;Digital tattoo (marque);;;nom
+Tatouage numérique;Digital tattooing;;;nom
+Tatouage numérique;Watermark (marque);;;nom
+Tatouage numérique;Watermarking;;;nom
+Technique des courants porteurs en ligne;Powerline carrier (PLC);;;nom
+Technique des courants porteurs en ligne;Powerline communication (PLC);;;nom
+Technoloisir;Home entertainment;;m;nom
+Téléassistance;Hot line;;f;nom
+Téléassistance;Hotline;;f;nom
+Téléassistant, -e;Hot liner;;;nom
+Téléborne;Telepoint base station;;f;nom
+Téléchargement;Downloading (téléchargement à partir d’un autre ordinateur);;m;nom
+Téléchargement;Uploading (téléchargement vers un autre ordinateur);;m;nom
+Télécommunication personnelle universelle;Universal personal telecommunication (UPT);;;nom
+Téléconférence;Teleconferencing;;f;nom
+Télécopie;Facsimile;;f;nom
+Télécopie;Fax;;f;nom
+Télécopie;Telecopy;;f;nom
+Télécopie contrastée;Document facsimile telegraphy;;;nom
+Télécopie nuancée;Picture facsimile telegraphy;;;nom
+Télécopier;Fax (to);;;verbe
+Télécopieur;Facsimile equipment;;m;nom
+Télécopieur;Fax;;m;nom
+Télécopieur;Fax machine;;m;nom
+Télécopieur;Telecopier;;m;nom
+Téléécriture;Telewriting;;f;nom
+Téléimprimeur;Teleprinter;;m;nom
+Téléimprimeur;Teletypewriter;;m;nom
+Téléinformatique;Remote data processing;;f;nom
+Téléinformatique;Telecomputing;;f;nom
+Téléinformatique;Teleinformatics;;f;nom
+Télémaintenance;Remote maintenance;;f;nom
+Télématique;Telematics;;f;nom
+Télématique;Telematics;;f;nom
+Télémesure;Telemeasuring;;f;nom
+Télémesure;Telemetering;;f;nom
+Télémesure;Telemetry;;f;nom
+Télémétrie;Range finding;;f;nom
+Téléservice;Teleservice;;m;nom
+Télétexte;Broadcast videography;;m;nom
+Télétexte;Teletext;;m;nom
+Télétraitement;Teleprocessing;;m;nom
+Télétraitement par lots;Remote batch teleprocessing;;;nom
+Télévision à accès conditionnel;Conditional access television;;;nom
+Télévision à péage;Pay television;;;nom
+Télévision à péage;Subscription television;;;nom
+Télévision à péage;Toll television;;;nom
+Télévision de rattrapage;Catch-up television;;;nom
+Télévision de rattrapage;Catch-up TV;;;nom
+Télévision en ligne;Webtelevision;;;nom
+Télévision en ligne;Web TV;;;nom
+Témoin de connexion;Cookie;;m;nom
+Témoin;Cookie;;m;nom
+Temps réel;Real time;;;nom
+Terminal;Terminal;;m;nom
+Terminal de poche (TP);Pda phone;;;nom
+Terminal de poche (TP);Personal communicator;;;nom
+Terminal de poche (TP);Smartphone;;;nom
+Terminal de poche (TP);Wireless handheld device;;;nom
+Testabilité;Testability;;f;nom
+Test captcha ;Captcha;;;nom
+Test captcha ;Captcha test;;;nom
+Test captcha ;Completely automated public turing test to tell computers and humans apart;;;nom
+Test de performance;Benchmark;;;nom
+Test dynamique;Dynamic test;;;nom
+Testeur;Tester;;m;nom
+Test fonctionnel;Functional test;;;nom
+Test intégré;Built-in self test;;;nom
+Test statique;Static test;;;nom
+Test structurel;Structural test;;;nom
+Tête radio distante (TRD);Remote radio head (RRH);;;nom
+Textopornographie;Sexting;;f;nom
+Tirage;Hard copy;;m;nom
+Toile d’araignée mondiale (TAM);Web;;f;nom
+Toile d’araignée mondiale (TAM);World wide web (WWW);;f;nom
+Toile mondiale;Web;;f;nom
+Toile mondiale;World wide web (WWW);;f;nom
+Toile;Web;;f;nom
+Toile;World wide web (WWW);;f;nom
+Toile sémantique;Semantic web;;;nom
+Tolérance aux pannes;Fault tolerance;;;nom
+Tolérant aux pannes;Fault tolerant;;;nom
+Topologie;Layout;;f;nom
+Tout en ligne;Multiband;;;locution adjective
+Traducteur de test;Test postprocessor;;;nom
+Traitement automatique de données;Automatic data processing (ADP);;;nom
+Traitement de bout en bout (TTB);End-to-end processing;;;nom
+Traitement de bout en bout (TTB);Straight-through processing (STP);;;nom
+Traitement de texte;Text processing;;;nom
+Traitement de texte;Word processing;;;nom
+Traitement par lots;Batch processing;;;nom
+Trame;Frame;;f;nom
+Tranche;Slice;;f;nom
+Tranche;Wafer;;f;nom
+Transférer;Forward (to);;;verbe
+Transfert;Hand-off;;m;nom
+Transfert;Hand-over;;m;nom
+Transfert de communication;Call transfer;;;nom
+Transfert intercellulaire;Intercell hand- off;;;nom
+Transfert intercellulaire;Intercell hand-over;;;nom
+Transfert intracellulaire;Intracell hand-off;;;nom
+Transfert intracellulaire;Intracell hand-over;;;nom
+Transmission analogique;Analog transmission;en_us;;nom
+Transmission analogique;Analogue transmission;en_uk;;nom
+Transmission numérique;Digital transmission;;;nom
+Transport du numéro;Number porting;;;nom
+Triple service;Triple play;;;nom
+Trou de liaison;Via;;;nom
+Turbocode;Turbo code;;m;nom
+Tutoriel;Tutorial;;m;nom
+Ultralarge bande (ULB);Ultra wideband (UWB);;;locution adjective
+Unité arithmétique logique (UAL);Arithmetic logic unit (ALU);;;nom
+Unité de fabrication finale;Back-end;;;nom
+Unité de fabrication finale;Back- end line;;;nom
+Unité finale;Back-end;;;nom
+Unité finale;Back- end line;;;nom
+Unité de fabrication initiale;Front-end;;;nom
+Unité de fabrication initiale;Front-end line;;;nom
+Unité de stockage en réseau;Network attached storage (NAS);;;nom
+Usurpation d’adresse électronique;E-mail spoofing;;;nom
+Vecteur de test;Test vector;;;nom
+Veille automatique;Sigint;;;nom
+Veille automatique;Signal intelligence;;;nom
+Ver;Worm;;m;nom
+Vérificateur de prototype;Bench tester;;;nom
+Vérification de la conformité aux règles d’interconnexion;Electrical rule checking (ERC);;;nom
+Vérification des règles de conception (VRC);DRC/ERC;;;nom
+Vérification des règles de dessin (VRD);Design rule checking (DRC);;;nom
+Version;Release;;f;nom
+Vidéo;Video;;;nom
+Vidéo à la demande (VAD);Video on demand (VOD);;;nom
+Vidéo à la demande par abonnement (VADA);Subscription video on demand (SVOD);;;nom
+Vidéo à la demande en téléchargement définitif (VADTD);Electronic sell through (EST);;;nom
+Vad en téléchargement définitif;Electronic sell through (EST);;;nom
+Vidéofréquence;Videofrequency;;f;nom
+Vidéographie;Videography;;f;nom
+Vignette active;Web widget;;;nom
+Vignette active;Widget;;;nom
+Virus;Virus;;m;nom
+Visioconférence;Videoconference;;f;nom
+Visioconférence;Videophone conference;;f;nom
+Visionneur;Viewer;;m;nom
+Visiophone;Videophone;;m;nom
+Visiophone;Visual telephone;;m;nom
+Visiophonie;Videophony;;f;nom
+Visite;Tour;;f;nom
+Visite;Visit;;f;nom
+Visualiser;Display (to);;;verbe
+Voie de transmission;Channel;;;nom
+Voie de transmission;Transmission channel;;;nom
+Voix par le protocole de l’internet;Voice over internet protocol (VOIP);;;nom
+Zone d’accès sans fil;Hot spot;;;nom
+Zone ASFI;Hot spot;;;nom
